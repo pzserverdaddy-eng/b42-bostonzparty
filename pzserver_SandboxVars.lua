@@ -1327,11 +1327,6 @@ SandboxVars = {
         -- Min: 0.00 Max: 3.00 Default: 1.00
         SicknessSeverity = 1.0,
     },
-    MWPWeapons = {
-        SpawnRate = 3,
-        -- Min: 0.00 Max: 10.00 Default: 1.00
-        CustomSpawnMultiplier = 1.0,
-    },
     ammomakerOptions = {
         -- Min: 1 Max: 10 Default: 1
         CraftingSpeed = 1,
