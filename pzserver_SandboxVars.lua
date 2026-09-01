@@ -762,6 +762,43 @@ SandboxVars = {
     GeneratorTileRange = 20,
     -- How many levels both above and below a generator it can provide with electricity. Min: 1 Max: 15 Default: 3
     GeneratorVerticalPowerRange = 3,
+    BuildingCraftDivider4 = false,
+    MenuNotStayingOnTop = false,
+    BuildingCraftDisableMenu = false,
+    BuildingCraftDivider3 = false,
+    DisableBulbConversion = false,
+    BuildingCraftDivider0 = false,
+    IsDoorInvincible = false,
+    IsWallFenceInvincible = false,
+    IsAllTileInvincible = false,
+    BuildingCraftDivider1 = false,
+    IsCrateCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    CrateCustomizeSizeCapacity = 50,
+    IsLogsCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    LogsCustomizeSizeCapacity = 50,
+    IsMetalCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    MetalCustomizeSizeCapacity = 50,
+    IsFridgeCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    FridgeCustomizeSizeCapacity = 50,
+    -- Min: 0 Max: 5000 Default: 50
+    FreezerCustomizeSizeCapacity = 50,
+    IsAllCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    AllCustomizeSizeCapacity = 50,
+    BuildingCraftDivider2 = false,
+    BuildingCraftMaterialChange = true,
+    -- Min: 0 Max: 100 Default: 2
+    BuildingWallPaintConsumption = 2,
+    -- Min: 0 Max: 100 Default: 2
+    BuildingHightScrapMetalConsumption = 2,
+    -- Min: 0 Max: 100 Default: 0
+    BuildingGlassWallWindowGlassPanelConsumption = 0,
+    BuildingCraftDivider5 = false,
+    BuildingCraftMaterialFilter = "",
     Basement = {
         -- How frequently basements spawn at random locations. Default = Sometimes
         -- 1 = Never
@@ -1016,5 +1053,565 @@ SandboxVars = {
         Butchering = 1.0,
         -- Rate at which Glassmaking skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
         Glassmaking = 1.0,
+    },
+    RVAddon = {
+        CustomNormalVehicles = "",
+        CustomBusVehicles = "",
+        CustomSmallVehicles = "",
+        Custom3x2Caravan = "",
+        Custom3x6Caravan = "",
+        Custom3x7Empty = "",
+        Custom4x12colossal = "",
+    },
+    GWG = {
+        -- Min: 0 Max: 5 Default: 0
+        MultiplayerTick = 0,
+    },
+    HB = {
+        PermanentCasings = true,
+        -- Min: 0 Max: 5 Default: 0
+        MultiplayerTick = 0,
+        CustomIcons = true,
+        CasingSounds = true,
+    },
+    ZLR = {
+        Enabled = true,
+        ClearContainersBeforeFill = false,
+        IgnoreSafehouses = true,
+        -- Min: 50 Max: 20000 Default: 1000
+        SquaresPerTick = 1000,
+        -- Min: 1 Max: 50 Default: 3
+        ContainersPerTick = 3,
+        -- Min: 1 Max: 20 Default: 4
+        MaxActiveLootJobs = 4,
+        -- Min: -64 Max: 64 Default: -32
+        MinZ = -32,
+        -- Min: -64 Max: 64 Default: 32
+        MaxZ = 32,
+        -- Min: 1 Max: 3600 Default: 30
+        ZoneCheckIntervalSeconds = 30,
+        Debug = false,
+        -- Min: 1 Max: 100 Default: 25
+        ZombieSpawnPerSecond = 25,
+        -- Min: 1 Max: 20 Default: 1
+        ZombieMaxActiveJobs = 1,
+        -- Min: 50 Max: 5000 Default: 1000
+        ZombieSquaresPerTick = 1000,
+    },
+    MorePlushies = {
+        Loot = 3,
+        CommonPlushies = true,
+        -- Min: 1 Max: 100 Default: 50
+        CommonPlushiesRates = 50,
+        UncommonPlushies = true,
+        -- Min: 1 Max: 100 Default: 40
+        UncommonPlushiesRates = 40,
+        RarePlushies = true,
+        -- Min: 1 Max: 100 Default: 30
+        RarePlushiesRates = 30,
+        VeryRarePlushies = true,
+        -- Min: 1 Max: 100 Default: 15
+        VeryRarePlushiesRates = 15,
+        LocationsToy = true,
+        LocationsGeneral = true,
+        LocationsIncidental = true,
+    },
+    PropaneExchangeCabinet = {
+        Enabled = true,
+        -- Min: 0 Max: 100 Default: 50
+        SpawnChance = 50,
+        -- Min: 0 Max: 6 Default: 6
+        MaxTanks = 6,
+        -- Min: 0 Max: 100 Default: 55
+        FillWeightFull = 55,
+        -- Min: 0 Max: 100 Default: 15
+        FillWeightEmpty = 15,
+        -- Min: 0 Max: 100 Default: 25
+        MagazineChance = 25,
+        MagazineOnePerSave = true,
+        RemoveNewCabinets = false,
+    },
+    ProximityInventory = {
+        ZombieOnly = false,
+    },
+    ISA = {
+        ChargeFreq = 1,
+        DrainCalc = 2,
+        -- Min: 1 Max: 100 Default: 25
+        solarPanelEfficiency = 25,
+        -- Min: 0 Max: 1000 Default: 100
+        batteryDegradeChance = 100,
+        -- Min: 1 Max: 10000 Default: 100
+        DIYBatteryMultiplier = 100,
+        -- Min: 0 Max: 100 Default: 25
+        solarPanelWorldSpawns = 25,
+        BatteryBankSpawn = 3,
+        StashMode = 1,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMSolarPanels = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMBatteries = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMMisc = 1.0,
+        -- Min: 1 Max: 1440 Default: 10
+        ConnectPanelMin = 10,
+        enableExpandedRecipes = false,
+        -- Min: 1 Max: 20 Default: 10
+        BackupGeneratorRange = 10,
+    },
+    BFLightState = {
+        -- Min: 0.00 Max: 300.00 Default: 30.00
+        heartbeatSeconds = 30.0,
+    },
+    BFFloorLights = {
+        enabled = true,
+        -- Min: 0.10 Max: 1.00 Default: 0.25
+        radiusMult = 0.25,
+        weaponLights = true,
+        drainFuel = true,
+        directional = true,
+        debug = false,
+    },
+    ZombieVirusVaccineBETA = {
+        DebugMode = false,
+        EnableWorldLoot = true,
+        LootChemicals = 3,
+        ExpandChemicalsLoot = false,
+        EnableVehicleLoot = true,
+        EnableBagsLoot = true,
+        LootSyringes = 3,
+        LootEquipmentBooks = 3,
+        LootVirologyBooks = 3,
+        VirologyBooksSpawnMode = 2,
+        BloodAgingMode = true,
+        -- Min: 5 Max: 21 Default: 14
+        BloodAgingRadius = 14,
+        EnableWaterPurification = true,
+        -- Min: 5 Max: 21 Default: 5
+        WaterPurificationRadius = 5,
+        EnableLightPaints = true,
+        AllowWindowGlass = true,
+        AllowAutopsyOnGround = true,
+        -- Min: 800 Max: 1800 Default: 1200
+        AutopsySpeed = 1200,
+        -- Min: 2 Max: 72 Default: 12
+        AutopsyMaxHours = 12,
+        -- Min: 0 Max: 30 Default: 30
+        TicksDecreasedByPerkLv = 30,
+        TableSpeedBonus = 6,
+        -- Min: 0 Max: 15 Default: 15
+        AutopsyGroundXP = 15,
+        -- Min: 0 Max: 30 Default: 30
+        AutopsyTableXP = 30,
+        -- Min: 0 Max: 30 Default: 15
+        CollectPartXP = 15,
+        -- Min: 0 Max: 15 Default: 10
+        BrainHighOffset = 10,
+        -- Min: 0 Max: 30 Default: 10
+        HemophobicDebuff = 10,
+        AllowScalpelDegrade = false,
+        AllowSawDegrade = true,
+        StartingKit = true,
+    },
+    SkillRecoveryJournal = {
+        -- Min: 1 Max: 100 Default: 100
+        RecoveryPercentage = 100,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        TranscribeSpeed = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        ReadTimeSpeed = 1.0,
+        -- Min: 0.00 Max: 1.00 Default: 0.00
+        IlliterateSpeedMultiplier = 0.0,
+        RecoverProfessionAndTraitsBonuses = false,
+        TranscribeTVXP = false,
+        -- Min: -1 Max: 100 Default: 0
+        RecoverPassiveSkills = 0,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverPhysicalCategorySkills = -1,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverCombatSkills = -1,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverFirearmSkills = -1,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverCraftingSkills = -1,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverSurvivalistSkills = -1,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverFarmingCategorySkills = -1,
+        -- Min: -1 Max: 100 Default: 0
+        KillsTrack = 0,
+        RecoverRecipes = true,
+        RecoveryJournalUsed = false,
+        SecurityFeatures = 1,
+        CraftRecipeNeedLearn = false,
+        CraftRecipe = "",
+        ModDataTrack = "",
+    },
+    ArcadiaQOLSafehouse = {
+        ShowAllPlayersOnMiniMap = false,
+        FixMapAllKnownVisibility = true,
+        ShowDiscoveredMiniMap = true,
+        EnableMultiSafehouseMembers = true,
+        -- Min: 1 Max: 20 Default: 3
+        MaxOwnedSafehouses = 3,
+        AllowAdminSafehouseLimitOverride = true,
+        EnableSafehouseRespawnPicker = true,
+        EnableCustomClaimManagement = true,
+        EnableOfflineFactionAdds = true,
+        -- Min: 1 Max: 365 Default: 30
+        ClosedSafehouseRequestRetentionDays = 30,
+        KeyRingsNeverDrop = false,
+        RestoreB41AdminInstantTransfers = false,
+    },
+    BecomeDesensitized = {
+        -- Min: 1 Max: 10000 Default: 1000
+        MinimumZombieKills = 1000,
+        -- Min: 1 Max: 10000 Default: 2000
+        MaximumZombieKills = 2000,
+        ConsiderTraits = true,
+        ConsiderOccupations = true,
+    },
+    SleepWithFriends = {
+        RTorIG = 1,
+        -- Min: 0.00 Max: 100.00 Default: 2.00
+        SleepLength = 2.0,
+        -- Min: 0.00 Max: 100.00 Default: 2.00
+        EndurMulti = 2.0,
+        AutoWake = true,
+        -- Min: 0.01 Max: 10.00 Default: 1.00
+        AverageBedMulti = 1.0,
+        -- Min: 0.01 Max: 10.00 Default: 1.05
+        AverageBedPillowMulti = 1.05,
+        -- Min: 0.01 Max: 10.00 Default: 1.10
+        GoodBedMulti = 1.1,
+        -- Min: 0.01 Max: 10.00 Default: 1.15
+        GoodBedPillowMulti = 1.15,
+        -- Min: 0.01 Max: 10.00 Default: 0.90
+        BadBedMulti = 0.9,
+        -- Min: 0.01 Max: 10.00 Default: 0.95
+        BadBedPillowMulti = 0.95,
+        -- Min: 0.01 Max: 10.00 Default: 0.60
+        FloorMulti = 0.6,
+        -- Min: 0.01 Max: 10.00 Default: 0.75
+        FloorPillowMulti = 0.75,
+    },
+    STA_PryOpen = {
+        PryEnablePity = false,
+        -- Min: 0.01 Max: 1.00 Default: 0.25
+        PryChanceBase = 0.25,
+        PryEnableSoftMin = false,
+        -- Min: 0.00 Max: 1.00 Default: 0.50
+        PryBonusSoftMin = 0.5,
+        -- Min: 0.00 Max: 1.00 Default: 0.03
+        PryBonusSkillStrength = 0.03,
+        -- Min: 0.00 Max: 1.00 Default: 0.03
+        PryBonusSkillCarpentry = 0.03,
+        -- Min: 0.00 Max: 1.00 Default: 0.03
+        PryBonusSkillBlacksmith = 0.03,
+        -- Min: 0.00 Max: 1.00 Default: 0.03
+        PryBonusSkillMechanics = 0.03,
+        -- Min: 0.00 Max: 1.00 Default: 0.15
+        PryBonusTraitBurglar = 0.15,
+        -- Min: 0.00 Max: 5.00 Default: 0.20
+        PryBonusSkillNimble = 0.2,
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        PryBonusTraitDextrous = 1.0,
+        PryEnableBuilding = true,
+        -- Min: 0 Max: 10 Default: 3
+        PryLevelBuilding = 3,
+        -- Min: 0.01 Max: 5.00 Default: 1.00
+        PryChanceMultiplierBuilding = 1.0,
+        -- Min: 1 Max: 30 Default: 8
+        PryTimeBuilding = 8,
+        PryEnableWindow = true,
+        -- Min: 0 Max: 10 Default: 2
+        PryLevelWindow = 2,
+        -- Min: 0.01 Max: 5.00 Default: 1.10
+        PryChanceMultiplierWindow = 1.1,
+        -- Min: 1 Max: 30 Default: 6
+        PryTimeWindow = 6,
+        PryEnableGarage = true,
+        -- Min: 0 Max: 10 Default: 6
+        PryLevelGarage = 6,
+        -- Min: 0.01 Max: 5.00 Default: 0.85
+        PryChanceMultiplierGarage = 0.85,
+        -- Min: 1 Max: 30 Default: 10
+        PryTimeGarage = 10,
+        PryEnableSecure = true,
+        -- Min: 0 Max: 10 Default: 8
+        PryLevelSecure = 8,
+        -- Min: 0.01 Max: 5.00 Default: 0.80
+        PryChanceMultiplierSecure = 0.8,
+        -- Min: 1 Max: 30 Default: 14
+        PryTimeSecure = 14,
+        PryEnableVehicle = true,
+        -- Min: 0 Max: 10 Default: 3
+        PryLevelVehicle = 3,
+        -- Min: 0.01 Max: 5.00 Default: 1.00
+        PryChanceMultiplierVehicle = 1.0,
+        -- Min: 1 Max: 30 Default: 10
+        PryTimeVehicle = 10,
+        PryEnableTrunk = true,
+        -- Min: 0 Max: 10 Default: 2
+        PryLevelTrunk = 2,
+        -- Min: 0.01 Max: 5.00 Default: 1.05
+        PryChanceMultiplierTrunk = 1.05,
+        -- Min: 1 Max: 30 Default: 8
+        PryTimeTrunk = 8,
+        -- Min: 0.00 Max: 1.00 Default: 0.30
+        PryChanceBreakWindow = 0.3,
+        -- Min: 0.00 Max: 1.00 Default: 0.20
+        PryChanceBreakVehicleWindow = 0.2,
+        -- Min: 0.00 Max: 1.00 Default: 0.15
+        PryChanceBreakVehicleLock = 0.15,
+        -- Min: 0.00 Max: 1.00 Default: 0.08
+        PryChanceInjury = 0.08,
+        -- Min: 0.00 Max: 1.00 Default: 0.05
+        PryBonusTraitSkin = 0.05,
+        -- Min: 0.00 Max: 1.00 Default: 0.65
+        PryChanceInjurySeverity01 = 0.65,
+        -- Min: 0.00 Max: 1.00 Default: 0.30
+        PryChanceInjurySeverity02 = 0.3,
+        -- Min: 0.00 Max: 1.00 Default: 0.05
+        PryChanceInjurySeverity03 = 0.05,
+        -- Min: 5 Max: 100 Default: 15
+        PryNoiseRadius = 15,
+        -- Min: 0.00 Max: 10.00 Default: 0.50
+        PryBonusSkillSneak = 0.5,
+        PryEnableAlarmSuccess = false,
+        PryEnableAlarmForce = false,
+        -- Min: 0.00 Max: 1.00 Default: 0.12
+        PryChanceAlarm = 0.12,
+        -- Min: 0.00 Max: 1.00 Default: 0.01
+        PryBonusSkillElectricity = 0.01,
+        PryToolItemsList = "",
+        PryToolTagsList = "base:crowbar:1.0;",
+    },
+    ArcadiaRefillablePropaneTanks = {
+        -- Min: 100 Max: 100000 Default: 2000
+        Capacity = 2000,
+        InfinitePropane = false,
+        -- Min: 0.00 Max: 1.00 Default: 1.00
+        InitialFillMin = 1.0,
+        -- Min: 0.00 Max: 1.00 Default: 1.00
+        InitialFillMax = 1.0,
+        -- Min: 0 Max: 100 Default: 0
+        InitialEmptyChance = 0,
+    },
+    ExpandedMoodles = {
+        -- Min: 0.00 Max: 3.00 Default: 1.00
+        SicknessSeverity = 1.0,
+    },
+    ammomakerOptions = {
+        -- Min: 1 Max: 10 Default: 1
+        CraftingSpeed = 1,
+        -- Min: 1 Max: 100 Default: 10
+        NitreYield = 10,
+        -- Min: 1 Max: 5 Default: 1
+        BirdExYield = 1,
+        -- Min: 1 Max: 200 Default: 8
+        BirdExSpawnMin = 8,
+        -- Min: 1 Max: 200 Default: 24
+        BirdExSpawnMax = 24,
+        -- Min: 1 Max: 10 Default: 1
+        BirdFeatherSpawnMin = 1,
+        -- Min: 1 Max: 10 Default: 3
+        BirdFeatherSpawnMax = 3,
+        -- Min: 1 Max: 20 Default: 1
+        CasingsSpawnMin = 1,
+        -- Min: 1 Max: 20 Default: 3
+        CasingsSpawnMax = 3,
+        -- Min: 1 Max: 720 Default: 168
+        DroppedCasingsLifetime = 168,
+        -- Min: 10 Max: 100 Default: 10
+        ProduceAmmoBulkSize = 10,
+        DropCasingsReload = false,
+        CollectAdditionalSeeds = true,
+        AllowConvertRecipes = false,
+        ShowHiddenRecipes = false,
+        -- Min: 0.00 Max: 30.00 Default: 10.00
+        ChanceArmyStorageAmmunition = 10.0,
+        -- Min: 0.00 Max: 30.00 Default: 10.00
+        ChanceArmySurplusMisc = 10.0,
+        -- Min: 0.00 Max: 20.00 Default: 5.00
+        ChanceDrugLabGuns = 5.0,
+        -- Min: 0.00 Max: 20.00 Default: 4.00
+        ChanceFirearmWeapons = 4.0,
+        -- Min: 0.00 Max: 20.00 Default: 4.00
+        ChanceFirearmWeapons_Mid = 4.0,
+        -- Min: 0.00 Max: 20.00 Default: 4.00
+        ChanceFirearmWeapons_Late = 4.0,
+        -- Min: 0.00 Max: 20.00 Default: 10.00
+        ChanceGunStoreAmmunition = 10.0,
+        -- Min: 0.00 Max: 50.00 Default: 15.00
+        ChanceGunStoreMagsAmmo = 15.0,
+        -- Min: 0.00 Max: 20.00 Default: 5.00
+        ChanceGunStoreGuns = 5.0,
+        -- Min: 0.00 Max: 20.00 Default: 3.00
+        ChancePoliceStorageAmmunition = 3.0,
+        -- Min: 0.00 Max: 20.00 Default: 3.00
+        ChancePoliceStorageGuns = 3.0,
+        -- Min: 0.00 Max: 2.00 Default: 0.10
+        ChanceWardrobeRedneck = 0.1,
+        -- Min: 0.00 Max: 50.00 Default: 15.00
+        ChanceGunStorePistols = 15.0,
+        -- Min: 0.00 Max: 50.00 Default: 10.00
+        ChanceGunStoreRifles = 10.0,
+        -- Min: 0.00 Max: 50.00 Default: 10.00
+        ChanceGunStoreShotguns = 10.0,
+        -- Min: 0.00 Max: 10.00 Default: 5.00
+        ChanceHuntingLockers = 5.0,
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        ChanceArmyBunkerStorage = 1.0,
+        -- Min: 0.00 Max: 2.00 Default: 0.40
+        ChanceLockerArmyBedroomHome = 0.4,
+        -- Min: 0.00 Max: 50.00 Default: 35.00
+        ChancePoliceEvidence = 35.0,
+        -- Min: 0.00 Max: 5.00 Default: 0.50
+        ChanceBedroomDresserRedneck = 0.5,
+        -- Min: 0.00 Max: 10.00 Default: 4.00
+        ChanceDrugShackWeapons = 4.0,
+        -- Min: 0.00 Max: 8.00 Default: 4.00
+        ChanceGarageFirearms = 4.0,
+        -- Min: 0.00 Max: 2.00 Default: 0.03
+        ChanceBedroomSidetable = 0.03,
+        -- Min: 0.00 Max: 2.00 Default: 0.02
+        ChanceBedroomSidetableClassy = 0.02,
+        -- Min: 0.00 Max: 2.00 Default: 0.06
+        ChanceBedroomSidetableRedneck = 0.06,
+        -- Min: 0.00 Max: 2.00 Default: 0.04
+        ChanceDresserGeneric = 0.04,
+        -- Min: 0.00 Max: 10.00 Default: 5.00
+        ChancePlankStashGun = 5.0,
+        -- Min: 0.00 Max: 10.00 Default: 2.00
+        ChanceSecurityDesk = 2.0,
+        -- Min: 0.00 Max: 10.00 Default: 2.00
+        ChanceSecurityLockers = 2.0,
+        -- Min: 0.00 Max: 10.00 Default: 4.00
+        ChanceHunter = 4.0,
+        -- Min: 0.00 Max: 20.00 Default: 5.00
+        ChancePrisonArmoryShotguns = 5.0,
+    },
+    DAMN = {
+        AllowOinkerSpawns = true,
+        AllowGreatScottSpawns = false,
+        AllowMrBusSpawns = true,
+        AllowChonkerSpawns = true,
+        AllowCashcowSpawns = true,
+        AllowMcBoxySpawns = true,
+        AllowWreckyMcChevySpawns = true,
+        AllowPro440Spawns = true,
+        AllowDemonChildSpawns = false,
+        AllowEV6spawns = true,
+        AllowTBCspawns = true,
+        AllowUBCspawns = true,
+    },
+    AVCS = {
+        AllowFaction = true,
+        AllowSafehouse = true,
+        -- Min: 1 Max: 999 Default: 5
+        MaxVehicle = 5,
+        RequireTicket = true,
+        ReturnTicket = false,
+        ServerSideChecking = true,
+        -- Min: 1 Max: 999 Default: 240
+        ClaimTimeout = 240,
+        TrunkParts = "TrunkDoor;DoorRear",
+        RebuildDB = false,
+        -- Min: 1 Max: 60 Default: 2
+        VehicleCoordinateUpdateThrottle = 2,
+    },
+    FunctionalCarLift = {
+        -- Min: 0 Max: 5 Default: 1
+        Range = 1,
+        RequirePower = true,
+        ConvertVanilla = false,
+        RevertVanilla = false,
+    },
+    SVUC = {
+        -- Min: 10 Max: 50 Default: 15
+        timeLight = 15,
+        -- Min: 10 Max: 50 Default: 30
+        timeHeavy = 30,
+        -- Min: 10 Max: 50 Default: 45
+        timeReinforced = 45,
+        -- Min: 10 Max: 50 Default: 15
+        timeMods = 15,
+        -- Min: 10 Max: 50 Default: 15
+        timeWheels = 15,
+        -- Min: 50 Max: 80 Default: 80
+        protectionHealthTriger = 80,
+        -- Min: 1 Max: 10 Default: 5
+        protectionLightHealthDelta = 5,
+        -- Min: 1 Max: 10 Default: 4
+        protectionHeavyHealthDelta = 4,
+        -- Min: 1 Max: 10 Default: 3
+        protectionReinforcedHealthDelta = 3,
+        -- Min: 1 Max: 10 Default: 6
+        protectionBullbarSmallHealthDelta = 6,
+        -- Min: 1 Max: 10 Default: 5
+        protectionBullbarMediumHealthDelta = 5,
+        -- Min: 1 Max: 10 Default: 4
+        protectionBullbarLargeHealthDelta = 4,
+        -- Min: 1 Max: 10 Default: 3
+        protectionPlowHealthDelta = 3,
+        -- Min: 1 Max: 10 Default: 1
+        protectionWheelsHealthDelta = 1,
+        -- Min: 0 Max: 50 Default: 10
+        protectionEngineSmallPowerIncrease = 10,
+        -- Min: 0 Max: 50 Default: 20
+        protectionEngineMediumPowerIncrease = 20,
+        -- Min: 0 Max: 50 Default: 35
+        protectionEngineLargePowerIncrease = 35,
+        -- Min: 0 Max: 50 Default: 50
+        protectionEnginePipedPowerIncrease = 50,
+        -- Min: 0 Max: 50 Default: 15
+        protectionEngineSnorkelPowerIncrease = 15,
+        -- Min: 0 Max: 100 Default: 10
+        protectionLightGasUsage = 10,
+        -- Min: 0 Max: 100 Default: 20
+        protectionHeavyGasUsage = 20,
+        -- Min: 0 Max: 100 Default: 40
+        protectionReinforcedGasUsage = 40,
+        -- Min: 0 Max: 100 Default: 0
+        protectionModsGasUsage = 0,
+        -- Min: 0 Max: 100 Default: 1
+        protectionBullbarSmallGasUsage = 1,
+        -- Min: 0 Max: 100 Default: 5
+        protectionBullbarMediumGasUsage = 5,
+        -- Min: 0 Max: 100 Default: 10
+        protectionBullbarLargeGasUsage = 10,
+        -- Min: 0 Max: 100 Default: 20
+        protectionPlowGasUsage = 20,
+        -- Min: 0 Max: 100 Default: 2
+        protectionEngineSmallGasUsage = 2,
+        -- Min: 0 Max: 100 Default: 3
+        protectionEngineMediumGasUsage = 3,
+        -- Min: 0 Max: 100 Default: 4
+        protectionEngineLargeGasUsage = 4,
+        -- Min: 0 Max: 100 Default: 5
+        protectionEnginePipedGasUsage = 5,
+        -- Min: 0 Max: 100 Default: 1
+        protectionEngineSnorkelGasUsage = 1,
+    },
+    EasyEngineRepair = {
+        -- Min: 0.10 Max: 100.00 Default: 3.00
+        CondPerPartMult = 3.0,
+        -- Min: 1 Max: 100 Default: 3
+        CondPerPartMin = 3,
+        -- Min: 1 Max: 100 Default: 30
+        CondPerPartMax = 30,
+    },
+    ChoppedVehicleSalvage = {
+        -- Min: 0.50 Max: 10.00 Default: 2.00
+        SalvageDurationMultiplier = 2.0,
+        -- Min: -1 Max: 20 Default: 0
+        MinPartsDropped = 0,
+        -- Min: -1 Max: 20 Default: -1
+        MaxPartsDropped = -1,
+        -- Min: 0 Max: 10 Default: 3
+        MinWeldingLevel = 3,
+        -- Min: 0 Max: 10 Default: 0
+        MinMechanicsLevel = 0,
     },
 }
