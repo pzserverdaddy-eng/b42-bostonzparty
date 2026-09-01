@@ -1184,21 +1184,6 @@ SandboxVars = {
         AllowSawDegrade = true,
         StartingKit = true,
     },
-    PropaneExchangeCabinet = {
-        Enabled = true,
-        -- Min: 0 Max: 100 Default: 50
-        SpawnChance = 30,
-        -- Min: 0 Max: 6 Default: 6
-        MaxTanks = 6,
-        -- Min: 0 Max: 100 Default: 55
-        FillWeightFull = 55,
-        -- Min: 0 Max: 100 Default: 15
-        FillWeightEmpty = 15,
-        -- Min: 0 Max: 100 Default: 25
-        MagazineChance = 25,
-        MagazineOnePerSave = true,
-        RemoveNewCabinets = false,
-    },
     BecomeDesensitized = {
         -- Min: 1 Max: 10000 Default: 1000
         MinimumZombieKills = 1000,
@@ -1416,19 +1401,6 @@ SandboxVars = {
         ChanceHunter = 4.0,
         -- Min: 0.00 Max: 20.00 Default: 5.00
         ChancePrisonArmoryShotguns = 5.0,
-    },
-    TNFPOptions = {
-        -- Min: 0.10 Max: 10.00 Default: 1.00
-        VariableSpawnRateGunStores = 1.0,
-        -- Min: 0.10 Max: 10.00 Default: 1.00
-        VariableSpawnRateMilitary = 1.0,
-        -- Min: 0.10 Max: 10.00 Default: 1.00
-        VariableSpawnRatePolice = 1.0,
-        SpawnInMilitaryNATO = false,
-        -- Min: 0.10 Max: 10.00 Default: 1.00
-        VariableSpawnRateMilitaryNATO = 1.0,
-        -- Min: 0.10 Max: 2.00 Default: 1.00
-        VariableSpawnRateMG = 1.0,
     },
     DAMN = {
         AllowOinkerSpawns = true,
