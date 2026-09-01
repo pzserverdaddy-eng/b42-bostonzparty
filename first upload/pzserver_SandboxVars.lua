@@ -1185,7 +1185,6 @@ SandboxVars = {
         StartingKit = true,
     },
     PropaneExchangeCabinet = {
-        Enabled = true,
         -- Min: 0 Max: 100 Default: 50
         SpawnChance = 30,
         -- Min: 0 Max: 6 Default: 6
