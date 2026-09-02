@@ -1184,6 +1184,40 @@ SandboxVars = {
         AllowSawDegrade = true,
         StartingKit = true,
     },
+    SkillRecoveryJournal = {
+        -- Min: 1 Max: 100 Default: 100
+        RecoveryPercentage = 100,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        TranscribeSpeed = 2.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        ReadTimeSpeed = 2.0,
+        -- Min: 0.00 Max: 1.00 Default: 0.00
+        IlliterateSpeedMultiplier = 0.0,
+        RecoverProfessionAndTraitsBonuses = false,
+        TranscribeTVXP = false,
+        -- Min: -1 Max: 100 Default: 0
+        RecoverPassiveSkills = -1,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverPhysicalCategorySkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverCombatSkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverFirearmSkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverCraftingSkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverSurvivalistSkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverFarmingCategorySkills = 100,
+        -- Min: -1 Max: 100 Default: 0
+        KillsTrack = 100,
+        RecoverRecipes = true,
+        RecoveryJournalUsed = false,
+        SecurityFeatures = 1,
+        CraftRecipeNeedLearn = false,
+        CraftRecipe = "",
+        ModDataTrack = "",
+    },
     BecomeDesensitized = {
         -- Min: 1 Max: 10000 Default: 1000
         MinimumZombieKills = 1000,
@@ -1614,40 +1648,6 @@ SandboxVars = {
         KitchenUtensilsChance = 3,
         AlcoholChance = 3,
         ZombieLootSpawn = 3,
-    },
-    SkillRecoveryJournal = {
-        -- Min: 1 Max: 100 Default: 100
-        RecoveryPercentage = 100,
-        -- Min: 0.00 Max: 1000.00 Default: 1.00
-        TranscribeSpeed = 2.0,
-        -- Min: 0.00 Max: 1000.00 Default: 1.00
-        ReadTimeSpeed = 2.0,
-        -- Min: 0.00 Max: 1.00 Default: 0.00
-        IlliterateSpeedMultiplier = 0.0,
-        RecoverProfessionAndTraitsBonuses = false,
-        TranscribeTVXP = false,
-        -- Min: -1 Max: 100 Default: 0
-        RecoverPassiveSkills = -1,
-        -- Min: -1 Max: 100 Default: -1
-        RecoverPhysicalCategorySkills = 100,
-        -- Min: -1 Max: 100 Default: -1
-        RecoverCombatSkills = 100,
-        -- Min: -1 Max: 100 Default: -1
-        RecoverFirearmSkills = 100,
-        -- Min: -1 Max: 100 Default: -1
-        RecoverCraftingSkills = 100,
-        -- Min: -1 Max: 100 Default: -1
-        RecoverSurvivalistSkills = 100,
-        -- Min: -1 Max: 100 Default: -1
-        RecoverFarmingCategorySkills = 100,
-        -- Min: -1 Max: 100 Default: 0
-        KillsTrack = 100,
-        RecoverRecipes = true,
-        RecoveryJournalUsed = false,
-        SecurityFeatures = 1,
-        CraftRecipeNeedLearn = false,
-        CraftRecipe = "",
-        ModDataTrack = "",
     },
     ArcadiaQOLSafehouse = {
         ShowAllPlayersOnMiniMap = true,

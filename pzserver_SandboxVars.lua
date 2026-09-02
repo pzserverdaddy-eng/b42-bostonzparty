@@ -1,5 +1,3 @@
--- NEW --
-
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
@@ -289,9 +287,9 @@ SandboxVars = {
     -- 6 = No decay
     FridgeFactor = 3,
     -- When greater than 0, loot will not respawn in zones that have been visited within this number of in-game hours. Min: 0 Max: 2147483647 Default: 0
-    SeenHoursPreventLootRespawn = 0,
+    SeenHoursPreventLootRespawn = 1,
     -- When greater than 0, after X hours, all containers in towns and trailer parks in the world will respawn loot. To spawn loot a container must have been looted at least once. Loot respawn is not impacted by visibility or subsequent looting. Min: 0 Max: 2147483647 Default: 0
-    HoursForLootRespawn = 0,
+    HoursForLootRespawn = 1,
     -- Containers with a number of items greater, or equal to, this setting will not respawn. Min: 0 Max: 2147483647 Default: 5
     MaxItemsForLootRespawn = 20,
     -- Items will not respawn in buildings that players have barricaded or built in.
@@ -595,7 +593,7 @@ SandboxVars = {
     -- 4 = Normal
     -- 5 = Slow
     -- 6 = Very Slow
-    AnimalPregnancyTime = 2,
+    AnimalPregnancyTime = 3,
     -- Speed at which animals age. Default = Normal
     -- 1 = Ultra Fast
     -- 2 = Very Fast
@@ -726,9 +724,9 @@ SandboxVars = {
     -- The chance that any rural building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0.00 Max: 2.00 Default: 0.50
     RuralLooted = 0.0,
     -- The maximum loot that won't spawn when Days Until Maximum Diminished Loot is reached. Check the "Advanced" box below to use an exact percentage. Min: 0 Max: 100 Default: 20
-    MaximumDiminishedLoot = 20,
+    MaximumDiminishedLoot = 0,
     -- How long it takes for Maximum Diminished Loot Percentage to be reached. Min: 0 Max: 3650 Default: 3650
-    DaysUntilMaximumDiminishedLoot = 3650,
+    DaysUntilMaximumDiminishedLoot = 0,
     -- Functions as a multiplier when applying muscle strain from swinging weapons or carrying heavy loads. Min: 0.00 Max: 10.00 Default: 0.70
     MuscleStrainFactor = 0.2,
     -- Functions as a multiplier when applying discomfort from worn items. Min: 0.00 Max: 10.00 Default: 0.80
@@ -801,8 +799,8 @@ SandboxVars = {
     BuildingGlassWallWindowGlassPanelConsumption = 0,
     BuildingCraftDivider5 = false,
     BuildingCraftMaterialFilter = "",
-    VRO_EnableEngineRebuild = false,
-    VRO_UseVanillaFixingRecipes = false,
+    VRO_EnableEngineRebuild = true,
+    VRO_UseVanillaFixingRecipes = true,
     VRO_EnableFullVehicleSalvaging = true,
     Basement = {
         -- How frequently basements spawn at random locations. Default = Sometimes
@@ -845,7 +843,7 @@ SandboxVars = {
         -- 2 = Normal
         -- 3 = Fragile
         -- 4 = Random
-        Toughness = 4,
+        Toughness = 2,
         -- How the Knox Virus spreads. Default = Blood and Saliva
         -- 1 = Blood and Saliva
         -- 2 = Saliva Only
@@ -1091,9 +1089,9 @@ SandboxVars = {
     },
     VehicleClaimWG = {
         -- Min: 1 Max: 100 Default: 3
-        MaxClaims = 3,
+        MaxClaims = 5,
         -- Min: 0 Max: 365 Default: 14
-        InactivityDays = 14,
+        InactivityDays = 30,
         AdminUnclaimRoles = "admin",
     },
     CompanionDogs = {
@@ -1151,7 +1149,7 @@ SandboxVars = {
     },
     ZLR = {
         Enabled = true,
-        ClearContainersBeforeFill = false,
+        ClearContainersBeforeFill = true,
         IgnoreSafehouses = true,
         -- Min: 50 Max: 20000 Default: 1000
         SquaresPerTick = 1000,
@@ -1259,7 +1257,7 @@ SandboxVars = {
         -- Min: 0.00 Max: 100.00 Default: 1.00
         LRMMisc = 1.0,
         -- Min: 1 Max: 1440 Default: 10
-        ConnectPanelMin = 10,
+        ConnectPanelMin = 30,
         enableExpandedRecipes = false,
         -- Min: 1 Max: 20 Default: 10
         BackupGeneratorRange = 10,
@@ -1490,8 +1488,8 @@ SandboxVars = {
         PryNoiseRadius = 15,
         -- Min: 0.00 Max: 10.00 Default: 0.50
         PryBonusSkillSneak = 0.5,
-        PryEnableAlarmSuccess = false,
-        PryEnableAlarmForce = false,
+        PryEnableAlarmSuccess = true,
+        PryEnableAlarmForce = true,
         -- Min: 0.00 Max: 1.00 Default: 0.12
         PryChanceAlarm = 0.12,
         -- Min: 0.00 Max: 1.00 Default: 0.01
@@ -1502,7 +1500,7 @@ SandboxVars = {
     ArcadiaRefillablePropaneTanks = {
         -- Min: 100 Max: 100000 Default: 2000
         Capacity = 2000,
-        InfinitePropane = false,
+        InfinitePropane = true,
         -- Min: 0.00 Max: 1.00 Default: 1.00
         InitialFillMin = 1.0,
         -- Min: 0.00 Max: 1.00 Default: 1.00
@@ -1516,13 +1514,13 @@ SandboxVars = {
     },
     JeevesClaims = {
         -- Min: 1 Max: 5 Default: 3
-        MaxSafehouseClaims = 3,
+        MaxSafehouseClaims = 2,
         -- Min: 0 Max: 10 Default: 3
-        MaxVehicleClaims = 3,
+        MaxVehicleClaims = 5,
         -- Min: 0 Max: 365 Default: 0
         SafehouseExpirationDays = 0,
         -- Min: 0 Max: 365 Default: 14
-        VehicleExpirationDays = 14,
+        VehicleExpirationDays = 30,
         ClaimPaddingOptions = "0;2;4;6;8;10",
         -- Min: 0 Max: 200 Default: 50
         ProtectSpawnRadius = 50,
