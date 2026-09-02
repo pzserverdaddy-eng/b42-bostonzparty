@@ -1,4 +1,3 @@
--- NEW -- 
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
@@ -135,7 +134,7 @@ SandboxVars = {
     -- How long alarm batteries can last for after the power shuts off. Min: -1 Max: 2147483647 Default: 14
     AlarmDecayModifier = 14,
     -- Any food that can rot or spoil. Min: 0.00 Max: 4.00 Default: 0.80
-   FoodLootNew = 1.0,
+    FoodLootNew = 1.0,
     -- All other items that can be read, including books, fliers, and newspapers. Min: 0.00 Max: 4.00 Default: 0.60
     LiteratureLootNew = 1.0,
     -- Books that provide skill XP multipliers. Min: 0.00 Max: 4.00 Default: 0.60
@@ -800,6 +799,9 @@ SandboxVars = {
     BuildingGlassWallWindowGlassPanelConsumption = 0,
     BuildingCraftDivider5 = false,
     BuildingCraftMaterialFilter = "",
+    VRO_EnableEngineRebuild = false,
+    VRO_UseVanillaFixingRecipes = false,
+    VRO_EnableFullVehicleSalvaging = true,
     Basement = {
         -- How frequently basements spawn at random locations. Default = Sometimes
         -- 1 = Never
@@ -1054,6 +1056,16 @@ SandboxVars = {
         Butchering = 1.0,
         -- Rate at which Glassmaking skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
         Glassmaking = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Art = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Cleaning = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Dancing = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Meditation = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Music = 1.0,
     },
     RVAddon = {
         CustomNormalVehicles = "",
@@ -1074,6 +1086,66 @@ SandboxVars = {
         MultiplayerTick = 0,
         CustomIcons = true,
         CasingSounds = true,
+    },
+    VehicleClaimWG = {
+        -- Min: 1 Max: 100 Default: 3
+        MaxClaims = 3,
+        -- Min: 0 Max: 365 Default: 14
+        InactivityDays = 14,
+        AdminUnclaimRoles = "admin",
+    },
+    CompanionDogs = {
+        -- Min: 1 Max: 1000 Default: 100
+        TameThreshold = 100,
+        -- Min: 0 Max: 30 Default: 0
+        MaxCompanions = 0,
+        CombatEnabled = true,
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        DogDamageMultiplier = 1.0,
+        UpkeepEnabled = true,
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        NeedsRateMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 12.00
+        LoyaltyDecayPerDay = 12.0,
+        ProteinNeedEnabled = true,
+        -- Min: 6 Max: 168 Default: 72
+        ProteinHours = 72,
+        SentinelEnabled = true,
+        AutoProtectEnabled = true,
+        BondingEnabled = true,
+        RestedBuffEnabled = true,
+        -- Min: 0.50 Max: 24.00 Default: 2.00
+        RestedBuffHours = 2.0,
+        BreedMoodlesEnabled = true,
+        SkillsEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 0.50
+        SkillXPRate = 0.5,
+        HuntEnabled = true,
+        FarmCareEnabled = true,
+        TricksEnabled = true,
+        ObedienceFailure = true,
+        DogNoiseAttractsZombies = true,
+        ShowNameTags = true,
+        ShowMapMarker = true,
+        UrbanSpawnEnabled = true,
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        DogSpawnMultiplier = 1.0,
+        WildDogsInvincible = false,
+        CountDogKillsForPlayer = true,
+        DespawnOnOwnerOffline = true,
+        AllowDebugSpawn = true,
+        -- Min: 0 Max: 50 Default: 4
+        CargoCapacityBase = 4,
+        -- Min: 0 Max: 50 Default: 8
+        CargoCapacitySpan = 8,
+        BreedingEnabled = true,
+        -- Min: 1 Max: 60 Default: 4
+        GestationDays = 4,
+        -- Min: 1 Max: 365 Default: 90
+        MaturityDays = 90,
+        -- Min: 0.00 Max: 100.00 Default: 5.00
+        BreedChancePerDay = 5.0,
+        TripOverDogs = true,
     },
     ZLR = {
         Enabled = true,
@@ -1131,6 +1203,36 @@ SandboxVars = {
         MagazineChance = 25,
         MagazineOnePerSave = true,
         RemoveNewCabinets = false,
+    },
+    LBO = {
+        -- Min: 15.00 Max: 49.00 Default: 49.00
+        BagCapacity = 49.0,
+        -- Min: 0.90 Max: 0.99 Default: 0.99
+        BagRunSpeedModifier = 0.99,
+        -- Min: 50.00 Max: 99.00 Default: 99.00
+        BagWeightReduction = 99.0,
+        -- Min: 0.00 Max: 4.00 Default: 0.15
+        DropLBC = 0.15,
+        -- Min: 0.00 Max: 4.00 Default: 0.35
+        DropLBR = 0.35,
+        -- Min: 0.00 Max: 4.00 Default: 0.80
+        DropMLB = 0.8,
+        StartWithLBGrey = false,
+    },
+    LSO = {
+        -- Min: 15.00 Max: 49.00 Default: 49.00
+        BagCapacity = 49.0,
+        -- Min: 0.90 Max: 0.99 Default: 0.99
+        BagRunSpeedModifier = 0.99,
+        -- Min: 50.00 Max: 99.00 Default: 99.00
+        BagWeightReduction = 99.0,
+        -- Min: 0.00 Max: 4.00 Default: 0.15
+        DropLSC = 0.15,
+        -- Min: 0.00 Max: 4.00 Default: 0.35
+        DropLSR = 0.35,
+        -- Min: 0.00 Max: 4.00 Default: 0.80
+        DropMLS = 0.8,
+        StartWithLSGrey = false,
     },
     ProximityInventory = {
         ZombieOnly = false,
@@ -1248,21 +1350,28 @@ SandboxVars = {
         CraftRecipe = "",
         ModDataTrack = "",
     },
-    ArcadiaQOLSafehouse = {
-        ShowAllPlayersOnMiniMap = false,
-        FixMapAllKnownVisibility = true,
-        ShowDiscoveredMiniMap = true,
-        EnableMultiSafehouseMembers = true,
-        -- Min: 1 Max: 20 Default: 3
-        MaxOwnedSafehouses = 3,
-        AllowAdminSafehouseLimitOverride = true,
-        EnableSafehouseRespawnPicker = true,
-        EnableCustomClaimManagement = true,
-        EnableOfflineFactionAdds = true,
-        -- Min: 1 Max: 365 Default: 30
-        ClosedSafehouseRequestRetentionDays = 30,
-        KeyRingsNeverDrop = false,
-        RestoreB41AdminInstantTransfers = false,
+    HIC = {
+        Active = true,
+        MoodleActive = true,
+        -- Min: 0 Max: 100 Default: 15
+        MinimalCondition = 15,
+        -- Min: 1 Max: 10 Default: 2
+        Radius = 2,
+        -- Min: 1 Max: 10 Default: 1
+        SleepRadius = 1,
+        CheckForTraits = true,
+        -- Min: 0 Max: 100 Default: 60
+        TraitCoefficient = 60,
+        ZombieMemory = false,
+    },
+    GunsBlankets = {
+        DisablePatterns = false,
+        -- Min: 0 Max: 100 Default: 95
+        BlanketSpawnrate = 95,
+        -- Min: 0 Max: 100 Default: 40
+        patternSpawnrate = 40,
+        -- Min: 0 Max: 100 Default: 5
+        chanceOfNotCovering = 5,
     },
     BecomeDesensitized = {
         -- Min: 1 Max: 10000 Default: 1000
@@ -1403,6 +1512,125 @@ SandboxVars = {
         -- Min: 0.00 Max: 3.00 Default: 1.00
         SicknessSeverity = 1.0,
     },
+    JeevesClaims = {
+        -- Min: 1 Max: 5 Default: 3
+        MaxSafehouseClaims = 3,
+        -- Min: 0 Max: 10 Default: 3
+        MaxVehicleClaims = 3,
+        -- Min: 0 Max: 365 Default: 0
+        SafehouseExpirationDays = 0,
+        -- Min: 0 Max: 365 Default: 14
+        VehicleExpirationDays = 14,
+        ClaimPaddingOptions = "0;2;4;6;8;10",
+        -- Min: 0 Max: 200 Default: 50
+        ProtectSpawnRadius = 50,
+        ResidentialRequireLivingroom = true,
+        ResidentialRequireKitchen = true,
+        ResidentialRequireBedroom = true,
+        ResidentialRequireBathroom = false,
+        -- Min: 1 Max: 2 Default: 1
+        ResidentialMatchMode = 1,
+        GarageProximityEnabled = true,
+        -- Min: 0 Max: 30 Default: 15
+        GarageProximity = 15,
+        CustomClaimEnabled = true,
+        CustomClaimSizes = "10",
+        PlotClaimEnabled = false,
+        -- Min: 1 Max: 100 Default: 40
+        PlotClaimMaxSide = 40,
+        -- Min: 1 Max: 10000 Default: 1600
+        PlotClaimMaxArea = 1600,
+        -- Min: 1 Max: 100 Default: 1
+        PlotClaimMinSide = 1,
+        AnimalClaimEnabled = true,
+        LivestockClaimEnabled = true,
+        AnimalDamageProtection = true,
+        VehicleDamageProtection = true,
+        -- Min: 0 Max: 200 Default: 4
+        MaxAnimalClaims = 4,
+        -- Min: 0 Max: 365 Default: 14
+        AnimalExpirationDays = 14,
+        HorseClaimEnabled = true,
+        -- Min: 0 Max: 50 Default: 2
+        MaxHorseClaims = 2,
+        -- Min: 0 Max: 365 Default: 14
+        HorseExpirationDays = 14,
+        SafehouseKeysEnabled = true,
+        VehicleKeyCraftEnabled = true,
+        -- Min: 0 Max: 10 Default: 5
+        VehicleKeyCraftMechanics = 5,
+        -- Min: 0 Max: 10 Default: 2
+        VehicleKeyCraftElectrical = 2,
+        TrailerAutoKey = true,
+        -- Min: -1 Max: 30 Default: -1
+        ReclaimCooldownDays = -1,
+        AdminBypassCooldown = true,
+        RequireAddMemberConsent = true,
+        RespectPhunZones = true,
+        EnableRoleClaimLimits = false,
+        RoleLimit1_Role = "",
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit1_Safehouse = 3,
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit1_Vehicle = 3,
+        RoleLimit2_Role = "",
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit2_Safehouse = 3,
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit2_Vehicle = 3,
+        RoleLimit3_Role = "",
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit3_Safehouse = 3,
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit3_Vehicle = 3,
+        RoleLimit4_Role = "",
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit4_Safehouse = 3,
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit4_Vehicle = 3,
+        RoleLimit5_Role = "",
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit5_Safehouse = 3,
+        -- Min: 0 Max: 50 Default: 3
+        RoleLimit5_Vehicle = 3,
+    },
+    CHStatusHUD = {
+        RestrictStats = false,
+        AllowVerifyTool = false,
+        AllowHealth = true,
+        AllowFood = true,
+        AllowWater = true,
+        AllowRest = true,
+        AllowEndurance = true,
+        AllowFitness = true,
+        AllowStress = true,
+        AllowPanic = true,
+        AllowPain = true,
+        AllowUnhappy = true,
+        AllowBoredom = true,
+        AllowBodyTemp = true,
+        AllowAnger = true,
+        AllowMorale = true,
+        AllowNicotine = true,
+        AllowIdleness = true,
+        AllowSanity = true,
+        AllowHeatGen = true,
+        AllowWetness = true,
+        AllowDiscomfort = true,
+        AllowFoodSickness = true,
+        AllowPoison = true,
+        AllowSickness = true,
+        AllowInfection = true,
+        AllowFever = true,
+        AllowDrunk = true,
+        AllowCarry = true,
+        AllowBodyWeight = true,
+        AllowCalories = true,
+        AllowProteins = true,
+        AllowCarbs = true,
+        AllowLipids = true,
+        AllowThresholdTicks = true,
+    },
     ammomakerOptions = {
         -- Min: 1 Max: 10 Default: 1
         CraftingSpeed = 1,
@@ -1493,6 +1721,21 @@ SandboxVars = {
         -- Min: 0.00 Max: 20.00 Default: 5.00
         ChancePrisonArmoryShotguns = 5.0,
     },
+    SVRPClassicBows = {
+        -- Min: 0 Max: 100 Default: 100
+        RecoverMissedArrowsChance = 100,
+        -- Min: 0.00 Max: 10.00 Default: 1.00
+        AimingXPMultiplier = 1.0,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        DamageScale = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        SpawnRateMultiplier = 1.0,
+        RetroactiveSpawnBows = false,
+        -- Min: 0 Max: 10 Default: 0
+        FixedAimingLevel = 0,
+        OnlyRecoverFromCorpses = false,
+        DisableDebugLogging = true,
+    },
     DAMN = {
         AllowOinkerSpawns = true,
         AllowGreatScottSpawns = false,
@@ -1506,21 +1749,6 @@ SandboxVars = {
         AllowEV6spawns = true,
         AllowTBCspawns = true,
         AllowUBCspawns = true,
-    },
-    AVCS = {
-        AllowFaction = true,
-        AllowSafehouse = true,
-        -- Min: 1 Max: 999 Default: 5
-        MaxVehicle = 5,
-        RequireTicket = true,
-        ReturnTicket = false,
-        ServerSideChecking = true,
-        -- Min: 1 Max: 999 Default: 240
-        ClaimTimeout = 240,
-        TrunkParts = "TrunkDoor;DoorRear",
-        RebuildDB = false,
-        -- Min: 1 Max: 60 Default: 2
-        VehicleCoordinateUpdateThrottle = 2,
     },
     FunctionalCarLift = {
         -- Min: 0 Max: 5 Default: 1
@@ -1614,5 +1842,136 @@ SandboxVars = {
         MinWeldingLevel = 3,
         -- Min: 0 Max: 10 Default: 0
         MinMechanicsLevel = 0,
+    },
+    STA_EngineRebuild = {
+        -- Min: 0 Max: 6 Default: 2
+        MinMechanicsLevel = 2,
+        -- Min: 0 Max: 100 Default: 3
+        EnginePartsRequired = 3,
+        -- Min: 0 Max: 100 Default: 95
+        MinEngineCondition = 95,
+        EnableIncrementalIncrease = false,
+        -- Min: 0 Max: 100 Default: 10
+        EngineIncrementAmount = 10,
+    },
+    HorseMod = {
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        WalkSpeed = 1.0,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        GallopSpeed = 1.0,
+        -- Min: 0.10 Max: 2.00 Default: 1.00
+        StaminaMultiplier = 1.0,
+        RidingPainGrunt = true,
+    },
+    Text = {
+        DividerMusicNew = true,
+        DividerDancingNew = true,
+        DividerMeditationNew = true,
+        DividerHygiene = true,
+        DividerArt = true,
+        LSDividerOther = false,
+        DividerDebug = false,
+    },
+    LSAmbt = {
+        Toggle = true,
+        -- Min: 1 Max: 1000 Default: 36
+        Cooldown = 36,
+        -- Min: 1 Max: 100 Default: 1
+        MaxInProgress = 1,
+        -- Min: 1 Max: 100 Default: 3
+        MaxTotal = 3,
+        ResetException = false,
+        HideTips = false,
+    },
+    Music = {
+        StrengthMultiplier = 2,
+        ListeningStrengthMultiplier = 2,
+        LearningChance = 3,
+        Metabolics = 1,
+    },
+    Dancing = {
+        StrengthMultiplier = 2,
+    },
+    Meditation = {
+        StrengthMultiplier = 2,
+        MindfulnessDuration = 2,
+        -- Min: 0.00 Max: 10.00 Default: 2.00
+        HealFactor = 2.0,
+        EffectMultiplier = 2,
+        KeepBags = false,
+    },
+    LSMeditation = {
+        RemoveLevitation = false,
+    },
+    Yoga = {
+        StrengthMultiplier = 2,
+        Exhaustion = 3,
+        Embarrassment = 2,
+        AidObjects = true,
+        RequiresMat = false,
+        KeepBags = false,
+        FailChance = 4,
+        -- Min: 0.10 Max: 5.00 Default: 1.00
+        YogaXPMultiplier = 1.0,
+        -- Min: 0.10 Max: 5.00 Default: 1.00
+        FitnessXPMultiplier = 1.0,
+        -- Min: 0.10 Max: 5.00 Default: 1.00
+        NimbleXPMultiplier = 1.0,
+    },
+    LSHygiene = {
+        -- Min: 0.00 Max: 3.00 Default: 1.00
+        HygieneNeedMultiplier = 1.0,
+        -- Min: 0.00 Max: 3.00 Default: 1.00
+        BladderNeedMultiplier = 1.0,
+        HygieneNeedExpectationTime = 2,
+        CleansMakeup = true,
+        NotEmbarrassed = false,
+        ColdSeverity = 2,
+        -- Min: 0.00 Max: 3.00 Default: 0.00
+        ColdChanceMultiplier = 0.0,
+        -- Min: 1 Max: 100 Default: 10
+        OuthouseRange = 10,
+        CleaningExpectationTime = 2,
+        CleaningLitterChance = 3,
+    },
+    LSArt = {
+        -- Min: 0.10 Max: 3.00 Default: 1.00
+        GeneralBeautyMultiplier = 1.0,
+        BeautyOutdoors = false,
+        BeautyShowNegative = false,
+        BeautyNeedDecayRate = 3,
+        BeautyNeedStrength = 3,
+        -- Min: 0.10 Max: 4.00 Default: 1.00
+        ArtworkBeautyMultiplier = 1.0,
+    },
+    LS = {
+        DynamicTraits = false,
+        DynamicTraitsReverse = 1,
+        DividerServer = false,
+        ModdataUpdate = 1,
+        MoodUpdate = 1,
+    },
+    LSComfort = {
+        -- Min: 0.00 Max: 3.00 Default: 1.00
+        ComfortNeedMultiplier = 1.0,
+        ComfortPositive = false,
+        ComfortNoImpact = false,
+    },
+    Debug = {
+        MoodlePriority = false,
+        Expressions = false,
+        DanceAnim = false,
+        LSVerbose = false,
+    },
+    SapphCooking = {
+        NonPerishableChance = 3,
+        PerishableChance = 3,
+        SpicesSpawnChance = 3,
+        CannedSpawnChance = 3,
+        MagazineChance = 3,
+        MREChance = 3,
+        KitchenUtensilsChance = 3,
+        AlcoholChance = 3,
+        ZombieLootSpawn = 3,
     },
 }
