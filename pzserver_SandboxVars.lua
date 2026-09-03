@@ -1,5 +1,3 @@
--- NEW --
-
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
@@ -142,7 +140,7 @@ SandboxVars = {
     -- Books that provide skill XP multipliers. Min: 0.00 Max: 4.00 Default: 0.60
     SkillBookLoot = 1.0,
     -- Items that teach recipes. Min: 0.00 Max: 4.00 Default: 0.60
-   RecipeResourceLoot = 1.0,
+    RecipeResourceLoot = 1.0,
     -- Medicine, bandages and first aid tools. Min: 0.00 Max: 4.00 Default: 0.60
     MedicalLootNew = 1.0,
     -- Fishing Rods, Tents, camping gear etc. Min: 0.00 Max: 4.00 Default: 0.60
@@ -289,11 +287,11 @@ SandboxVars = {
     -- 6 = No decay
     FridgeFactor = 3,
     -- When greater than 0, loot will not respawn in zones that have been visited within this number of in-game hours. Min: 0 Max: 2147483647 Default: 0
-    SeenHoursPreventLootRespawn = 24,
+    SeenHoursPreventLootRespawn = 0,
     -- When greater than 0, after X hours, all containers in towns and trailer parks in the world will respawn loot. To spawn loot a container must have been looted at least once. Loot respawn is not impacted by visibility or subsequent looting. Min: 0 Max: 2147483647 Default: 0
-    HoursForLootRespawn = 24,
+    HoursForLootRespawn = 1,
     -- Containers with a number of items greater, or equal to, this setting will not respawn. Min: 0 Max: 2147483647 Default: 5
-    MaxItemsForLootRespawn = 20,
+    MaxItemsForLootRespawn = 0,
     -- Items will not respawn in buildings that players have barricaded or built in.
     ConstructionPreventsLootRespawn = true,
     -- A comma-separated list of item types that will be removed after HoursForWorldItemRemoval hours.
@@ -486,7 +484,7 @@ SandboxVars = {
     -- 3 = Low
     -- 4 = Normal
     -- 5 = High
-    CarSpawnRate = 4,
+    CarSpawnRate = 5,
     -- General engine loudness to zombies. Min: 0.00 Max: 100.00 Default: 1.00
     ZombieAttractionMultiplier = 1.0,
     -- Whether found vehicles are locked, need keys to start etc.
@@ -673,7 +671,7 @@ SandboxVars = {
     -- If true, you will be able to see any recipes that can be done with a station, even if you haven't learnt them yet.
     SeeNotLearntRecipe = true,
     -- If a building has more than this amount of rooms it will not be looted. Min: 0 Max: 200 Default: 50
-    MaximumLootedBuildingRooms = 50,
+    MaximumLootedBuildingRooms = 0,
     -- If poison can be added to food. Default = True
     -- 1 = True
     -- 2 = False
@@ -694,7 +692,7 @@ SandboxVars = {
     -- 5 = Very Abundant
     FishAbundance = 4,
     -- When a skill is at this level or above, television/VHS/other media  will not provide XP for it. Min: 0 Max: 10 Default: 3
- LevelForMediaXPCutoff = 10,
+    LevelForMediaXPCutoff = 10,
     -- When a skill is at this level or above, scrapping furniture does not provide XP for the relevant skill. Does not apply to Electrical. Min: 0 Max: 10 Default: 0
     LevelForDismantleXPCutoff = 10,
     -- Number of days before old blood splats are removed. Removal happens when map chunks are loaded. 0 means they will never disappear. Min: 0 Max: 365 Default: 0
@@ -720,15 +718,15 @@ SandboxVars = {
     -- The abundance of harvested crops. Min: 0.10 Max: 10.00 Default: 1.00
     FarmingAmountNew = 1.0,
     -- The chance that any building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0 Max: 200 Default: 25
-    MaximumLooted = 5,
+    MaximumLooted = 0,
     -- How long it takes for Maximum Looted Building Chance to be reached. Min: 0 Max: 3650 Default: 90
-    DaysUntilMaximumLooted = 3650,
+    DaysUntilMaximumLooted = 0,
     -- The chance that any rural building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0.00 Max: 2.00 Default: 0.50
     RuralLooted = 0.0,
     -- The maximum loot that won't spawn when Days Until Maximum Diminished Loot is reached. Check the "Advanced" box below to use an exact percentage. Min: 0 Max: 100 Default: 20
-    MaximumDiminishedLoot = 20,
+    MaximumDiminishedLoot = 0,
     -- How long it takes for Maximum Diminished Loot Percentage to be reached. Min: 0 Max: 3650 Default: 3650
-    DaysUntilMaximumDiminishedLoot = 3650,
+    DaysUntilMaximumDiminishedLoot = 0,
     -- Functions as a multiplier when applying muscle strain from swinging weapons or carrying heavy loads. Min: 0.00 Max: 10.00 Default: 0.70
     MuscleStrainFactor = 0.2,
     -- Functions as a multiplier when applying discomfort from worn items. Min: 0.00 Max: 10.00 Default: 0.80
@@ -1069,14 +1067,34 @@ SandboxVars = {
         -- Min: 0.00 Max: 1000.00 Default: 1.00
         Music = 1.0,
     },
-    RVAddon = {
-        CustomNormalVehicles = "",
-        CustomBusVehicles = "",
-        CustomSmallVehicles = "",
-        Custom3x2Caravan = "",
-        Custom3x6Caravan = "",
-        Custom3x7Empty = "",
-        Custom4x12colossal = "",
+    RVInterior = {
+        -- Min: 0 Max: 100 Default: 20
+        SafeZombieDistance = 20,
+        NotWhenChased = true,
+        ReturnPlayersToVehicleSeats = true,
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        PowerBankConsumptionMultiplier = 1.0,
+        SpawnStarterPowerBanks = true,
+        -- Min: 0 Max: 10 Default: 5
+        PowerBankElectricalSkill = 5,
+        -- Min: 0 Max: 10 Default: 4
+        PowerBankMetalworkingSkill = 4,
+        -- Min: 0 Max: 100 Default: 25
+        PowerBankMetalPlates = 25,
+        -- Min: 0 Max: 100 Default: 25
+        PowerBankElectricalWire = 25,
+        -- Min: 0 Max: 100 Default: 25
+        PowerBankWire = 25,
+        -- Min: 0 Max: 10 Default: 1
+        PowerBankRedLightBulbs = 1,
+        -- Min: 0 Max: 10 Default: 1
+        PowerBankGreenLightBulbs = 1,
+        -- Min: 0 Max: 25 Default: 4
+        PowerBankMetalBars = 4,
+        -- Min: 0 Max: 10 Default: 10
+        PowerBankTorchChargeUnits = 10,
+        -- Min: 1 Max: 3650 Default: 21
+        AbandonedInteriorRealDays = 21,
     },
     GWG = {
         -- Min: 0 Max: 5 Default: 0
@@ -1207,11 +1225,11 @@ SandboxVars = {
         -- Min: 50.00 Max: 99.00 Default: 99.00
         BagWeightReduction = 99.0,
         -- Min: 0.00 Max: 4.00 Default: 0.15
-        DropLBC = 0.00001,
+        DropLBC = 1.0E-5,
         -- Min: 0.00 Max: 4.00 Default: 0.35
-        DropLBR = 0.00005,
+        DropLBR = 5.0E-5,
         -- Min: 0.00 Max: 4.00 Default: 0.80
-        DropMLB = 0.00001,
+        DropMLB = 1.0E-5,
         StartWithLBGrey = false,
     },
     LSO = {
@@ -1222,11 +1240,11 @@ SandboxVars = {
         -- Min: 50.00 Max: 99.00 Default: 99.00
         BagWeightReduction = 95.0,
         -- Min: 0.00 Max: 4.00 Default: 0.15
-        DropLSC = 0.00001,
+        DropLSC = 1.0E-5,
         -- Min: 0.00 Max: 4.00 Default: 0.35
-        DropLSR = 0.00005,
+        DropLSR = 5.0E-5,
         -- Min: 0.00 Max: 4.00 Default: 0.80
-        DropMLS = 0.00001,
+        DropMLS = 1.0E-5,
         StartWithLSGrey = false,
     },
     ProximityInventory = {
@@ -1372,6 +1390,14 @@ SandboxVars = {
         -- Min: 0.00 Max: 5.00 Default: 1.00
         CatSpawnMultiplier = 1.0,
     },
+    Plumbing = {
+        -- Min: 0.00 Max: 0.10 Default: 0.01
+        PumpFilterUsage = 0.007,
+        -- Min: 0.00 Max: 0.01 Default: 0.00
+        PumpEfficiencyLoss = 0.0012,
+        -- Min: 6 Max: 96 Default: 12
+        PumpMaxWater = 12,
+    },
     BecomeDesensitized = {
         -- Min: 1 Max: 10000 Default: 1000
         MinimumZombieKills = 1000,
@@ -1511,10 +1537,6 @@ SandboxVars = {
         InitialFillMax = 1.0,
         -- Min: 0 Max: 100 Default: 0
         InitialEmptyChance = 0,
-    },
-    ExpandedMoodles = {
-        -- Min: 0.00 Max: 3.00 Default: 1.00
-        SicknessSeverity = 1.0,
     },
     JeevesClaims = {
         -- Min: 1 Max: 5 Default: 3
