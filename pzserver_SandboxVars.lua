@@ -1,3 +1,5 @@
+-- NEW --
+
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
@@ -140,7 +142,7 @@ SandboxVars = {
     -- Books that provide skill XP multipliers. Min: 0.00 Max: 4.00 Default: 0.60
     SkillBookLoot = 1.0,
     -- Items that teach recipes. Min: 0.00 Max: 4.00 Default: 0.60
-    RecipeResourceLoot = 1.0,
+   RecipeResourceLoot = 1.0,
     -- Medicine, bandages and first aid tools. Min: 0.00 Max: 4.00 Default: 0.60
     MedicalLootNew = 1.0,
     -- Fishing Rods, Tents, camping gear etc. Min: 0.00 Max: 4.00 Default: 0.60
@@ -287,9 +289,9 @@ SandboxVars = {
     -- 6 = No decay
     FridgeFactor = 3,
     -- When greater than 0, loot will not respawn in zones that have been visited within this number of in-game hours. Min: 0 Max: 2147483647 Default: 0
-    SeenHoursPreventLootRespawn = 1,
+    SeenHoursPreventLootRespawn = 24,
     -- When greater than 0, after X hours, all containers in towns and trailer parks in the world will respawn loot. To spawn loot a container must have been looted at least once. Loot respawn is not impacted by visibility or subsequent looting. Min: 0 Max: 2147483647 Default: 0
-    HoursForLootRespawn = 1,
+    HoursForLootRespawn = 24,
     -- Containers with a number of items greater, or equal to, this setting will not respawn. Min: 0 Max: 2147483647 Default: 5
     MaxItemsForLootRespawn = 20,
     -- Items will not respawn in buildings that players have barricaded or built in.
@@ -484,7 +486,7 @@ SandboxVars = {
     -- 3 = Low
     -- 4 = Normal
     -- 5 = High
-    CarSpawnRate = 5,
+    CarSpawnRate = 4,
     -- General engine loudness to zombies. Min: 0.00 Max: 100.00 Default: 1.00
     ZombieAttractionMultiplier = 1.0,
     -- Whether found vehicles are locked, need keys to start etc.
@@ -692,7 +694,7 @@ SandboxVars = {
     -- 5 = Very Abundant
     FishAbundance = 4,
     -- When a skill is at this level or above, television/VHS/other media  will not provide XP for it. Min: 0 Max: 10 Default: 3
-    LevelForMediaXPCutoff = 10,
+ LevelForMediaXPCutoff = 10,
     -- When a skill is at this level or above, scrapping furniture does not provide XP for the relevant skill. Does not apply to Electrical. Min: 0 Max: 10 Default: 0
     LevelForDismantleXPCutoff = 10,
     -- Number of days before old blood splats are removed. Removal happens when map chunks are loaded. 0 means they will never disappear. Min: 0 Max: 365 Default: 0
@@ -718,15 +720,15 @@ SandboxVars = {
     -- The abundance of harvested crops. Min: 0.10 Max: 10.00 Default: 1.00
     FarmingAmountNew = 1.0,
     -- The chance that any building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0 Max: 200 Default: 25
-    MaximumLooted = 0,
+    MaximumLooted = 5,
     -- How long it takes for Maximum Looted Building Chance to be reached. Min: 0 Max: 3650 Default: 90
-    DaysUntilMaximumLooted = 0,
+    DaysUntilMaximumLooted = 3650,
     -- The chance that any rural building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0.00 Max: 2.00 Default: 0.50
     RuralLooted = 0.0,
     -- The maximum loot that won't spawn when Days Until Maximum Diminished Loot is reached. Check the "Advanced" box below to use an exact percentage. Min: 0 Max: 100 Default: 20
-    MaximumDiminishedLoot = 0,
+    MaximumDiminishedLoot = 20,
     -- How long it takes for Maximum Diminished Loot Percentage to be reached. Min: 0 Max: 3650 Default: 3650
-    DaysUntilMaximumDiminishedLoot = 0,
+    DaysUntilMaximumDiminishedLoot = 3650,
     -- Functions as a multiplier when applying muscle strain from swinging weapons or carrying heavy loads. Min: 0.00 Max: 10.00 Default: 0.70
     MuscleStrainFactor = 0.2,
     -- Functions as a multiplier when applying discomfort from worn items. Min: 0.00 Max: 10.00 Default: 0.80
@@ -1087,13 +1089,6 @@ SandboxVars = {
         CustomIcons = true,
         CasingSounds = true,
     },
-    VehicleClaimWG = {
-        -- Min: 1 Max: 100 Default: 3
-        MaxClaims = 5,
-        -- Min: 0 Max: 365 Default: 14
-        InactivityDays = 30,
-        AdminUnclaimRoles = "admin",
-    },
     CompanionDogs = {
         -- Min: 1 Max: 1000 Default: 100
         TameThreshold = 100,
@@ -1149,7 +1144,7 @@ SandboxVars = {
     },
     ZLR = {
         Enabled = true,
-        ClearContainersBeforeFill = true,
+        ClearContainersBeforeFill = false,
         IgnoreSafehouses = true,
         -- Min: 50 Max: 20000 Default: 1000
         SquaresPerTick = 1000,
@@ -1208,30 +1203,30 @@ SandboxVars = {
         -- Min: 15.00 Max: 49.00 Default: 49.00
         BagCapacity = 49.0,
         -- Min: 0.90 Max: 0.99 Default: 0.99
-        BagRunSpeedModifier = 0.99,
+        BagRunSpeedModifier = 0.95,
         -- Min: 50.00 Max: 99.00 Default: 99.00
         BagWeightReduction = 99.0,
         -- Min: 0.00 Max: 4.00 Default: 0.15
-        DropLBC = 0.15,
+        DropLBC = 0.00001,
         -- Min: 0.00 Max: 4.00 Default: 0.35
-        DropLBR = 0.35,
+        DropLBR = 0.00005,
         -- Min: 0.00 Max: 4.00 Default: 0.80
-        DropMLB = 0.8,
+        DropMLB = 0.00001,
         StartWithLBGrey = false,
     },
     LSO = {
         -- Min: 15.00 Max: 49.00 Default: 49.00
-        BagCapacity = 49.0,
+        BagCapacity = 25.0,
         -- Min: 0.90 Max: 0.99 Default: 0.99
-        BagRunSpeedModifier = 0.99,
+        BagRunSpeedModifier = 0.95,
         -- Min: 50.00 Max: 99.00 Default: 99.00
-        BagWeightReduction = 99.0,
+        BagWeightReduction = 95.0,
         -- Min: 0.00 Max: 4.00 Default: 0.15
-        DropLSC = 0.15,
+        DropLSC = 0.00001,
         -- Min: 0.00 Max: 4.00 Default: 0.35
-        DropLSR = 0.35,
+        DropLSR = 0.00005,
         -- Min: 0.00 Max: 4.00 Default: 0.80
-        DropMLS = 0.8,
+        DropMLS = 0.00001,
         StartWithLSGrey = false,
     },
     ProximityInventory = {
@@ -1320,29 +1315,29 @@ SandboxVars = {
         -- Min: 1 Max: 100 Default: 100
         RecoveryPercentage = 100,
         -- Min: 0.00 Max: 1000.00 Default: 1.00
-        TranscribeSpeed = 1.0,
+        TranscribeSpeed = 2.0,
         -- Min: 0.00 Max: 1000.00 Default: 1.00
-        ReadTimeSpeed = 1.0,
+        ReadTimeSpeed = 2.0,
         -- Min: 0.00 Max: 1.00 Default: 0.00
         IlliterateSpeedMultiplier = 0.0,
         RecoverProfessionAndTraitsBonuses = false,
         TranscribeTVXP = false,
         -- Min: -1 Max: 100 Default: 0
-        RecoverPassiveSkills = 0,
+        RecoverPassiveSkills = -1,
         -- Min: -1 Max: 100 Default: -1
-        RecoverPhysicalCategorySkills = -1,
+        RecoverPhysicalCategorySkills = 100,
         -- Min: -1 Max: 100 Default: -1
-        RecoverCombatSkills = -1,
+        RecoverCombatSkills = 100,
         -- Min: -1 Max: 100 Default: -1
-        RecoverFirearmSkills = -1,
+        RecoverFirearmSkills = 100,
         -- Min: -1 Max: 100 Default: -1
-        RecoverCraftingSkills = -1,
+        RecoverCraftingSkills = 100,
         -- Min: -1 Max: 100 Default: -1
-        RecoverSurvivalistSkills = -1,
+        RecoverSurvivalistSkills = 100,
         -- Min: -1 Max: 100 Default: -1
-        RecoverFarmingCategorySkills = -1,
+        RecoverFarmingCategorySkills = 100,
         -- Min: -1 Max: 100 Default: 0
-        KillsTrack = 0,
+        KillsTrack = 100,
         RecoverRecipes = true,
         RecoveryJournalUsed = false,
         SecurityFeatures = 1,
@@ -1372,6 +1367,10 @@ SandboxVars = {
         patternSpawnrate = 40,
         -- Min: 0 Max: 100 Default: 5
         chanceOfNotCovering = 5,
+    },
+    CompanionCat = {
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        CatSpawnMultiplier = 1.0,
     },
     BecomeDesensitized = {
         -- Min: 1 Max: 10000 Default: 1000
@@ -1501,6 +1500,11 @@ SandboxVars = {
         -- Min: 100 Max: 100000 Default: 2000
         Capacity = 2000,
         InfinitePropane = true,
+        EnableFossoilDepots = true,
+        EnableGas2GoDepots = true,
+        EnableLanternBottles = true,
+        EnableWorkshopContainers = true,
+        EnableCompatiblePropaneItems = true,
         -- Min: 0.00 Max: 1.00 Default: 1.00
         InitialFillMin = 1.0,
         -- Min: 0.00 Max: 1.00 Default: 1.00
@@ -1514,13 +1518,13 @@ SandboxVars = {
     },
     JeevesClaims = {
         -- Min: 1 Max: 5 Default: 3
-        MaxSafehouseClaims = 2,
+        MaxSafehouseClaims = 3,
         -- Min: 0 Max: 10 Default: 3
-        MaxVehicleClaims = 5,
+        MaxVehicleClaims = 3,
         -- Min: 0 Max: 365 Default: 0
         SafehouseExpirationDays = 0,
         -- Min: 0 Max: 365 Default: 14
-        VehicleExpirationDays = 30,
+        VehicleExpirationDays = 14,
         ClaimPaddingOptions = "0;2;4;6;8;10",
         -- Min: 0 Max: 200 Default: 50
         ProtectSpawnRadius = 50,
@@ -1842,17 +1846,6 @@ SandboxVars = {
         MinWeldingLevel = 3,
         -- Min: 0 Max: 10 Default: 0
         MinMechanicsLevel = 0,
-    },
-    STA_EngineRebuild = {
-        -- Min: 0 Max: 6 Default: 2
-        MinMechanicsLevel = 2,
-        -- Min: 0 Max: 100 Default: 3
-        EnginePartsRequired = 3,
-        -- Min: 0 Max: 100 Default: 95
-        MinEngineCondition = 95,
-        EnableIncrementalIncrease = false,
-        -- Min: 0 Max: 100 Default: 10
-        EngineIncrementAmount = 10,
     },
     HorseMod = {
         -- Min: 0.10 Max: 10.00 Default: 1.00
