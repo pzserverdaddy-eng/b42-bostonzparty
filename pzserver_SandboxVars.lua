@@ -1,3 +1,6 @@
+-- new
+
+
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
@@ -291,7 +294,7 @@ SandboxVars = {
     -- When greater than 0, after X hours, all containers in towns and trailer parks in the world will respawn loot. To spawn loot a container must have been looted at least once. Loot respawn is not impacted by visibility or subsequent looting. Min: 0 Max: 2147483647 Default: 0
     HoursForLootRespawn = 1,
     -- Containers with a number of items greater, or equal to, this setting will not respawn. Min: 0 Max: 2147483647 Default: 5
-    MaxItemsForLootRespawn = 0,
+    MaxItemsForLootRespawn = 2147483647,
     -- Items will not respawn in buildings that players have barricaded or built in.
     ConstructionPreventsLootRespawn = true,
     -- A comma-separated list of item types that will be removed after HoursForWorldItemRemoval hours.
@@ -799,9 +802,6 @@ SandboxVars = {
     BuildingGlassWallWindowGlassPanelConsumption = 0,
     BuildingCraftDivider5 = false,
     BuildingCraftMaterialFilter = "",
-    VRO_EnableEngineRebuild = true,
-    VRO_UseVanillaFixingRecipes = true,
-    VRO_EnableFullVehicleSalvaging = true,
     Basement = {
         -- How frequently basements spawn at random locations. Default = Sometimes
         -- 1 = Never
@@ -1056,16 +1056,6 @@ SandboxVars = {
         Butchering = 1.0,
         -- Rate at which Glassmaking skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
         Glassmaking = 1.0,
-        -- Min: 0.00 Max: 1000.00 Default: 1.00
-        Art = 1.0,
-        -- Min: 0.00 Max: 1000.00 Default: 1.00
-        Cleaning = 1.0,
-        -- Min: 0.00 Max: 1000.00 Default: 1.00
-        Dancing = 1.0,
-        -- Min: 0.00 Max: 1000.00 Default: 1.00
-        Meditation = 1.0,
-        -- Min: 0.00 Max: 1000.00 Default: 1.00
-        Music = 1.0,
     },
     RVInterior = {
         -- Min: 0 Max: 100 Default: 20
@@ -1096,16 +1086,41 @@ SandboxVars = {
         -- Min: 1 Max: 3650 Default: 21
         AbandonedInteriorRealDays = 21,
     },
-    GWG = {
-        -- Min: 0 Max: 5 Default: 0
-        MultiplayerTick = 0,
-    },
-    HB = {
-        PermanentCasings = true,
-        -- Min: 0 Max: 5 Default: 0
-        MultiplayerTick = 0,
-        CustomIcons = true,
-        CasingSounds = true,
+    UsefulBarrels = {
+        DebugMode = false,
+        -- Min: 1 Max: 9999 Default: 400
+        BarrelCapacity = 400,
+        RequirePipeWrench = true,
+        RequireHoseForTake = true,
+        RequireFunnelForFill = false,
+        -- Min: 1.00 Max: 2.00 Default: 1.25
+        FunnelSpeedUpFillModifier = 1.25,
+        AllowIndustrial = true,
+        AllowFuel = true,
+        AllowHazardous = true,
+        AllowWater = true,
+        AllowAlcoholic = false,
+        AllowBeverage = false,
+        AllowMedical = false,
+        AllowColors = false,
+        AllowDyes = false,
+        AllowHairDyes = false,
+        AllowPaint = false,
+        AllowPoisons = false,
+        EnableGeneratorRefuel = true,
+        GeneratorRefuelRequiresHose = true,
+        EnableCarRefuel = true,
+        CarRefuelRequiresHose = true,
+        EnableFillBarrelFromVehicles = true,
+        FillBarrelFromVehiclesRequiresHose = true,
+        InitialFluid = true,
+        InitialFluidPool = "Acid Water TaintedWater Petrol Petrol Bleach PotentPoison",
+        -- Min: 0 Max: 9999 Default: 54
+        InitialFluidMaxAmount = 54,
+        -- Min: 0.00 Max: 100.00 Default: 25.00
+        InitialFluidSpawnChance = 25.0,
+        RequireWeldingMask = true,
+        RequireBlowTorch = true,
     },
     CompanionDogs = {
         -- Min: 1 Max: 1000 Default: 100
@@ -1252,6 +1267,184 @@ SandboxVars = {
         -- Min: 0.00 Max: 4.00 Default: 0.80
         DropMLS = 1.0E-5,
         StartWithLSGrey = false,
+    },
+    WorkingKnowledge = {
+        SpawnRate = 3,
+        -- Min: 0 Max: 500 Default: 50
+        XPGrant = 50,
+        ConsumeOnRead = false,
+    },
+    MissingSkillBooks = {
+        RunningEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        RunningSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        RunningXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 3.00
+        RunningXP2 = 3.0,
+        -- Min: 0.10 Max: 100.00 Default: 5.00
+        RunningXP3 = 5.0,
+        -- Min: 0.10 Max: 100.00 Default: 7.00
+        RunningXP4 = 7.0,
+        -- Min: 0.10 Max: 100.00 Default: 9.00
+        RunningXP5 = 9.0,
+        FitnessEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        FitnessSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.00
+        FitnessXP1 = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 2.00
+        FitnessXP2 = 2.0,
+        -- Min: 0.10 Max: 100.00 Default: 3.00
+        FitnessXP3 = 3.0,
+        -- Min: 0.10 Max: 100.00 Default: 4.00
+        FitnessXP4 = 4.0,
+        -- Min: 0.10 Max: 100.00 Default: 5.00
+        FitnessXP5 = 5.0,
+        StrengthEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        StrengthSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.00
+        StrengthXP1 = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 2.00
+        StrengthXP2 = 2.0,
+        -- Min: 0.10 Max: 100.00 Default: 3.00
+        StrengthXP3 = 3.0,
+        -- Min: 0.10 Max: 100.00 Default: 4.00
+        StrengthXP4 = 4.0,
+        -- Min: 0.10 Max: 100.00 Default: 5.00
+        StrengthXP5 = 5.0,
+        LightfootedEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        LightfootedSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        LightfootedXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 2.50
+        LightfootedXP2 = 2.5,
+        -- Min: 0.10 Max: 100.00 Default: 4.00
+        LightfootedXP3 = 4.0,
+        -- Min: 0.10 Max: 100.00 Default: 6.00
+        LightfootedXP4 = 6.0,
+        -- Min: 0.10 Max: 100.00 Default: 9.00
+        LightfootedXP5 = 9.0,
+        NimbleEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        NimbleSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        NimbleXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 3.00
+        NimbleXP2 = 3.0,
+        -- Min: 0.10 Max: 100.00 Default: 5.00
+        NimbleXP3 = 5.0,
+        -- Min: 0.10 Max: 100.00 Default: 7.00
+        NimbleXP4 = 7.0,
+        -- Min: 0.10 Max: 100.00 Default: 9.00
+        NimbleXP5 = 9.0,
+        SneakingEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        SneakingSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        SneakingXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 3.00
+        SneakingXP2 = 3.0,
+        -- Min: 0.10 Max: 100.00 Default: 5.00
+        SneakingXP3 = 5.0,
+        -- Min: 0.10 Max: 100.00 Default: 7.00
+        SneakingXP4 = 7.0,
+        -- Min: 0.10 Max: 100.00 Default: 9.00
+        SneakingXP5 = 9.0,
+        AxeEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        AxeSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        AxeXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 2.50
+        AxeXP2 = 2.5,
+        -- Min: 0.10 Max: 100.00 Default: 4.00
+        AxeXP3 = 4.0,
+        -- Min: 0.10 Max: 100.00 Default: 6.00
+        AxeXP4 = 6.0,
+        -- Min: 0.10 Max: 100.00 Default: 8.00
+        AxeXP5 = 8.0,
+        LongBluntEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        LongBluntSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        LongBluntXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 2.50
+        LongBluntXP2 = 2.5,
+        -- Min: 0.10 Max: 100.00 Default: 4.00
+        LongBluntXP3 = 4.0,
+        -- Min: 0.10 Max: 100.00 Default: 6.00
+        LongBluntXP4 = 6.0,
+        -- Min: 0.10 Max: 100.00 Default: 8.00
+        LongBluntXP5 = 8.0,
+        ShortBluntEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        ShortBluntSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        ShortBluntXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 2.50
+        ShortBluntXP2 = 2.5,
+        -- Min: 0.10 Max: 100.00 Default: 4.00
+        ShortBluntXP3 = 4.0,
+        -- Min: 0.10 Max: 100.00 Default: 6.00
+        ShortBluntXP4 = 6.0,
+        -- Min: 0.10 Max: 100.00 Default: 8.00
+        ShortBluntXP5 = 8.0,
+        ShortBladeEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        ShortBladeSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        ShortBladeXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 2.50
+        ShortBladeXP2 = 2.5,
+        -- Min: 0.10 Max: 100.00 Default: 4.00
+        ShortBladeXP3 = 4.0,
+        -- Min: 0.10 Max: 100.00 Default: 6.00
+        ShortBladeXP4 = 6.0,
+        -- Min: 0.10 Max: 100.00 Default: 8.00
+        ShortBladeXP5 = 8.0,
+        SpearEnabled = true,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        SpearSpawnMultiplier = 1.0,
+        -- Min: 0.10 Max: 100.00 Default: 1.50
+        SpearXP1 = 1.5,
+        -- Min: 0.10 Max: 100.00 Default: 2.50
+        SpearXP2 = 2.5,
+        -- Min: 0.10 Max: 100.00 Default: 4.00
+        SpearXP3 = 4.0,
+        -- Min: 0.10 Max: 100.00 Default: 6.00
+        SpearXP4 = 6.0,
+        -- Min: 0.10 Max: 100.00 Default: 8.00
+        SpearXP5 = 8.0,
+    },
+    ZombiesHaveSmokes = {
+        EnableSmokes = true,
+        EnablePack = true,
+        -- Min: 1 Max: 100 Default: 30
+        SmokesChance = 30,
+        -- Min: 1 Max: 100 Default: 15
+        PackChance = 15,
+        -- Min: 1 Max: 100 Default: 1
+        MinSmokes = 1,
+        -- Min: 1 Max: 100 Default: 3
+        MaxSmokes = 3,
+        EnableChewingTobacco = true,
+        -- Min: 1 Max: 100 Default: 2
+        ChewingTobaccoChance = 2,
+        EnableTobaccoPouch = true,
+        -- Min: 1 Max: 100 Default: 2
+        TobaccoPouchChance = 2,
+        EnableCarton = false,
+        -- Min: 1 Max: 100 Default: 1
+        CartonChance = 1,
+        EnableCigar = false,
+        -- Min: 1 Max: 100 Default: 2
+        CigarChance = 2,
+        EnableCigarillo = false,
+        -- Min: 1 Max: 100 Default: 3
+        CigarilloChance = 3,
     },
     ProximityInventory = {
         ZombieOnly = false,
@@ -1465,6 +1658,14 @@ SandboxVars = {
         BloodlustMoodleVisibilityHours = 6,
         SleepMoodle = true,
         InjuredBurns = true,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
+        InjuredWoundTimeMultiplier = 2.0,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
+        BrokenLegFractureTimeMultiplier = 2.0,
+        -- Min: 0.00 Max: 10.00 Default: 0.10
+        DeprivedUnhappinessPerMinute = 0.1,
+        -- Min: 0 Max: 100 Default: 50
+        DeprivedCapacityThresholdPercent = 50,
         -- Min: 0.00 Max: 10.00 Default: 0.80
         AntiGunAimingTimeMultiplier = 0.8,
         -- Min: 0 Max: 200 Default: 25
@@ -2199,6 +2400,8 @@ SandboxVars = {
     ammomakerOptions = {
         -- Min: 1 Max: 10 Default: 1
         CraftingSpeed = 1,
+        -- Min: 10 Max: 100 Default: 10
+        ProduceAmmoBulkSize = 10,
         -- Min: 1 Max: 100 Default: 10
         NitreYield = 10,
         -- Min: 1 Max: 5 Default: 1
@@ -2217,74 +2420,14 @@ SandboxVars = {
         CasingsSpawnMax = 3,
         -- Min: 1 Max: 720 Default: 168
         DroppedCasingsLifetime = 168,
-        -- Min: 10 Max: 100 Default: 10
-        ProduceAmmoBulkSize = 10,
         DropCasingsReload = false,
+        CasingModelsCalibre = true,
+        CasingIconsCalibre = true,
         CollectAdditionalSeeds = true,
         AllowConvertRecipes = false,
         ShowHiddenRecipes = false,
-        -- Min: 0.00 Max: 30.00 Default: 10.00
-        ChanceArmyStorageAmmunition = 10.0,
-        -- Min: 0.00 Max: 30.00 Default: 10.00
-        ChanceArmySurplusMisc = 10.0,
-        -- Min: 0.00 Max: 20.00 Default: 5.00
-        ChanceDrugLabGuns = 5.0,
-        -- Min: 0.00 Max: 20.00 Default: 4.00
-        ChanceFirearmWeapons = 4.0,
-        -- Min: 0.00 Max: 20.00 Default: 4.00
-        ChanceFirearmWeapons_Mid = 4.0,
-        -- Min: 0.00 Max: 20.00 Default: 4.00
-        ChanceFirearmWeapons_Late = 4.0,
-        -- Min: 0.00 Max: 20.00 Default: 10.00
-        ChanceGunStoreAmmunition = 10.0,
-        -- Min: 0.00 Max: 50.00 Default: 15.00
-        ChanceGunStoreMagsAmmo = 15.0,
-        -- Min: 0.00 Max: 20.00 Default: 5.00
-        ChanceGunStoreGuns = 5.0,
-        -- Min: 0.00 Max: 20.00 Default: 3.00
-        ChancePoliceStorageAmmunition = 3.0,
-        -- Min: 0.00 Max: 20.00 Default: 3.00
-        ChancePoliceStorageGuns = 3.0,
-        -- Min: 0.00 Max: 2.00 Default: 0.10
-        ChanceWardrobeRedneck = 0.1,
-        -- Min: 0.00 Max: 50.00 Default: 15.00
-        ChanceGunStorePistols = 15.0,
-        -- Min: 0.00 Max: 50.00 Default: 10.00
-        ChanceGunStoreRifles = 10.0,
-        -- Min: 0.00 Max: 50.00 Default: 10.00
-        ChanceGunStoreShotguns = 10.0,
-        -- Min: 0.00 Max: 10.00 Default: 5.00
-        ChanceHuntingLockers = 5.0,
-        -- Min: 0.00 Max: 5.00 Default: 1.00
-        ChanceArmyBunkerStorage = 1.0,
-        -- Min: 0.00 Max: 2.00 Default: 0.40
-        ChanceLockerArmyBedroomHome = 0.4,
-        -- Min: 0.00 Max: 50.00 Default: 35.00
-        ChancePoliceEvidence = 35.0,
-        -- Min: 0.00 Max: 5.00 Default: 0.50
-        ChanceBedroomDresserRedneck = 0.5,
-        -- Min: 0.00 Max: 10.00 Default: 4.00
-        ChanceDrugShackWeapons = 4.0,
-        -- Min: 0.00 Max: 8.00 Default: 4.00
-        ChanceGarageFirearms = 4.0,
-        -- Min: 0.00 Max: 2.00 Default: 0.03
-        ChanceBedroomSidetable = 0.03,
-        -- Min: 0.00 Max: 2.00 Default: 0.02
-        ChanceBedroomSidetableClassy = 0.02,
-        -- Min: 0.00 Max: 2.00 Default: 0.06
-        ChanceBedroomSidetableRedneck = 0.06,
-        -- Min: 0.00 Max: 2.00 Default: 0.04
-        ChanceDresserGeneric = 0.04,
-        -- Min: 0.00 Max: 10.00 Default: 5.00
-        ChancePlankStashGun = 5.0,
-        -- Min: 0.00 Max: 10.00 Default: 2.00
-        ChanceSecurityDesk = 2.0,
-        -- Min: 0.00 Max: 10.00 Default: 2.00
-        ChanceSecurityLockers = 2.0,
-        -- Min: 0.00 Max: 10.00 Default: 4.00
-        ChanceHunter = 4.0,
-        -- Min: 0.00 Max: 20.00 Default: 5.00
-        ChancePrisonArmoryShotguns = 5.0,
+        SpawnRecipeMagazines = true,
+        SpawnAmmoParts = true,
     },
     SVRPClassicBows = {
         -- Min: 0 Max: 100 Default: 100
@@ -2301,231 +2444,10 @@ SandboxVars = {
         OnlyRecoverFromCorpses = false,
         DisableDebugLogging = true,
     },
-    DAMN = {
-        AllowOinkerSpawns = true,
-        AllowGreatScottSpawns = false,
-        AllowMrBusSpawns = true,
-        AllowChonkerSpawns = true,
-        AllowCashcowSpawns = true,
-        AllowMcBoxySpawns = true,
-        AllowWreckyMcChevySpawns = true,
-        AllowPro440Spawns = true,
-        AllowDemonChildSpawns = false,
-        AllowEV6spawns = true,
-        AllowTBCspawns = true,
-        AllowUBCspawns = true,
-    },
-    FunctionalCarLift = {
-        -- Min: 0 Max: 5 Default: 1
-        Range = 1,
-        RequirePower = true,
-        ConvertVanilla = false,
-        RevertVanilla = false,
-    },
-    SVUC = {
-        -- Min: 10 Max: 50 Default: 15
-        timeLight = 15,
-        -- Min: 10 Max: 50 Default: 30
-        timeHeavy = 30,
-        -- Min: 10 Max: 50 Default: 45
-        timeReinforced = 45,
-        -- Min: 10 Max: 50 Default: 15
-        timeMods = 15,
-        -- Min: 10 Max: 50 Default: 15
-        timeWheels = 15,
-        -- Min: 50 Max: 80 Default: 80
-        protectionHealthTriger = 80,
-        -- Min: 1 Max: 10 Default: 5
-        protectionLightHealthDelta = 5,
-        -- Min: 1 Max: 10 Default: 4
-        protectionHeavyHealthDelta = 4,
-        -- Min: 1 Max: 10 Default: 3
-        protectionReinforcedHealthDelta = 3,
-        -- Min: 1 Max: 10 Default: 6
-        protectionBullbarSmallHealthDelta = 6,
-        -- Min: 1 Max: 10 Default: 5
-        protectionBullbarMediumHealthDelta = 5,
-        -- Min: 1 Max: 10 Default: 4
-        protectionBullbarLargeHealthDelta = 4,
-        -- Min: 1 Max: 10 Default: 3
-        protectionPlowHealthDelta = 3,
-        -- Min: 1 Max: 10 Default: 1
-        protectionWheelsHealthDelta = 1,
-        -- Min: 0 Max: 50 Default: 10
-        protectionEngineSmallPowerIncrease = 10,
-        -- Min: 0 Max: 50 Default: 20
-        protectionEngineMediumPowerIncrease = 20,
-        -- Min: 0 Max: 50 Default: 35
-        protectionEngineLargePowerIncrease = 35,
-        -- Min: 0 Max: 50 Default: 50
-        protectionEnginePipedPowerIncrease = 50,
-        -- Min: 0 Max: 50 Default: 15
-        protectionEngineSnorkelPowerIncrease = 15,
-        -- Min: 0 Max: 100 Default: 10
-        protectionLightGasUsage = 10,
-        -- Min: 0 Max: 100 Default: 20
-        protectionHeavyGasUsage = 20,
-        -- Min: 0 Max: 100 Default: 40
-        protectionReinforcedGasUsage = 40,
-        -- Min: 0 Max: 100 Default: 0
-        protectionModsGasUsage = 0,
-        -- Min: 0 Max: 100 Default: 1
-        protectionBullbarSmallGasUsage = 1,
-        -- Min: 0 Max: 100 Default: 5
-        protectionBullbarMediumGasUsage = 5,
-        -- Min: 0 Max: 100 Default: 10
-        protectionBullbarLargeGasUsage = 10,
-        -- Min: 0 Max: 100 Default: 20
-        protectionPlowGasUsage = 20,
-        -- Min: 0 Max: 100 Default: 2
-        protectionEngineSmallGasUsage = 2,
-        -- Min: 0 Max: 100 Default: 3
-        protectionEngineMediumGasUsage = 3,
-        -- Min: 0 Max: 100 Default: 4
-        protectionEngineLargeGasUsage = 4,
-        -- Min: 0 Max: 100 Default: 5
-        protectionEnginePipedGasUsage = 5,
-        -- Min: 0 Max: 100 Default: 1
-        protectionEngineSnorkelGasUsage = 1,
-    },
-    EasyEngineRepair = {
-        -- Min: 0.10 Max: 100.00 Default: 3.00
-        CondPerPartMult = 3.0,
-        -- Min: 1 Max: 100 Default: 3
-        CondPerPartMin = 3,
-        -- Min: 1 Max: 100 Default: 30
-        CondPerPartMax = 30,
-    },
-    ChoppedVehicleSalvage = {
-        -- Min: 0.50 Max: 10.00 Default: 2.00
-        SalvageDurationMultiplier = 2.0,
-        -- Min: -1 Max: 20 Default: 0
-        MinPartsDropped = 0,
-        -- Min: -1 Max: 20 Default: -1
-        MaxPartsDropped = -1,
-        -- Min: 0 Max: 10 Default: 3
-        MinWeldingLevel = 3,
-        -- Min: 0 Max: 10 Default: 0
-        MinMechanicsLevel = 0,
-    },
-    HorseMod = {
-        -- Min: 0.10 Max: 10.00 Default: 1.00
-        WalkSpeed = 1.0,
-        -- Min: 0.10 Max: 10.00 Default: 1.00
-        GallopSpeed = 1.0,
+    ElectricWeaponMalfunction = {
         -- Min: 0.10 Max: 2.00 Default: 1.00
-        StaminaMultiplier = 1.0,
-        RidingPainGrunt = true,
-    },
-    Text = {
-        DividerMusicNew = true,
-        DividerDancingNew = true,
-        DividerMeditationNew = true,
-        DividerHygiene = true,
-        DividerArt = true,
-        LSDividerOther = false,
-        DividerDebug = false,
-    },
-    LSAmbt = {
-        Toggle = true,
-        -- Min: 1 Max: 1000 Default: 36
-        Cooldown = 36,
-        -- Min: 1 Max: 100 Default: 1
-        MaxInProgress = 1,
-        -- Min: 1 Max: 100 Default: 3
-        MaxTotal = 3,
-        ResetException = false,
-        HideTips = false,
-    },
-    Music = {
-        StrengthMultiplier = 2,
-        ListeningStrengthMultiplier = 2,
-        LearningChance = 3,
-        Metabolics = 1,
-    },
-    Dancing = {
-        StrengthMultiplier = 2,
-    },
-    Meditation = {
-        StrengthMultiplier = 2,
-        MindfulnessDuration = 2,
-        -- Min: 0.00 Max: 10.00 Default: 2.00
-        HealFactor = 2.0,
-        EffectMultiplier = 2,
-        KeepBags = false,
-    },
-    LSMeditation = {
-        RemoveLevitation = false,
-    },
-    Yoga = {
-        StrengthMultiplier = 2,
-        Exhaustion = 3,
-        Embarrassment = 2,
-        AidObjects = true,
-        RequiresMat = false,
-        KeepBags = false,
-        FailChance = 4,
-        -- Min: 0.10 Max: 5.00 Default: 1.00
-        YogaXPMultiplier = 1.0,
-        -- Min: 0.10 Max: 5.00 Default: 1.00
-        FitnessXPMultiplier = 1.0,
-        -- Min: 0.10 Max: 5.00 Default: 1.00
-        NimbleXPMultiplier = 1.0,
-    },
-    LSHygiene = {
-        -- Min: 0.00 Max: 3.00 Default: 1.00
-        HygieneNeedMultiplier = 1.0,
-        -- Min: 0.00 Max: 3.00 Default: 1.00
-        BladderNeedMultiplier = 1.0,
-        HygieneNeedExpectationTime = 2,
-        CleansMakeup = true,
-        NotEmbarrassed = false,
-        ColdSeverity = 2,
-        -- Min: 0.00 Max: 3.00 Default: 0.00
-        ColdChanceMultiplier = 0.0,
-        -- Min: 1 Max: 100 Default: 10
-        OuthouseRange = 10,
-        CleaningExpectationTime = 2,
-        CleaningLitterChance = 3,
-    },
-    LSArt = {
-        -- Min: 0.10 Max: 3.00 Default: 1.00
-        GeneralBeautyMultiplier = 1.0,
-        BeautyOutdoors = false,
-        BeautyShowNegative = false,
-        BeautyNeedDecayRate = 3,
-        BeautyNeedStrength = 3,
-        -- Min: 0.10 Max: 4.00 Default: 1.00
-        ArtworkBeautyMultiplier = 1.0,
-    },
-    LS = {
-        DynamicTraits = false,
-        DynamicTraitsReverse = 1,
-        DividerServer = false,
-        ModdataUpdate = 1,
-        MoodUpdate = 1,
-    },
-    LSComfort = {
-        -- Min: 0.00 Max: 3.00 Default: 1.00
-        ComfortNeedMultiplier = 1.0,
-        ComfortPositive = false,
-        ComfortNoImpact = false,
-    },
-    Debug = {
-        MoodlePriority = false,
-        Expressions = false,
-        DanceAnim = false,
-        LSVerbose = false,
-    },
-    SapphCooking = {
-        NonPerishableChance = 3,
-        PerishableChance = 3,
-        SpicesSpawnChance = 3,
-        CannedSpawnChance = 3,
-        MagazineChance = 3,
-        MREChance = 3,
-        KitchenUtensilsChance = 3,
-        AlcoholChance = 3,
-        ZombieLootSpawn = 3,
+        MalfunctionFactor = 1.0,
+        -- Min: 0.10 Max: 2.00 Default: 1.00
+        PowerConsumptionFactor = 1.0,
     },
 }
