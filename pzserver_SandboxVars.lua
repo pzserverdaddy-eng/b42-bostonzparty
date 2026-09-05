@@ -277,7 +277,7 @@ SandboxVars = {
     -- 3 = Normal
     -- 4 = Slow
     -- 5 = Very Slow
-    FoodRotSpeed = 3,
+    FoodRotSpeed = 5,
     -- How effective a fridge will be at keeping food fresh for longer. Default = Normal
     -- 1 = Very Low
     -- 2 = Low
@@ -2296,7 +2296,7 @@ SandboxVars = {
         -- Min: 1 Max: 5 Default: 3
         MaxSafehouseClaims = 3,
         -- Min: 0 Max: 10 Default: 3
-        MaxVehicleClaims = 3,
+        MaxVehicleClaims = 5,
         -- Min: 0 Max: 365 Default: 0
         SafehouseExpirationDays = 0,
         -- Min: 0 Max: 365 Default: 14
