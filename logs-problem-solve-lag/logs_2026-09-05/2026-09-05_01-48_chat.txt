@@ -1,0 +1,122 @@
+[05-09-26 01:49:37.780][info] Start chat server initialization....
+[05-09-26 01:49:37.785][info] General chat has id = 0.
+[05-09-26 01:49:37.785][info] Say chat has id = 1.
+[05-09-26 01:49:37.785][info] Shout chat has id = 2.
+[05-09-26 01:49:37.785][info] Radio chat has id = 3.
+[05-09-26 01:49:37.785][info] Admin chat has id = 4.
+[05-09-26 01:49:37.785][info] Server chat has id = 5.
+[05-09-26 01:49:37.785][info] Chat server successfully initialized.
+[05-09-26 01:58:00.526][info] Player with id = '8' tries to connect.
+[05-09-26 01:58:00.526][info] Adding player '8' to chat server.
+[05-09-26 01:58:00.527][info] Player joined to default chats.
+[05-09-26 01:58:00.528][info] Player 8(8) joined to chat server successfully.
+[05-09-26 02:01:58.403][info] Player with id = '20' tries to connect.
+[05-09-26 02:01:58.403][info] Adding player '20' to chat server.
+[05-09-26 02:01:58.404][info] Player joined to default chats.
+[05-09-26 02:01:58.404][info] Player 20(20) joined to chat server successfully.
+[05-09-26 02:04:37.089][info] Player with id = '28' tries to connect.
+[05-09-26 02:04:37.089][info] Adding player '28' to chat server.
+[05-09-26 02:04:37.089][info] Player joined to default chats.
+[05-09-26 02:04:37.089][info] Player 28(28) joined to chat server successfully.
+[05-09-26 02:04:48.163][info] Player 28 disconnecting....
+[05-09-26 02:04:48.164][info] Disconnecting player 28 finished.
+[05-09-26 02:04:48.164][info] Player 28 disconnecting....
+[05-09-26 02:04:48.164][info] Disconnecting player 28 finished.
+[05-09-26 02:06:28.907][info] Player with id = '12' tries to connect.
+[05-09-26 02:06:28.907][info] Adding player '12' to chat server.
+[05-09-26 02:06:28.907][info] Player joined to default chats.
+[05-09-26 02:06:28.908][info] Player 12(12) joined to chat server successfully.
+[05-09-26 02:07:34.057][info] Player with id = '28' tries to connect.
+[05-09-26 02:07:34.059][info] Adding player '28' to chat server.
+[05-09-26 02:07:34.059][info] Player joined to default chats.
+[05-09-26 02:07:34.059][info] Player 28(28) joined to chat server successfully.
+[05-09-26 02:07:45.855][info] Player 28 disconnecting....
+[05-09-26 02:07:45.855][info] Disconnecting player 28 finished.
+[05-09-26 02:07:45.855][info] Player 28 disconnecting....
+[05-09-26 02:07:45.855][info] Disconnecting player 28 finished.
+[05-09-26 02:08:06.387][info] Player with id = '16' tries to connect.
+[05-09-26 02:08:06.387][info] Adding player '16' to chat server.
+[05-09-26 02:08:06.387][info] Player joined to default chats.
+[05-09-26 02:08:06.387][info] Player 16(16) joined to chat server successfully.
+[05-09-26 02:09:37.990][info] Got message:ChatMessage{chat=General, author='Freya', text='here we go'}.
+[05-09-26 02:09:37.990][info] Message ChatMessage{chat=General, author='Freya', text='here we go'} sent to chat (id = 0) members.
+[05-09-26 02:10:02.647][info] Player with id = '4' tries to connect.
+[05-09-26 02:10:02.647][info] Adding player '4' to chat server.
+[05-09-26 02:10:02.647][info] Player joined to default chats.
+[05-09-26 02:10:02.647][info] Player 4(4) joined to chat server successfully.
+[05-09-26 02:11:04.968][info] Player with id = '28' tries to connect.
+[05-09-26 02:11:04.968][info] Adding player '28' to chat server.
+[05-09-26 02:11:04.968][info] Player joined to default chats.
+[05-09-26 02:11:04.968][info] Player 28(28) joined to chat server successfully.
+[05-09-26 02:15:43.219][info] Got message:ChatMessage{chat=General, author='Sledge40', text='any1 having lag moving items?'}.
+[05-09-26 02:15:43.219][info] Message ChatMessage{chat=General, author='Sledge40', text='any1 having lag moving items?'} sent to chat (id = 0) members.
+[05-09-26 02:16:00.335][info] Player with id = '24' tries to connect.
+[05-09-26 02:16:00.335][info] Adding player '24' to chat server.
+[05-09-26 02:16:00.335][info] Player joined to default chats.
+[05-09-26 02:16:00.335][info] Player 24(24) joined to chat server successfully.
+[05-09-26 02:16:53.037][info] Got message:ChatMessage{chat=General, author='Freya', text='same'}.
+[05-09-26 02:16:53.038][info] Message ChatMessage{chat=General, author='Freya', text='same'} sent to chat (id = 0) members.
+[05-09-26 02:17:30.523][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='yes'}.
+[05-09-26 02:17:30.523][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='yes'} sent to chat (id = 0) members.
+[05-09-26 02:20:23.051][info] Player with id = '0' tries to connect.
+[05-09-26 02:20:23.051][info] Adding player '0' to chat server.
+[05-09-26 02:20:23.052][info] Player joined to default chats.
+[05-09-26 02:20:23.052][info] Player 0(0) joined to chat server successfully.
+[05-09-26 02:21:33.075][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[05-09-26 02:21:33.075][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[05-09-26 02:23:21.094][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='awwww, cute calico kitty'}.
+[05-09-26 02:23:21.094][info] Message ChatMessage{chat=General, author='Blinkdog81', text='awwww, cute calico kitty'} sent to chat (id = 0) members.
+[05-09-26 02:24:22.928][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Mostly white?'}.
+[05-09-26 02:24:22.928][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Mostly white?'} sent to chat (id = 0) members.
+[05-09-26 02:24:37.253][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='patchy all over, balanecd'}.
+[05-09-26 02:24:37.254][info] Message ChatMessage{chat=General, author='Blinkdog81', text='patchy all over, balanecd'} sent to chat (id = 0) members.
+[05-09-26 02:24:43.014][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='anyone having trouble putting things in containers? or is it just because my hands are baadly wounded? lol'}.
+[05-09-26 02:24:43.014][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='anyone having trouble putting things in containers? or is it just because my hands are baadly wounded? lol'} sent to chat (id = 1) members.
+[05-09-26 02:24:49.001][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='anyone having trouble putting things in containers? or is it just because my hands are baadly wounded? lol'}.
+[05-09-26 02:24:49.002][info] Message ChatMessage{chat=General, author='ServerDaddy', text='anyone having trouble putting things in containers? or is it just because my hands are baadly wounded? lol'} sent to chat (id = 0) members.
+[05-09-26 02:24:58.936][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='It's very laggy'}.
+[05-09-26 02:24:58.936][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='It's very laggy'} sent to chat (id = 0) members.
+[05-09-26 02:25:03.943][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='black walls when driving'}.
+[05-09-26 02:25:03.943][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='black walls when driving'} sent to chat (id = 0) members.
+[05-09-26 02:25:12.175][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='not sure but having so many black walls im gonna get killed haha'}.
+[05-09-26 02:25:12.175][info] Message ChatMessage{chat=General, author='Legofanhead', text='not sure but having so many black walls im gonna get killed haha'} sent to chat (id = 0) members.
+[05-09-26 02:25:26.459][info] Got message:ChatMessage{chat=General, author='Freya', text='same many black walls'}.
+[05-09-26 02:25:26.459][info] Message ChatMessage{chat=General, author='Freya', text='same many black walls'} sent to chat (id = 0) members.
+[05-09-26 02:25:26.466][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='if you can when that happens, drive the other way to see if it keeps happening or if it's just the inital load of the map'}.
+[05-09-26 02:25:26.466][info] Message ChatMessage{chat=General, author='ServerDaddy', text='if you can when that happens, drive the other way to see if it keeps happening or if it's just the inital load of the map'} sent to chat (id = 0) members.
+[05-09-26 02:25:40.092][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='it will prob be laggy while we explore all the areas for the first time all at once'}.
+[05-09-26 02:25:40.092][info] Message ChatMessage{chat=General, author='ServerDaddy', text='it will prob be laggy while we explore all the areas for the first time all at once'} sent to chat (id = 0) members.
+[05-09-26 02:25:49.248][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='problem'}.
+[05-09-26 02:25:49.248][info] Message ChatMessage{chat=General, author='Legofanhead', text='problem'} sent to chat (id = 0) members.
+[05-09-26 02:25:55.425][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='putting in discord'}.
+[05-09-26 02:25:55.425][info] Message ChatMessage{chat=General, author='Legofanhead', text='putting in discord'} sent to chat (id = 0) members.
+[05-09-26 02:26:13.139][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='It's laggy in even places i was just walking'}.
+[05-09-26 02:26:13.139][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='It's laggy in even places i was just walking'} sent to chat (id = 0) members.
+[05-09-26 02:26:55.129][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='cant use rv interiors right now'}.
+[05-09-26 02:26:55.129][info] Message ChatMessage{chat=General, author='Legofanhead', text='cant use rv interiors right now'} sent to chat (id = 0) members.
+[05-09-26 02:27:13.026][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='if the tent mod is still in it might be conflicting?'}.
+[05-09-26 02:27:13.026][info] Message ChatMessage{chat=General, author='Legofanhead', text='if the tent mod is still in it might be conflicting?'} sent to chat (id = 0) members.
+[05-09-26 02:27:28.281][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='quick restart people'}.
+[05-09-26 02:27:28.281][info] Message ChatMessage{chat=General, author='ServerDaddy', text='quick restart people'} sent to chat (id = 0) members.
+[05-09-26 02:27:33.036][info] Got message:ChatMessage{chat=General, author='Freya', text='could be'}.
+[05-09-26 02:27:33.036][info] Message ChatMessage{chat=General, author='Freya', text='could be'} sent to chat (id = 0) members.
+[05-09-26 02:27:33.790][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='ok'}.
+[05-09-26 02:27:33.790][info] Message ChatMessage{chat=General, author='Blinkdog81', text='ok'} sent to chat (id = 0) members.
+[05-09-26 02:27:36.352][info] Player 16 disconnecting....
+[05-09-26 02:27:36.352][info] Disconnecting player 16 finished.
+[05-09-26 02:27:36.352][info] Player 16 disconnecting....
+[05-09-26 02:27:36.352][info] Disconnecting player 16 finished.
+[05-09-26 02:27:37.291][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='im safe'}.
+[05-09-26 02:27:37.291][info] Message ChatMessage{chat=General, author='Blinkdog81', text='im safe'} sent to chat (id = 0) members.
+[05-09-26 02:27:43.025][info] Got message:ChatMessage{chat=General, author='Sledge40', text='same'}.
+[05-09-26 02:27:43.025][info] Message ChatMessage{chat=General, author='Sledge40', text='same'} sent to chat (id = 0) members.
+[05-09-26 02:27:46.777][info] Player 28 disconnecting....
+[05-09-26 02:27:46.778][info] Disconnecting player 28 finished.
+[05-09-26 02:27:46.778][info] Player 28 disconnecting....
+[05-09-26 02:27:46.778][info] Disconnecting player 28 finished.
+[05-09-26 02:27:53.187][info] Player 8 disconnecting....
+[05-09-26 02:27:53.187][info] Disconnecting player 8 finished.
+[05-09-26 02:27:53.187][info] Player 8 disconnecting....
+[05-09-26 02:27:53.187][info] Disconnecting player 8 finished.
+[05-09-26 02:27:53.229][info] Got message:ChatMessage{chat=General, author='Freya', text='go for it i am safe'}.
+[05-09-26 02:27:53.229][info] Message ChatMessage{chat=General, author='Freya', text='go for it i am safe'} sent to chat (id = 0) members.

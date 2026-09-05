@@ -1,0 +1,149 @@
+[05-09-26 01:14:58.224] LOG  : General      f:0 st:62,542,783,413> SLF4J(W): No SLF4J providers were found..
+[05-09-26 01:14:58.225] LOG  : General      f:0 st:62,542,783,413> SLF4J(W): Defaulting to no-operation (NOP) logger implementation.
+[05-09-26 01:14:58.225] LOG  : General      f:0 st:62,542,783,414> SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details..
+[05-09-26 01:14:58.375] LOG  : General      f:0 st:62,542,783,564> Logs configuration:.
+[05-09-26 01:14:58.381] LOG  : General      f:0 st:62,542,783,570>      General: General.
+[05-09-26 01:14:58.381] LOG  : General      f:0 st:62,542,783,570>      Network: General.
+[05-09-26 01:14:58.382] LOG  : General      f:0 st:62,542,783,570>          Lua: General.
+[05-09-26 01:14:58.382] LOG  : General      f:0 st:62,542,783,571>          Mod: General.
+[05-09-26 01:14:58.383] LOG  : General      f:0 st:62,542,783,571>  Multiplayer: General.
+[05-09-26 01:14:58.383] LOG  : General      f:0 st:62,542,783,572>       Packet: Warning.
+[05-09-26 01:14:58.384] LOG  : General      f:0 st:62,542,783,573> NetworkFileDebug: Warning.
+[05-09-26 01:14:58.384] LOG  : General      f:0 st:62,542,783,573>         ZNet: Warning.
+[05-09-26 01:14:58.385] LOG  : General      f:0 st:62,542,783,574> DetailedInfo: Warning.
+[05-09-26 01:14:58.386] LOG  : General      f:0 st:62,542,783,575>    LuaObject: Warning.
+[05-09-26 01:14:58.386] LOG  : General      f:0 st:62,542,783,575>   GameOption: Warning.
+[05-09-26 01:14:58.388] LOG  : General      f:0 st:62,542,783,576>        Sound: Warning.
+[05-09-26 01:14:58.388] LOG  : General      f:0 st:62,542,783,577>       Zombie: Warning.
+[05-09-26 01:14:58.389] LOG  : General      f:0 st:62,542,783,577>       Combat: Warning.
+[05-09-26 01:14:58.389] LOG  : General      f:0 st:62,542,783,578>      Objects: Warning.
+[05-09-26 01:14:58.393] LOG  : General      f:0 st:62,542,783,581>    Fireplace: Warning.
+[05-09-26 01:14:58.393] LOG  : General      f:0 st:62,542,783,582>        Radio: Warning.
+[05-09-26 01:14:58.394] LOG  : General      f:0 st:62,542,783,582>   MapLoading: Warning.
+[05-09-26 01:14:58.394] LOG  : General      f:0 st:62,542,783,583>     Clothing: Warning.
+[05-09-26 01:14:58.397] LOG  : General      f:0 st:62,542,783,585>    Animation: Warning.
+[05-09-26 01:14:58.404] LOG  : General      f:0 st:62,542,783,593> AnimationDetailed: Warning.
+[05-09-26 01:14:58.405] LOG  : General      f:0 st:62,542,783,594> AnimationLayers: Warning.
+[05-09-26 01:14:58.406] LOG  : General      f:0 st:62,542,783,594>        Asset: Warning.
+[05-09-26 01:14:58.406] LOG  : General      f:0 st:62,542,783,595>       Script: Warning.
+[05-09-26 01:14:58.407] LOG  : General      f:0 st:62,542,783,595>       Shader: Warning.
+[05-09-26 01:14:58.407] LOG  : General      f:0 st:62,542,783,596>       Sprite: Warning.
+[05-09-26 01:14:58.411] LOG  : General      f:0 st:62,542,783,600>        Input: Warning.
+[05-09-26 01:14:58.413] LOG  : General      f:0 st:62,542,783,601>       Recipe: Warning.
+[05-09-26 01:14:58.414] LOG  : General      f:0 st:62,542,783,603> ActionSystem: Warning.
+[05-09-26 01:14:58.415] LOG  : General      f:0 st:62,542,783,603> ActionSystemEvents: Warning.
+[05-09-26 01:14:58.415] LOG  : General      f:0 st:62,542,783,604>    IsoRegion: Warning.
+[05-09-26 01:14:58.416] LOG  : General      f:0 st:62,542,783,604>       FileIO: Warning.
+[05-09-26 01:14:58.416] LOG  : General      f:0 st:62,542,783,605>       Damage: Warning.
+[05-09-26 01:14:58.417] LOG  : General      f:0 st:62,542,783,605>        Death: Warning.
+[05-09-26 01:14:58.417] LOG  : General      f:0 st:62,542,783,606>      Discord: Warning.
+[05-09-26 01:14:58.418] LOG  : General      f:0 st:62,542,783,607>    Statistic: Warning.
+[05-09-26 01:14:58.419] LOG  : General      f:0 st:62,542,783,608>      Vehicle: Warning.
+[05-09-26 01:14:58.420] LOG  : General      f:0 st:62,542,783,609>   VehicleHit: Warning.
+[05-09-26 01:14:58.422] LOG  : General      f:0 st:62,542,783,610>        Voice: Warning.
+[05-09-26 01:14:58.423] LOG  : General      f:0 st:62,542,783,612>     Checksum: Warning.
+[05-09-26 01:14:58.423] LOG  : General      f:0 st:62,542,783,612>       Animal: Warning.
+[05-09-26 01:14:58.424] LOG  : General      f:0 st:62,542,783,613>   ItemPicker: Warning.
+[05-09-26 01:14:58.427] LOG  : General      f:0 st:62,542,783,614>   CraftLogic: Warning.
+[05-09-26 01:14:58.427] LOG  : General      f:0 st:62,542,783,616>       Action: Warning.
+[05-09-26 01:14:58.428] LOG  : General      f:0 st:62,542,783,617>       Entity: Warning.
+[05-09-26 01:14:58.428] LOG  : General      f:0 st:62,542,783,617>    Lightning: Warning.
+[05-09-26 01:14:58.429] LOG  : General      f:0 st:62,542,783,617>      Grapple: Warning.
+[05-09-26 01:14:58.429] LOG  : General      f:0 st:62,542,783,618>    ExitDebug: Warning.
+[05-09-26 01:14:58.429] LOG  : General      f:0 st:62,542,783,618>   BodyDamage: Warning.
+[05-09-26 01:14:58.430] LOG  : General      f:0 st:62,542,783,618>          Xml: Warning.
+[05-09-26 01:14:58.432] LOG  : General      f:0 st:62,542,783,620>      Physics: Warning.
+[05-09-26 01:14:58.432] LOG  : General      f:0 st:62,542,783,621>   Ballistics: Warning.
+[05-09-26 01:14:58.432] LOG  : General      f:0 st:62,542,783,621>      Ragdoll: Warning.
+[05-09-26 01:14:58.433] LOG  : General      f:0 st:62,542,783,622>     PZBullet: Warning.
+[05-09-26 01:14:58.434] LOG  : General      f:0 st:62,542,783,622> ModelManager: Warning.
+[05-09-26 01:14:58.434] LOG  : General      f:0 st:62,542,783,623> LoadAnimation: Warning.
+[05-09-26 01:14:58.434] LOG  : General      f:0 st:62,542,783,623>         Zone: Warning.
+[05-09-26 01:14:58.436] LOG  : General      f:0 st:62,542,783,625>     WorldGen: Warning.
+[05-09-26 01:14:58.438] LOG  : General      f:0 st:62,542,783,627>     Foraging: Warning.
+[05-09-26 01:14:58.438] LOG  : General      f:0 st:62,542,783,627>       Saving: Warning.
+[05-09-26 01:14:58.439] LOG  : General      f:0 st:62,542,783,628>        Fluid: Warning.
+[05-09-26 01:14:58.439] LOG  : General      f:0 st:62,542,783,628>       Energy: Warning.
+[05-09-26 01:14:58.440] LOG  : General      f:0 st:62,542,783,629>  Translation: Warning.
+[05-09-26 01:14:58.440] LOG  : General      f:0 st:62,542,783,629>     Moveable: Warning.
+[05-09-26 01:14:58.441] LOG  : General      f:0 st:62,542,783,629>     Basement: Warning.
+[05-09-26 01:14:58.441] LOG  : General      f:0 st:62,542,783,630>   FallDamage: Warning.
+[05-09-26 01:14:58.441] LOG  : General      f:0 st:62,542,783,630>        ImGui: Warning.
+[05-09-26 01:14:58.444] LOG  : General      f:0 st:62,542,783,633> CharacterTrait: Warning.
+[05-09-26 01:14:58.444] LOG  : General      f:0 st:62,542,783,633>         ISUI: Warning.
+[05-09-26 01:14:58.445] LOG  : General      f:0 st:62,542,783,633> ISUIStackTrace: Warning.
+[05-09-26 01:14:58.449] LOG  : General      f:0 st:62,542,783,638> FaceLocationFix: Warning.
+[05-09-26 01:14:58.450] LOG  : General      f:0 st:62,542,783,639>      Context: Warning.
+[05-09-26 01:14:58.450] LOG  : General      f:0 st:62,542,783,639> AnimationRecorder: Warning.
+[05-09-26 01:14:58.451] LOG  : General      f:0 st:62,542,783,640>      Default: Warning.
+[05-09-26 01:14:58.452] LOG  : General      f:0 st:62,542,783,640> version=42.20.4 b0bbce05d5 demo=false.
+[05-09-26 01:14:58.453] LOG  : General      f:0 st:62,542,783,642> revision=b0bbce05d5.
+[05-09-26 01:14:58.467] LOG  : General      f:0 st:62,542,783,656> unknown option "true".
+[05-09-26 01:14:58.472] LOG  : General      f:0 st:62,542,783,661> checking server WorldVersion in map_t.bin.
+[05-09-26 01:14:58.474] LOG  : General      f:0 st:62,542,783,663> Loading networking libraries....
+[05-09-26 01:14:58.475] LOG  : General      f:0 st:62,542,783,664> Loading steam_api....
+[05-09-26 01:14:58.475] LOG  : General      f:0 st:62,542,783,664> Loading RakNet64....
+[05-09-26 01:14:58.479] LOG  : General      f:0 st:62,542,783,668> Loading ZNetJNI64....
+[05-09-26 01:14:58.482] LOG  : General      f:0 st:62,542,783,671> SteamUtils initialised successfully.
+[05-09-26 01:15:00.173] LOG  : General      f:0 st:62,542,785,362> LightingFPS set to 15.
+[05-09-26 01:15:00.341] LOG  : General      f:0 st:62,542,785,530> Waiting for response from Steam servers.
+[05-09-26 01:15:01.993] LOG  : General      f:0 st:62,542,787,182> Workshop: onItemQueryCompleted handle=1 numResult=124.
+[05-09-26 01:15:02.000] LOG  : General      f:0 st:62,542,787,188> Workshop: GetItemState()=Installed ID=3773972040.
+[05-09-26 01:15:02.004] LOG  : General      f:0 st:62,542,787,193> Workshop: item state CheckItemState -> Ready ID=3773972040.
+[05-09-26 01:15:02.004] LOG  : General      f:0 st:62,542,787,193> Workshop: GetItemState()=Installed ID=3436537035.
+[05-09-26 01:15:02.005] LOG  : General      f:0 st:62,542,787,194> Workshop: item state CheckItemState -> Ready ID=3436537035.
+[05-09-26 01:15:02.005] LOG  : General      f:0 st:62,542,787,194> Workshop: GetItemState()=Installed ID=3402491515.
+[05-09-26 01:15:02.005] LOG  : General      f:0 st:62,542,787,194> Workshop: item state CheckItemState -> Ready ID=3402491515.
+[05-09-26 01:15:02.011] LOG  : General      f:0 st:62,542,787,200> Workshop: GetItemState()=Installed ID=2896041179.
+[05-09-26 01:15:02.017] LOG  : General      f:0 st:62,542,787,206> Workshop: item state CheckItemState -> Ready ID=2896041179.
+[05-09-26 01:15:02.018] LOG  : General      f:0 st:62,542,787,206> Workshop: GetItemState()=Installed ID=3077900375.
+[05-09-26 01:15:02.018] LOG  : General      f:0 st:62,542,787,207> Workshop: item state CheckItemState -> Ready ID=3077900375.
+[05-09-26 01:15:02.018] LOG  : General      f:0 st:62,542,787,207> Workshop: GetItemState()=Installed ID=3171167894.
+[05-09-26 01:15:02.019] LOG  : General      f:0 st:62,542,787,208> Workshop: item state CheckItemState -> Ready ID=3171167894.
+[05-09-26 01:15:02.021] LOG  : General      f:0 st:62,542,787,210> Workshop: GetItemState()=Installed ID=3396446795.
+[05-09-26 01:15:02.025] LOG  : General      f:0 st:62,542,787,213> Workshop: item state CheckItemState -> Ready ID=3396446795.
+[05-09-26 01:15:02.025] LOG  : General      f:0 st:62,542,787,214> Workshop: GetItemState()=Installed ID=2447729538.
+[05-09-26 01:15:02.026] LOG  : General      f:0 st:62,542,787,215> Workshop: item state CheckItemState -> Ready ID=2447729538.
+[05-09-26 01:15:02.027] LOG  : General      f:0 st:62,542,787,216> Workshop: GetItemState()=Installed ID=3740052292.
+[05-09-26 01:15:02.030] LOG  : General      f:0 st:62,542,787,216> Workshop: item state CheckItemState -> Ready ID=3740052292.
+[05-09-26 01:15:02.031] LOG  : General      f:0 st:62,542,787,220> Workshop: GetItemState()=Installed ID=3508537032.
+[05-09-26 01:15:02.032] LOG  : General      f:0 st:62,542,787,220> Workshop: item state CheckItemState -> Ready ID=3508537032.
+[05-09-26 01:15:02.032] LOG  : General      f:0 st:62,542,787,221> Workshop: GetItemState()=Installed ID=3628736763.
+[05-09-26 01:15:02.033] LOG  : General      f:0 st:62,542,787,222> Workshop: item state CheckItemState -> Ready ID=3628736763.
+[05-09-26 01:15:02.033] LOG  : General      f:0 st:62,542,787,222> Workshop: GetItemState()=Installed ID=3783444342.
+[05-09-26 01:15:02.035] LOG  : General      f:0 st:62,542,787,224> Workshop: item state CheckItemState -> Ready ID=3783444342.
+[05-09-26 01:15:02.035] LOG  : General      f:0 st:62,542,787,224> Workshop: GetItemState()=NeedsUpdate ID=2812326159.
+[05-09-26 01:15:02.036] LOG  : General      f:0 st:62,542,787,225> Workshop: item state CheckItemState -> DownloadPending ID=2812326159.
+[05-09-26 01:15:02.070] LOG  : General      f:0 st:62,542,787,259> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.076] LOG  : General      f:0 st:62,542,787,265> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.179] LOG  : General      f:0 st:62,542,787,368> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.180] LOG  : General      f:0 st:62,542,787,368> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.285] LOG  : General      f:0 st:62,542,787,474> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.286] LOG  : General      f:0 st:62,542,787,475> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.391] LOG  : General      f:0 st:62,542,787,580> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.393] LOG  : General      f:0 st:62,542,787,582> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.493] LOG  : General      f:0 st:62,542,787,682> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.498] LOG  : General      f:0 st:62,542,787,686> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.604] LOG  : General      f:0 st:62,542,787,793> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.606] LOG  : General      f:0 st:62,542,787,795> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.706] LOG  : General      f:0 st:62,542,787,895> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.707] LOG  : General      f:0 st:62,542,787,896> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.807] LOG  : General      f:0 st:62,542,787,996> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.807] LOG  : General      f:0 st:62,542,787,996> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.907] LOG  : General      f:0 st:62,542,788,096> Workshop: DownloadPending GetItemState()=NeedsUpdate|DownloadPending ID=2812326159.
+[05-09-26 01:15:02.908] LOG  : General      f:0 st:62,542,788,097> Workshop: download 0/0 ID=2812326159.
+[05-09-26 01:15:02.942] LOG  : General      f:0 st:62,542,788,131> Workshop: onItemNotDownloaded itemID=2812326159 result=10.
+[05-09-26 01:15:02.943] LOG  : General      f:0 st:62,542,788,131> Workshop: item state DownloadPending -> Fail ID=2812326159.
+[05-09-26 01:15:02.944] LOG  : General      f:0 st:62,542,788,133> java.lang.NullPointerException.
+[05-09-26 01:15:02.946] LOG  : General      f:0 st:62,542,788,134> 	at java.base/java.io.File.<init>(Unknown Source).
+[05-09-26 01:15:02.946] LOG  : General      f:0 st:62,542,788,135> 	at zombie.ZomboidFileSystem.deleteDirectory(ZomboidFileSystem.java:1478).
+[05-09-26 01:15:02.947] LOG  : General      f:0 st:62,542,788,136> 	at zombie.network.GameServerWorkshopItems.Install(GameServerWorkshopItems.java:248).
+[05-09-26 01:15:02.947] LOG  : General      f:0 st:62,542,788,136> 	at zombie.network.GameServer.main(GameServer.java:738).
+[05-09-26 01:15:02.955] LOG  : General      f:0 st:62,542,788,144> Shutdown handling started.
+[05-09-26 01:15:02.956] LOG  : Network      f:0 st:62,542,788,144> Server exited.
+[05-09-26 01:15:02.964] LOG  : General      f:0 st:62,542,788,153> Exception in thread "Thread-0" .
+[05-09-26 01:15:02.965] LOG  : General      f:0 st:62,542,788,154> java.lang.NullPointerException: Cannot invoke "zombie.iso.IsoMetaGrid.save()" because "this.grid" is null.
+[05-09-26 01:15:02.965] LOG  : General      f:0 st:62,542,788,154> 	at zombie.network.ServerMap.SaveAll(ServerMap.java:181).
+[05-09-26 01:15:02.965] LOG  : General      f:0 st:62,542,788,154> 	at zombie.network.ServerMap.QueuedSaveAll(ServerMap.java:827).
+[05-09-26 01:15:02.965] LOG  : General      f:0 st:62,542,788,154> 	at zombie.network.ServerMap.QueuedQuit(ServerMap.java:784).
+[05-09-26 01:15:02.965] LOG  : General      f:0 st:62,542,788,154> 	at zombie.network.GameServer$1.run(GameServer.java:376).

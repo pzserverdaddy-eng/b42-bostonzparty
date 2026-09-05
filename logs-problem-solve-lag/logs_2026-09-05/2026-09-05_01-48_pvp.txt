@@ -1,0 +1,16 @@
+[05-09-26 01:58:00.530][LOG] Safety: "Sledge40" (11936,6749,0) restore true.
+[05-09-26 02:01:58.404][LOG] Safety: "Lilith Sullivan" (10776,9764,0) restore true.
+[05-09-26 02:04:37.089][LOG] Safety: "Legofanhead" (8495,11550,0) restore true.
+[05-09-26 02:04:48.164][LOG] Safety: "Legofanhead" (8495,11550,0) store true.
+[05-09-26 02:06:28.908][LOG] Safety: "Freya" (6167,5412,0) restore true.
+[05-09-26 02:07:34.059][LOG] Safety: "Legofanhead" (8495,11550,0) restore true.
+[05-09-26 02:07:45.855][LOG] Safety: "Legofanhead" (8495,11556,0) store true.
+[05-09-26 02:08:06.388][LOG] Safety: "Tymbomb" (11913,7070,0) restore true.
+[05-09-26 02:10:02.647][LOG] Safety: "Blinkdog81" (10770,10271,0) restore true.
+[05-09-26 02:11:04.969][LOG] Safety: "Legofanhead" (8495,11556,0) restore true.
+[05-09-26 02:14:35.327][INFO] Combat: "Lilith Sullivan" (10626,9676,0) hit "Lilith Sullivan" (10626,9677,0) weapon="zombie" damage=-1.000000.
+[05-09-26 02:16:00.335][LOG] Safety: "Danny Sullivan" (10695,9383,0) restore true.
+[05-09-26 02:20:23.052][LOG] Safety: "ServerDaddy" (5739,5258,0) restore true.
+[05-09-26 02:27:36.352][LOG] Safety: "Tymbomb" (11905,6880,0) store true.
+[05-09-26 02:27:46.778][LOG] Safety: "Legofanhead" (8806,11690,0) store true.
+[05-09-26 02:27:53.187][LOG] Safety: "Sledge40" (11883,6893,0) store true.

@@ -1,0 +1,66 @@
+[05-09-26 04:46:58.967] Connection add index=0 guid=283726943867803126 id=null.
+[05-09-26 04:47:00.348] 76561198148801188 "ServerDaddy" attempting to join.
+[05-09-26 04:47:00.349] 76561198148801188 "ServerDaddy" allowed to join.
+[05-09-26 04:47:24.722] Connection add index=1 guid=220676390198732485 id=null.
+[05-09-26 04:47:26.355] 76561198308440766 "Legofanhead" attempting to join.
+[05-09-26 04:47:26.356] 76561198308440766 "Legofanhead" allowed to join.
+[05-09-26 04:47:48.731] 76561198148801188 "ServerDaddy" attempting to join used queue.
+[05-09-26 04:48:00.553] player ServerDaddy loading time was: 10786 ms.
+[05-09-26 04:48:19.531] 76561198148801188 "ServerDaddy" fully connected (5765,5272,0).
+[05-09-26 04:48:25.758] 76561198308440766 "Legofanhead" attempting to join used queue.
+[05-09-26 04:48:38.907] player Legofanhead loading time was: 11815 ms.
+[05-09-26 04:48:41.454] Connection add index=2 guid=684547174870841484 id=null.
+[05-09-26 04:48:43.317] 76561198174205053 "Freya" attempting to join.
+[05-09-26 04:48:43.317] 76561198174205053 "Freya" allowed to join.
+[05-09-26 04:48:44.516] 76561198308440766 "Legofanhead" fully connected (8792,11596,-1).
+[05-09-26 04:50:47.990] 76561198174205053 "Freya" attempting to join used queue.
+[05-09-26 04:51:12.818] Connection add index=3 guid=274720817117071687 id=null.
+[05-09-26 04:51:13.253] player Freya loading time was: 23537 ms.
+[05-09-26 04:51:14.354] 76561198254867641 "Lilith Sullivan" attempting to join.
+[05-09-26 04:51:14.354] 76561198254867641 "Lilith Sullivan" allowed to join.
+[05-09-26 04:51:17.603] 76561198174205053 "Freya" fully connected (6206,5682,0).
+[05-09-26 04:52:00.682] Connection add index=4 guid=346777223412674470 id=null.
+[05-09-26 04:52:02.114] 76561198093780693 "Danny Sullivan" attempting to join.
+[05-09-26 04:52:02.115] 76561198093780693 "Danny Sullivan" allowed to join.
+[05-09-26 04:52:32.301] 76561198254867641 "Lilith Sullivan" attempting to join used queue.
+[05-09-26 04:52:58.350] 76561198093780693 "Danny Sullivan" attempting to join used queue.
+[05-09-26 04:53:09.522] player Lilith Sullivan loading time was: 34366 ms.
+[05-09-26 04:53:26.325] 76561198254867641 "Lilith Sullivan" fully connected (9739,12323,0).
+[05-09-26 04:53:59.609] player Danny Sullivan loading time was: 48418 ms.
+[05-09-26 04:54:02.916] 76561198093780693 "Danny Sullivan" fully connected (9024,11978,0).
+[05-09-26 04:54:35.241] Connection add index=5 guid=1094374735180678672 id=null.
+[05-09-26 04:54:35.296] 76561199133759071 "Tymbomb" attempting to join.
+[05-09-26 04:54:35.296] 76561199133759071 "Tymbomb" allowed to join.
+[05-09-26 04:54:46.280] Connection add index=6 guid=1080864010974191983 id=null.
+[05-09-26 04:54:49.203] 76561199471776312 "Sledge40" attempting to join.
+[05-09-26 04:54:49.204] 76561199471776312 "Sledge40" allowed to join.
+[05-09-26 04:55:35.213] 76561199133759071 "Tymbomb" attempting to join used queue.
+[05-09-26 04:55:42.363] 76561199471776312 "Sledge40" attempting to join used queue.
+[05-09-26 04:56:02.759] player Tymbomb loading time was: 23818 ms.
+[05-09-26 04:56:09.183] 76561199133759071 "Tymbomb" fully connected (60765,18802,0).
+[05-09-26 04:56:19.262] player Sledge40 loading time was: 15593 ms.
+[05-09-26 04:56:23.730] 76561199471776312 "Sledge40" fully connected (12610,4305,0).
+[05-09-26 04:56:57.780] Connection add index=7 guid=427842053040464299 id=null.
+[05-09-26 04:57:00.187] 76561198165650138 "Blinkdog81" attempting to join.
+[05-09-26 04:57:00.188] 76561198165650138 "Blinkdog81" allowed to join.
+[05-09-26 04:59:16.376] 76561198165650138 "Blinkdog81" attempting to join used queue.
+[05-09-26 05:01:03.398] player Blinkdog81 loading time was: 99212 ms.
+[05-09-26 05:01:32.460] 76561198165650138 "Blinkdog81" fully connected (11616,8837,0).
+[05-09-26 05:13:09.396] Connection disconnect index=0 guid=283726943867803126 id=76561198148801188.
+[05-09-26 05:13:09.408] Connection remove index=0 guid=283726943867803126 id=76561198148801188.
+[05-09-26 05:13:09.425] 76561198148801188 "ServerDaddy" disconnected player (5764,5257,0).
+[05-09-26 05:13:38.178] Connection disconnect index=3 guid=274720817117071687 id=76561198254867641.
+[05-09-26 05:13:40.361] Connection remove index=3 guid=274720817117071687 id=76561198254867641.
+[05-09-26 05:13:40.376] 76561198254867641 "Lilith Sullivan" disconnected player (10749,9724,0).
+[05-09-26 05:15:31.352] Connection disconnect index=4 guid=346777223412674470 id=76561198093780693.
+[05-09-26 05:15:31.512] Connection remove index=4 guid=346777223412674470 id=76561198093780693.
+[05-09-26 05:15:31.526] 76561198093780693 "Danny Sullivan" disconnected player (10631,9611,0).
+[05-09-26 05:25:59.775] Connection disconnect index=5 guid=1094374735180678672 id=76561199133759071.
+[05-09-26 05:26:04.545] Connection remove index=5 guid=1094374735180678672 id=76561199133759071.
+[05-09-26 05:26:04.564] 76561199133759071 "Tymbomb" disconnected player (14151,2629,0).
+[05-09-26 05:29:37.719] Connection add index=0 guid=1094374735180678672 id=null.
+[05-09-26 05:29:37.784] 76561199133759071 "Tymbomb" attempting to join.
+[05-09-26 05:29:37.785] 76561199133759071 "Tymbomb" allowed to join.
+[05-09-26 05:30:07.035] 76561199133759071 "Tymbomb" attempting to join used queue.
+[05-09-26 05:30:24.389] player Tymbomb loading time was: 14241 ms.
+[05-09-26 05:33:39.836] 76561199133759071 "Tymbomb" fully connected (14151,2629,0).
