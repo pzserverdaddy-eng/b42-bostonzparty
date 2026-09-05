@@ -277,7 +277,7 @@ SandboxVars = {
     -- 3 = Normal
     -- 4 = Slow
     -- 5 = Very Slow
-    FoodRotSpeed = 5,
+    FoodRotSpeed = 3,
     -- How effective a fridge will be at keeping food fresh for longer. Default = Normal
     -- 1 = Very Low
     -- 2 = Low
@@ -765,6 +765,7 @@ SandboxVars = {
     BuildingCraftDivider4 = false,
     MenuNotStayingOnTop = false,
     BuildingCraftDisableMenu = false,
+    BuildingCraftRiver = false,
     BuildingCraftDivider3 = false,
     DisableBulbConversion = false,
     BuildingCraftDivider0 = false,
@@ -1190,30 +1191,6 @@ SandboxVars = {
     GWG = {
         -- Min: 0 Max: 5 Default: 0
         MultiplayerTick = 0,
-    },
-    ZLR = {
-        Enabled = true,
-        ClearContainersBeforeFill = false,
-        IgnoreSafehouses = true,
-        -- Min: 50 Max: 20000 Default: 1000
-        SquaresPerTick = 1000,
-        -- Min: 1 Max: 50 Default: 3
-        ContainersPerTick = 3,
-        -- Min: 1 Max: 20 Default: 4
-        MaxActiveLootJobs = 4,
-        -- Min: -64 Max: 64 Default: -32
-        MinZ = -32,
-        -- Min: -64 Max: 64 Default: 32
-        MaxZ = 32,
-        -- Min: 1 Max: 3600 Default: 30
-        ZoneCheckIntervalSeconds = 30,
-        Debug = false,
-        -- Min: 1 Max: 100 Default: 25
-        ZombieSpawnPerSecond = 25,
-        -- Min: 1 Max: 20 Default: 1
-        ZombieMaxActiveJobs = 1,
-        -- Min: 50 Max: 5000 Default: 1000
-        ZombieSquaresPerTick = 1000,
     },
     MorePlushies = {
         Loot = 3,
@@ -2292,7 +2269,7 @@ SandboxVars = {
         -- Min: 1 Max: 5 Default: 3
         MaxSafehouseClaims = 3,
         -- Min: 0 Max: 10 Default: 3
-        MaxVehicleClaims = 5,
+        MaxVehicleClaims = 3,
         -- Min: 0 Max: 365 Default: 0
         SafehouseExpirationDays = 0,
         -- Min: 0 Max: 365 Default: 14
