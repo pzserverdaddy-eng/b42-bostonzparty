@@ -1363,33 +1363,6 @@ SandboxVars = {
         -- Min: 0.10 Max: 100.00 Default: 8.00
         SpearXP5 = 8.0,
     },
-    ZombiesHaveSmokes = {
-        EnableSmokes = true,
-        EnablePack = true,
-        -- Min: 1 Max: 100 Default: 30
-        SmokesChance = 30,
-        -- Min: 1 Max: 100 Default: 15
-        PackChance = 15,
-        -- Min: 1 Max: 100 Default: 1
-        MinSmokes = 1,
-        -- Min: 1 Max: 100 Default: 3
-        MaxSmokes = 3,
-        EnableChewingTobacco = true,
-        -- Min: 1 Max: 100 Default: 2
-        ChewingTobaccoChance = 2,
-        EnableTobaccoPouch = true,
-        -- Min: 1 Max: 100 Default: 2
-        TobaccoPouchChance = 2,
-        EnableCarton = false,
-        -- Min: 1 Max: 100 Default: 1
-        CartonChance = 1,
-        EnableCigar = false,
-        -- Min: 1 Max: 100 Default: 2
-        CigarChance = 2,
-        EnableCigarillo = false,
-        -- Min: 1 Max: 100 Default: 3
-        CigarilloChance = 3,
-    },
     ProximityInventory = {
         ZombieOnly = false,
     },
