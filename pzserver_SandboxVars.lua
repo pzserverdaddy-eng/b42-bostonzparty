@@ -1175,10 +1175,6 @@ SandboxVars = {
         BreedChancePerDay = 5.0,
         TripOverDogs = true,
     },
-    AviationCore = {
-        -- Min: 0 Max: 50 Default: 5
-        MaxWorldHelicopters = 5,
-    },
     KillCount = {
         doExport = false,
         includePostDeathUI = true,
