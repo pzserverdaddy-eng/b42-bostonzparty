@@ -1133,49 +1133,6 @@ SandboxVars = {
         RequireWeldingMask = true,
         RequireBlowTorch = true,
     },
-    CompanionDogs = {
-        -- Min: 1 Max: 1000 Default: 100
-        TameThreshold = 100,
-        -- Min: 0 Max: 30 Default: 0
-        MaxCompanions = 0,
-        CombatEnabled = true,
-        -- Min: 0.00 Max: 5.00 Default: 1.00
-        DogDamageMultiplier = 1.0,
-        UpkeepEnabled = true,
-        -- Min: 0.00 Max: 5.00 Default: 1.00
-        NeedsRateMultiplier = 1.0,
-        -- Min: 0.00 Max: 100.00 Default: 12.00
-        LoyaltyDecayPerDay = 12.0,
-        ProteinNeedEnabled = true,
-        -- Min: 6 Max: 168 Default: 72
-        ProteinHours = 72,
-        SentinelEnabled = true,
-        BondingEnabled = true,
-        RestedBuffEnabled = true,
-        -- Min: 0.50 Max: 24.00 Default: 2.00
-        RestedBuffHours = 2.0,
-        BreedMoodlesEnabled = true,
-        -- Min: 0.10 Max: 10.00 Default: 0.50
-        SkillXPRate = 0.5,
-        FarmCareEnabled = true,
-        TricksEnabled = true,
-        DogNoiseAttractsZombies = true,
-        ShowNameTags = true,
-        -- Min: 0.00 Max: 5.00 Default: 1.00
-        DogSpawnMultiplier = 1.0,
-        WildDogsInvincible = false,
-        DespawnOnOwnerOffline = true,
-        -- Min: 0.00 Max: 5.00 Default: 1.00
-        CargoCapacityMultiplier = 1.0,
-        BreedingEnabled = true,
-        -- Min: 1 Max: 60 Default: 4
-        GestationDays = 4,
-        -- Min: 1 Max: 365 Default: 90
-        MaturityDays = 90,
-        -- Min: 0.00 Max: 100.00 Default: 5.00
-        BreedChancePerDay = 5.0,
-        TripOverDogs = true,
-    },
     KillCount = {
         doExport = false,
         includePostDeathUI = true,
@@ -2113,10 +2070,6 @@ SandboxVars = {
         -- Min: 0 Max: 100 Default: 5
         chanceOfNotCovering = 5,
     },
-    CompanionCat = {
-        -- Min: 0.00 Max: 5.00 Default: 1.00
-        CatSpawnMultiplier = 1.0,
-    },
     Plumbing = {
         -- Min: 0.00 Max: 0.10 Default: 0.01
         PumpFilterUsage = 0.007,
@@ -2552,15 +2505,6 @@ SandboxVars = {
         MinWeldingLevel = 3,
         -- Min: 0 Max: 10 Default: 0
         MinMechanicsLevel = 0,
-    },
-    HorseMod = {
-        -- Min: 0.10 Max: 10.00 Default: 1.00
-        WalkSpeed = 1.0,
-        -- Min: 0.10 Max: 10.00 Default: 1.00
-        GallopSpeed = 1.0,
-        -- Min: 0.10 Max: 2.00 Default: 1.00
-        StaminaMultiplier = 1.0,
-        RidingPainGrunt = true,
     },
     Text = {
         DividerMusicNew = true,
