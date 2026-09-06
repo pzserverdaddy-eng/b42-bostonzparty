@@ -1,6 +1,3 @@
--- NEWWWWW
-
-
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
