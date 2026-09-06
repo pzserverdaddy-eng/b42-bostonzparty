@@ -1,3 +1,6 @@
+-- PREVVV
+
+
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
@@ -186,15 +189,15 @@ SandboxVars = {
     -- If greater than 0, the spawn of loot is increased relative to the number of nearby zombies,  with the effect multiplied by this number. Min: 0 Max: 20 Default: 0
     ZombiePopLootEffect = 10,
     -- Min: 0.00 Max: 0.20 Default: 0.05
-    InsaneLootFactor = 0.05,
+    InsaneLootFactor = 0.04,
     -- Min: 0.05 Max: 0.60 Default: 0.20
-    ExtremeLootFactor = 0.2,
+    ExtremeLootFactor = 0.1,
     -- Min: 0.20 Max: 1.00 Default: 0.60
-    RareLootFactor = 0.6,
+    RareLootFactor = 1.4,
     -- Min: 0.60 Max: 2.00 Default: 1.00
-    NormalLootFactor = 1.0,
+    NormalLootFactor = 2.0,
     -- Min: 1.00 Max: 3.00 Default: 2.00
-    CommonLootFactor = 2.0,
+    CommonLootFactor = 3.0,
     -- Min: 2.00 Max: 4.00 Default: 3.00
     AbundantLootFactor = 3.0,
     -- The global temperature. Default = Normal
@@ -1223,47 +1226,6 @@ SandboxVars = {
         DropMLS = 1.0E-5,
         StartWithLSGrey = false,
     },
-    ProximityInventory = {
-        ZombieOnly = false,
-    },
-    ISA = {
-        ChargeFreq = 1,
-        DrainCalc = 2,
-        -- Min: 1 Max: 100 Default: 25
-        solarPanelEfficiency = 25,
-        -- Min: 0 Max: 1000 Default: 100
-        batteryDegradeChance = 100,
-        -- Min: 1 Max: 10000 Default: 100
-        DIYBatteryMultiplier = 100,
-        -- Min: 0 Max: 100 Default: 25
-        solarPanelWorldSpawns = 25,
-        BatteryBankSpawn = 3,
-        StashMode = 1,
-        -- Min: 0.00 Max: 100.00 Default: 1.00
-        LRMSolarPanels = 1.0,
-        -- Min: 0.00 Max: 100.00 Default: 1.00
-        LRMBatteries = 1.0,
-        -- Min: 0.00 Max: 100.00 Default: 1.00
-        LRMMisc = 1.0,
-        -- Min: 1 Max: 1440 Default: 10
-        ConnectPanelMin = 30,
-        enableExpandedRecipes = false,
-        -- Min: 1 Max: 20 Default: 10
-        BackupGeneratorRange = 10,
-    },
-    BFLightState = {
-        -- Min: 0.00 Max: 300.00 Default: 30.00
-        heartbeatSeconds = 30.0,
-    },
-    BFFloorLights = {
-        enabled = true,
-        -- Min: 0.10 Max: 1.00 Default: 0.25
-        radiusMult = 0.25,
-        weaponLights = true,
-        drainFuel = true,
-        directional = true,
-        debug = false,
-    },
     ZombieVirusVaccineBETA = {
         DebugMode = false,
         EnableWorldLoot = true,
@@ -1876,6 +1838,47 @@ SandboxVars = {
         Whittler = true,
         -- Min: 0 Max: 10 Default: 4
         WhittlerSkill = 4,
+    },
+    ProximityInventory = {
+        ZombieOnly = false,
+    },
+    ISA = {
+        ChargeFreq = 1,
+        DrainCalc = 2,
+        -- Min: 1 Max: 100 Default: 25
+        solarPanelEfficiency = 25,
+        -- Min: 0 Max: 1000 Default: 100
+        batteryDegradeChance = 100,
+        -- Min: 1 Max: 10000 Default: 100
+        DIYBatteryMultiplier = 100,
+        -- Min: 0 Max: 100 Default: 25
+        solarPanelWorldSpawns = 25,
+        BatteryBankSpawn = 3,
+        StashMode = 1,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMSolarPanels = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMBatteries = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMMisc = 1.0,
+        -- Min: 1 Max: 1440 Default: 10
+        ConnectPanelMin = 30,
+        enableExpandedRecipes = false,
+        -- Min: 1 Max: 20 Default: 10
+        BackupGeneratorRange = 10,
+    },
+    BFLightState = {
+        -- Min: 0.00 Max: 300.00 Default: 30.00
+        heartbeatSeconds = 30.0,
+    },
+    BFFloorLights = {
+        enabled = true,
+        -- Min: 0.10 Max: 1.00 Default: 0.25
+        radiusMult = 0.25,
+        weaponLights = true,
+        drainFuel = true,
+        directional = true,
+        debug = false,
     },
     SkillRecoveryJournal = {
         -- Min: 1 Max: 100 Default: 100

@@ -1,3 +1,6 @@
+-- NEWWWWW
+
+
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
@@ -107,7 +110,7 @@ SandboxVars = {
     -- 7 = 2 - 6 Months
     -- 8 = 6 - 12 Months
     -- 9 = Disabled
-    WaterShut = 2,
+    WaterShut = 8,
     -- How long after the default start date (July 9, 1993) that the world's electricity turns off for good. Default = 14 - 30 Days
     -- 1 = Instant
     -- 2 = 14 - 30 Days
@@ -118,7 +121,7 @@ SandboxVars = {
     -- 7 = 2 - 6 Months
     -- 8 = 6 - 12 Months
     -- 9 = Disabled
-    ElecShut = 2,
+    ElecShut = 5,
     -- How long alarm batteries can last for after the power shuts off. Default = 0 - 30 Days
     -- 1 = Instant
     -- 2 = 0 - 30 Days
@@ -128,53 +131,53 @@ SandboxVars = {
     -- 6 = 0 - 5 Years
     AlarmDecay = 2,
     -- How long after the default start date (July 9, 1993) that plumbing fixtures (eg. sinks) stop being infinite sources of water. Min: -1 Max: 2147483647 Default: 14
-    WaterShutModifier = 14,
+    WaterShutModifier = 60,
     -- How long after the default start date (July 9, 1993) that the world's electricity turns off for good. Min: -1 Max: 2147483647 Default: 14
-    ElecShutModifier = 14,
+    ElecShutModifier = 60,
     -- How long alarm batteries can last for after the power shuts off. Min: -1 Max: 2147483647 Default: 14
     AlarmDecayModifier = 14,
     -- Any food that can rot or spoil. Min: 0.00 Max: 4.00 Default: 0.80
-    FoodLootNew = 0.8,
+    FoodLootNew = 1.0,
     -- All other items that can be read, including books, fliers, and newspapers. Min: 0.00 Max: 4.00 Default: 0.60
-    LiteratureLootNew = 0.6,
+    LiteratureLootNew = 1.0,
     -- Books that provide skill XP multipliers. Min: 0.00 Max: 4.00 Default: 0.60
-    SkillBookLoot = 0.6,
+    SkillBookLoot = 1.0,
     -- Items that teach recipes. Min: 0.00 Max: 4.00 Default: 0.60
-    RecipeResourceLoot = 0.6,
+    RecipeResourceLoot = 1.0,
     -- Medicine, bandages and first aid tools. Min: 0.00 Max: 4.00 Default: 0.60
-    MedicalLootNew = 0.6,
+    MedicalLootNew = 1.0,
     -- Fishing Rods, Tents, camping gear etc. Min: 0.00 Max: 4.00 Default: 0.60
-    SurvivalGearsLootNew = 0.6,
+    SurvivalGearsLootNew = 1.0,
     -- Canned and dried food, beverages. Min: 0.00 Max: 4.00 Default: 0.60
-    CannedFoodLootNew = 0.6,
+    CannedFoodLootNew = 1.0,
     -- Weapons that are not tools in other categories. Min: 0.00 Max: 4.00 Default: 0.60
-    WeaponLootNew = 0.6,
+    WeaponLootNew = 1.0,
     -- Also includes weapon attachments. Min: 0.00 Max: 4.00 Default: 1.20
     RangedWeaponLootNew = 1.2,
     -- Loose ammo, boxes and magazines. Min: 0.00 Max: 4.00 Default: 0.60
-    AmmoLootNew = 0.6,
+    AmmoLootNew = 1.0,
     -- Vehicle parts and the tools needed to install them. Min: 0.00 Max: 4.00 Default: 0.60
-    MechanicsLootNew = 0.6,
+    MechanicsLootNew = 1.0,
     -- Everything else. Also affects foraging for all items in Town/Road zones. Min: 0.00 Max: 4.00 Default: 0.80
-    OtherLootNew = 0.8,
+    OtherLootNew = 1.0,
     -- All wearable items that are not containers. Min: 0.00 Max: 4.00 Default: 0.60
-    ClothingLootNew = 0.6,
+    ClothingLootNew = 1.0,
     -- Backpacks and other wearable/equippable containers, eg. cases. Min: 0.00 Max: 4.00 Default: 0.60
-    ContainerLootNew = 0.6,
+    ContainerLootNew = 1.0,
     -- Keys for buildings/cars, key rings, and locks. Min: 0.00 Max: 4.00 Default: 0.40
-    KeyLootNew = 0.4,
+    KeyLootNew = 1.0,
     -- VHS tapes and CDs. Min: 0.00 Max: 4.00 Default: 0.60
-    MediaLootNew = 0.6,
+    MediaLootNew = 1.0,
     -- Spiffo items, plushies, and other collectible keepsake items eg. Photos. Min: 0.00 Max: 4.00 Default: 0.60
-    MementoLootNew = 0.6,
+    MementoLootNew = 1.0,
     -- Items that are used in cooking, including those (eg. knives) which can be weapons. Does not include food. Includes both usable and unusable items. Min: 0.00 Max: 4.00 Default: 0.60
-    CookwareLootNew = 0.6,
+    CookwareLootNew = 1.0,
     -- Items and weapons that are used as ingredients for crafting or building. This is a general category that does not include items belonging to other categories such as Cookware or Medical. Does not include Tools. Min: 0.00 Max: 4.00 Default: 0.60
-    MaterialLootNew = 0.6,
+    MaterialLootNew = 1.0,
     -- Items and weapons which are used in both animal and plant agriculture, such as Seeds, Trowels, or Shovels. Min: 0.00 Max: 4.00 Default: 0.60
-    FarmingLootNew = 0.6,
+    FarmingLootNew = 1.0,
     -- Items and weapons which are Tools but don't fit in other categories such as Mechanics or Farming. Min: 0.00 Max: 4.00 Default: 0.60
-    ToolLootNew = 0.6,
+    ToolLootNew = 1.0,
     -- <BHC> [!] It is recommended that you DO NOT change this. [!] <RGB:1,1,1>   Can be used to adjust the number of rolls made on loot tables when spawning loot. Will not reduce the number of rolls below 1. Can negatively affect performance if set to high values. It is highly recommended that this not be changed. Min: 0.10 Max: 100.00 Default: 1.00
     RollsMultiplier = 1.0,
     -- A comma-separated list of item types that won't spawn as ordinary loot.
@@ -184,17 +187,17 @@ SandboxVars = {
     -- If enabled, items on the Loot Item Removal List, or that have their rarity set to 'None', will not spawn worn by, or attached to, zombies.
     RemoveZombieLoot = false,
     -- If greater than 0, the spawn of loot is increased relative to the number of nearby zombies,  with the effect multiplied by this number. Min: 0 Max: 20 Default: 0
-    ZombiePopLootEffect = 0,
+    ZombiePopLootEffect = 10,
     -- Min: 0.00 Max: 0.20 Default: 0.05
-    InsaneLootFactor = 0.05,
+    InsaneLootFactor = 0.04,
     -- Min: 0.05 Max: 0.60 Default: 0.20
-    ExtremeLootFactor = 0.2,
+    ExtremeLootFactor = 0.1,
     -- Min: 0.20 Max: 1.00 Default: 0.60
-    RareLootFactor = 0.6,
+    RareLootFactor = 1.4,
     -- Min: 0.60 Max: 2.00 Default: 1.00
-    NormalLootFactor = 1.0,
+    NormalLootFactor = 2.0,
     -- Min: 1.00 Max: 3.00 Default: 2.00
-    CommonLootFactor = 2.0,
+    CommonLootFactor = 3.0,
     -- Min: 2.00 Max: 4.00 Default: 3.00
     AbundantLootFactor = 3.0,
     -- The global temperature. Default = Normal
@@ -217,7 +220,7 @@ SandboxVars = {
     -- 3 = Normal (100 Days)
     -- 4 = Slow (200 Days)
     -- 5 = Very Slow (500 Days)
-    ErosionSpeed = 4,
+    ErosionSpeed = 3,
     -- For a custom Erosion Speed. Zero means use the Erosion Speed option. Maximum is 36,500 days (approximately 100 years). Min: -1 Max: 36500 Default: 0
     ErosionDays = 0,
     -- The speed of plant growth. Default = Normal
@@ -268,7 +271,7 @@ SandboxVars = {
     -- 6 = Very Often
     LockedHouses = 6,
     -- Spawn with Chips, a Water Bottle, a Small Backpack, a Baseball Bat, and a Hammer.
-    StarterKit = false,
+    StarterKit = true,
     -- Nutritional value of food affects the player's condition. Turning this off will stop the player gaining or losing weight.
     Nutrition = true,
     -- How fast that food will spoil, inside or outside of a fridge. Default = Normal
@@ -289,9 +292,9 @@ SandboxVars = {
     -- When greater than 0, loot will not respawn in zones that have been visited within this number of in-game hours. Min: 0 Max: 2147483647 Default: 0
     SeenHoursPreventLootRespawn = 0,
     -- When greater than 0, after X hours, all containers in towns and trailer parks in the world will respawn loot. To spawn loot a container must have been looted at least once. Loot respawn is not impacted by visibility or subsequent looting. Min: 0 Max: 2147483647 Default: 0
-    HoursForLootRespawn = 0,
+    HoursForLootRespawn = 1,
     -- Containers with a number of items greater, or equal to, this setting will not respawn. Min: 0 Max: 2147483647 Default: 5
-    MaxItemsForLootRespawn = 5,
+    MaxItemsForLootRespawn = 2147483647,
     -- Items will not respawn in buildings that players have barricaded or built in.
     ConstructionPreventsLootRespawn = true,
     -- A comma-separated list of item types that will be removed after HoursForWorldItemRemoval hours.
@@ -362,7 +365,7 @@ SandboxVars = {
     -- 5 = Normal
     -- 6 = Common
     -- 7 = Abundant
-    GeneratorSpawning = 4,
+    GeneratorSpawning = 3,
     -- How often a looted map will have notes on it, written by a deceased survivor. Default = Sometimes
     -- 1 = Never
     -- 2 = Extremely Rare
@@ -372,7 +375,7 @@ SandboxVars = {
     -- 6 = Very Often
     AnnotatedMapChance = 4,
     -- Adds free points during character creation. Min: -100 Max: 100 Default: 0
-    CharacterFreePoints = 0,
+    CharacterFreePoints = 12,
     -- Gives player-built constructions extra hit points so they are  more resistant to zombie damage. Default = Normal
     -- 1 = Very Low
     -- 2 = Low
@@ -401,7 +404,7 @@ SandboxVars = {
     -- 3 = High
     InjurySeverity = 2,
     -- How long, in hours, before dead zombie bodies disappear from the world.  If 0, maggots will not spawn on corpses. Min: -1.00 Max: 2147483647.00 Default: 216.00
-    HoursForCorpseRemoval = 216.0,
+    HoursForCorpseRemoval = 108.0,
     -- The impact that nearby decaying bodies has on the player's health and emotions. Default = Normal
     -- 1 = None
     -- 2 = Low
@@ -417,7 +420,7 @@ SandboxVars = {
     -- 3 = Normal
     -- 4 = High
     -- 5 = Ultra Gore
-    BloodLevel = 3,
+    BloodLevel = 4,
     -- How quickly clothing degrades, becomes dirty, and bloodied. Default = Normal
     -- 1 = Disabled
     -- 2 = Slow
@@ -425,7 +428,7 @@ SandboxVars = {
     -- 4 = Fast
     ClothingDegradation = 3,
     -- If fires spread when started.
-    FireSpread = true,
+    FireSpread = false,
     -- Number of in-game days before rotten food is removed from the map.  -1 means rotten food is never removed. Min: -1 Max: 2147483647 Default: -1
     DaysForRottenFoodRemoval = -1,
     -- If enabled, generators will work on exterior tiles.  This will allow, for example, the powering of gas pumps.
@@ -453,7 +456,7 @@ SandboxVars = {
     -- 5 = Often
     -- 6 = Very Often
     -- 7 = Always Tries
-    SurvivorHouseChance = 3,
+    SurvivorHouseChance = 4,
     -- The chance of road stories (eg. police roadblocks) spawning. Default = Rare
     -- 1 = Never
     -- 2 = Extremely Rare
@@ -462,7 +465,7 @@ SandboxVars = {
     -- 5 = Often
     -- 6 = Very Often
     -- 7 = Always Tries
-    VehicleStoryChance = 3,
+    VehicleStoryChance = 4,
     -- The chance of stories specific to map zones (eg. a campsite in a forest) spawning. Default = Rare
     -- 1 = Never
     -- 2 = Extremely Rare
@@ -484,7 +487,7 @@ SandboxVars = {
     -- 3 = Low
     -- 4 = Normal
     -- 5 = High
-    CarSpawnRate = 3,
+    CarSpawnRate = 5,
     -- General engine loudness to zombies. Min: 0.00 Max: 100.00 Default: 1.00
     ZombieAttractionMultiplier = 1.0,
     -- Whether found vehicles are locked, need keys to start etc.
@@ -496,15 +499,15 @@ SandboxVars = {
     -- 4 = High
     -- 5 = Very High
     -- 6 = Full
-    InitialGas = 2,
+    InitialGas = 3,
     -- If enabled, gas pumps will never run out of fuel
-    FuelStationGasInfinite = false,
+    FuelStationGasInfinite = true,
     -- The minimum amount of gasoline that can spawn in gas pumps. Check the "Advanced" box below to use a custom amount. Min: 0.00 Max: 1.00 Default: 0.00
     FuelStationGasMin = 0.0,
     -- The maximum amount of gasoline that can spawn in gas pumps. Check the "Advanced" box below to use a custom amount. Min: 0.00 Max: 1.00 Default: 0.80
-    FuelStationGasMax = 0.8,
+    FuelStationGasMax = 1.0,
     -- The chance, as a percentage, that individual gas pumps will initially have no fuel. Min: 0 Max: 100 Default: 20
-    FuelStationGasEmptyChance = 20,
+    FuelStationGasEmptyChance = 0,
     -- How likely cars will be locked Default = Sometimes
     -- 1 = Never
     -- 2 = Extremely Rare
@@ -535,7 +538,7 @@ SandboxVars = {
     -- 3 = Normal
     -- 4 = High
     -- 5 = Very High
-    DamageToPlayerFromHitByACar = 1,
+    DamageToPlayerFromHitByACar = 3,
     -- If traffic jams consisting of wrecked cars  will appear on main roads.
     TrafficJam = true,
     -- How frequently discovered vehicles have active alarms. Default = Rare
@@ -549,12 +552,12 @@ SandboxVars = {
     -- If the player can get injured from being in a car accident.
     PlayerDamageFromCrash = true,
     -- How many in-game hours before a wailing siren shuts off. Min: 0.00 Max: 168.00 Default: 0.00
-    SirenShutoffHours = 0.0,
+    SirenShutoffHours = 0.5,
     -- The chance of finding a vehicle with gas in its tank. Default = Normal
     -- 1 = Low
     -- 2 = Normal
     -- 3 = High
-    ChanceHasGas = 2,
+    ChanceHasGas = 3,
     -- Whether a player can discover a car that has been cared for  after the Knox infection struck. Default = Low
     -- 1 = None
     -- 2 = Low
@@ -562,7 +565,7 @@ SandboxVars = {
     -- 4 = High
     RecentlySurvivorVehicles = 2,
     -- If certain melee weapons will be able to strike multiple zombies in one hit.
-    MultiHitZombies = false,
+    MultiHitZombies = true,
     -- Chance of being bitten when a zombie attacks from behind. Default = High
     -- 1 = Low
     -- 2 = Medium
@@ -593,7 +596,7 @@ SandboxVars = {
     -- 4 = Normal
     -- 5 = Slow
     -- 6 = Very Slow
-    AnimalPregnancyTime = 4,
+    AnimalPregnancyTime = 3,
     -- Speed at which animals age. Default = Normal
     -- 1 = Ultra Fast
     -- 2 = Very Fast
@@ -601,7 +604,7 @@ SandboxVars = {
     -- 4 = Normal
     -- 5 = Slow
     -- 6 = Very Slow
-    AnimalAgeModifier = 4,
+    AnimalAgeModifier = 2,
     -- Default = Normal
     -- 1 = Ultra Fast
     -- 2 = Very Fast
@@ -671,7 +674,7 @@ SandboxVars = {
     -- If true, you will be able to see any recipes that can be done with a station, even if you haven't learnt them yet.
     SeeNotLearntRecipe = true,
     -- If a building has more than this amount of rooms it will not be looted. Min: 0 Max: 200 Default: 50
-    MaximumLootedBuildingRooms = 50,
+    MaximumLootedBuildingRooms = 0,
     -- If poison can be added to food. Default = True
     -- 1 = True
     -- 2 = False
@@ -681,20 +684,20 @@ SandboxVars = {
     -- 1 = In and Around Bodies
     -- 2 = In Bodies Only
     -- 3 = Never
-    MaggotSpawn = 1,
+    MaggotSpawn = 3,
     -- The higher the value, the longer lightbulbs last before breaking.  If 0, lightbulbs will never break.  Does not affect vehicle headlights. Min: 0.00 Max: 1000.00 Default: 2.00
-    LightBulbLifespan = 2.0,
+    LightBulbLifespan = 0.0,
     -- The abundance of fish in rivers and lakes. Default = Poor
     -- 1 = Very Poor
     -- 2 = Poor
     -- 3 = Normal
     -- 4 = Abundant
     -- 5 = Very Abundant
-    FishAbundance = 2,
+    FishAbundance = 4,
     -- When a skill is at this level or above, television/VHS/other media  will not provide XP for it. Min: 0 Max: 10 Default: 3
-    LevelForMediaXPCutoff = 3,
+    LevelForMediaXPCutoff = 10,
     -- When a skill is at this level or above, scrapping furniture does not provide XP for the relevant skill. Does not apply to Electrical. Min: 0 Max: 10 Default: 0
-    LevelForDismantleXPCutoff = 0,
+    LevelForDismantleXPCutoff = 10,
     -- Number of days before old blood splats are removed. Removal happens when map chunks are loaded. 0 means they will never disappear. Min: 0 Max: 365 Default: 0
     BloodSplatLifespanDays = 0,
     -- Number of days before one can benefit from reading previously read literature items. Min: 1 Max: 365 Default: 45
@@ -706,7 +709,7 @@ SandboxVars = {
     -- 4 = 1 point penalty for every negative trait selected after the first
     NegativeTraitsPenalty = 1,
     -- The number of in-game minutes it takes to read one page of a skill book. Min: 0.00 Max: 60.00 Default: 2.00
-    MinutesPerPage = 2.0,
+    MinutesPerPage = 0.05,
     -- When enabled, crops and herbs grown inside buildings will die. Does not affect houseplants.
     KillInsideCrops = true,
     -- When enabled, the growth of plants is affected by seasons.
@@ -718,19 +721,19 @@ SandboxVars = {
     -- The abundance of harvested crops. Min: 0.10 Max: 10.00 Default: 1.00
     FarmingAmountNew = 1.0,
     -- The chance that any building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0 Max: 200 Default: 25
-    MaximumLooted = 25,
+    MaximumLooted = 0,
     -- How long it takes for Maximum Looted Building Chance to be reached. Min: 0 Max: 3650 Default: 90
-    DaysUntilMaximumLooted = 90,
+    DaysUntilMaximumLooted = 0,
     -- The chance that any rural building will already be looted when found. Check the "Advanced" box below to use a custom number. Min: 0.00 Max: 2.00 Default: 0.50
-    RuralLooted = 0.5,
+    RuralLooted = 0.0,
     -- The maximum loot that won't spawn when Days Until Maximum Diminished Loot is reached. Check the "Advanced" box below to use an exact percentage. Min: 0 Max: 100 Default: 20
-    MaximumDiminishedLoot = 20,
+    MaximumDiminishedLoot = 0,
     -- How long it takes for Maximum Diminished Loot Percentage to be reached. Min: 0 Max: 3650 Default: 3650
-    DaysUntilMaximumDiminishedLoot = 3650,
+    DaysUntilMaximumDiminishedLoot = 0,
     -- Functions as a multiplier when applying muscle strain from swinging weapons or carrying heavy loads. Min: 0.00 Max: 10.00 Default: 0.70
-    MuscleStrainFactor = 0.7,
+    MuscleStrainFactor = 0.2,
     -- Functions as a multiplier when applying discomfort from worn items. Min: 0.00 Max: 10.00 Default: 0.80
-    DiscomfortFactor = 0.8,
+    DiscomfortFactor = 0.5,
     -- If greater than zero damage can be taken from serious wound infections. Min: 0.00 Max: 10.00 Default: 1.00
     WoundInfectionFactor = 1.0,
     -- If true clothing with randomized tints will not be so dark to be virtually black.
@@ -762,6 +765,47 @@ SandboxVars = {
     GeneratorTileRange = 20,
     -- How many levels both above and below a generator it can provide with electricity. Min: 1 Max: 15 Default: 3
     GeneratorVerticalPowerRange = 3,
+    BuildingCraftDivider4 = false,
+    MenuNotStayingOnTop = false,
+    BuildingCraftDisableMenu = false,
+    BuildingCraftRiver = false,
+    BuildingCraftDivider3 = false,
+    DisableBulbConversion = false,
+    BuildingCraftDivider0 = false,
+    IsDoorInvincible = false,
+    IsWallFenceInvincible = false,
+    IsAllTileInvincible = false,
+    BuildingCraftDivider1 = false,
+    IsCrateCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    CrateCustomizeSizeCapacity = 50,
+    IsLogsCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    LogsCustomizeSizeCapacity = 50,
+    IsMetalCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    MetalCustomizeSizeCapacity = 50,
+    IsFridgeCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    FridgeCustomizeSizeCapacity = 50,
+    -- Min: 0 Max: 5000 Default: 50
+    FreezerCustomizeSizeCapacity = 50,
+    IsAllCustomizeSizeCapacity = false,
+    -- Min: 0 Max: 5000 Default: 50
+    AllCustomizeSizeCapacity = 50,
+    BuildingCraftDivider2 = false,
+    BuildingCraftMaterialChange = true,
+    -- Min: 0 Max: 100 Default: 2
+    BuildingWallPaintConsumption = 2,
+    -- Min: 0 Max: 100 Default: 2
+    BuildingHightScrapMetalConsumption = 2,
+    -- Min: 0 Max: 100 Default: 0
+    BuildingGlassWallWindowGlassPanelConsumption = 0,
+    BuildingCraftDivider5 = false,
+    BuildingCraftMaterialFilter = "",
+    VRO_EnableEngineRebuild = false,
+    VRO_UseVanillaFixingRecipes = false,
+    VRO_EnableFullVehicleSalvaging = true,
     Basement = {
         -- How frequently basements spawn at random locations. Default = Sometimes
         -- 1 = Never
@@ -775,7 +819,7 @@ SandboxVars = {
     },
     Map = {
         -- If enabled, a mini-map window will be available.
-        AllowMiniMap = false,
+        AllowMiniMap = true,
         -- If enabled, the world map can be accessed.
         AllowWorldMap = true,
         -- If enabled, the world map will be completely filled in on starting the game.
@@ -803,13 +847,13 @@ SandboxVars = {
         -- 2 = Normal
         -- 3 = Fragile
         -- 4 = Random
-        Toughness = 4,
+        Toughness = 2,
         -- How the Knox Virus spreads. Default = Blood and Saliva
         -- 1 = Blood and Saliva
         -- 2 = Saliva Only
         -- 3 = Everyone's Infected
         -- 4 = None
-        Transmission = 1,
+        Transmission = 2,
         -- How quickly the infection takes effect. Default = 2-3 Days
         -- 1 = Instant
         -- 2 = 0-30 Seconds
@@ -826,7 +870,7 @@ SandboxVars = {
         -- 4 = 0-12 Hours
         -- 5 = 2-3 Days
         -- 6 = 1-2 Weeks
-        Reanimate = 3,
+        Reanimate = 5,
         -- Zombie intelligence. Default = Basic Navigation
         -- 1 = Navigate and Use Doors
         -- 2 = Navigate
@@ -843,7 +887,7 @@ SandboxVars = {
         -- 5 = Often
         -- 6 = Very Often
         -- 7 = Always
-        CrawlUnderVehicle = 5,
+        CrawlUnderVehicle = 4,
         -- How long zombies remember a player after seeing or hearing them. Default = Normal
         -- 1 = Long
         -- 2 = Normal
@@ -858,14 +902,14 @@ SandboxVars = {
         -- 3 = Poor
         -- 4 = Random
         -- 5 = Random between Normal and Poor
-        Sight = 5,
+        Sight = 2,
         -- Zombie hearing radius. Default = Random between Normal and Poor
         -- 1 = Pinpoint
         -- 2 = Normal
         -- 3 = Poor
         -- 4 = Random
         -- 5 = Random between Normal and Poor
-        Hearing = 5,
+        Hearing = 2,
         -- Activates the new advanced stealth mechanics, which allows you to hide from zombies behind cars, takes traits and weather into account, and much more.
         SpottedLogic = true,
         -- If zombies that have not seen/heard player can attack doors and constructions while roaming.
@@ -884,13 +928,13 @@ SandboxVars = {
         -- If crawler zombies beside a player contribute to the chance of being dragged down and killed by a group of zombies.
         ZombiesCrawlersDragDown = false,
         -- If zombies have a chance to lunge at you after climbing over a fence or through a window if you're too close.
-        ZombiesFenceLunge = true,
+        ZombiesFenceLunge = false,
         -- Serves as a multiplier when determining the effectiveness of armor worn by zombies. Min: 0.00 Max: 100.00 Default: 2.00
         ZombiesArmorFactor = 2.0,
         -- The maximum defense percentage that any worn protective garments can provide to a zombie. Min: 0 Max: 100 Default: 85
         ZombiesMaxDefense = 85,
         -- Percentage chance of having a random attached weapon. Min: 0 Max: 100 Default: 6
-        ChanceOfAttachedWeapon = 6,
+        ChanceOfAttachedWeapon = 12,
         -- How much damage zombies take when falling from height. Min: 0.00 Max: 100.00 Default: 1.00
         ZombiesFallDamage = 1.0,
         -- Whether some dead-looking zombies will reanimate and attack the player. Default = World Zombies
@@ -917,7 +961,7 @@ SandboxVars = {
         -- A multiplier for the desired zombie population on the peak day. Insane = 3.0, Very High = 2.0, High = 1.5, Normal = 1.0, Low = 0.5, None = 0.0. Min: 0.00 Max: 4.00 Default: 1.50
         PopulationPeakMultiplier = 1.5,
         -- The day when the population reaches its peak. Min: 1 Max: 365 Default: 28
-        PopulationPeakDay = 28,
+        PopulationPeakDay = 365,
         -- The number of hours that must pass before zombies may respawn in a cell. If 0, spawning is disabled. Min: 0.00 Max: 8760.00 Default: 0.00
         RespawnHours = 0.0,
         -- The number of hours that a chunk must be unseen before zombies may respawn in it. Min: 0.00 Max: 8760.00 Default: 0.00
@@ -1016,5 +1060,1260 @@ SandboxVars = {
         Butchering = 1.0,
         -- Rate at which Glassmaking skill levels up. Min: 0.00 Max: 1000.00 Default: 1.00
         Glassmaking = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Art = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Cleaning = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Dancing = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Meditation = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        Music = 1.0,
+    },
+    RVInterior = {
+        -- Min: 0 Max: 100 Default: 20
+        SafeZombieDistance = 20,
+        NotWhenChased = true,
+        ReturnPlayersToVehicleSeats = true,
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        PowerBankConsumptionMultiplier = 1.0,
+        SpawnStarterPowerBanks = true,
+        -- Min: 0 Max: 10 Default: 5
+        PowerBankElectricalSkill = 5,
+        -- Min: 0 Max: 10 Default: 4
+        PowerBankMetalworkingSkill = 4,
+        -- Min: 0 Max: 100 Default: 25
+        PowerBankMetalPlates = 25,
+        -- Min: 0 Max: 100 Default: 25
+        PowerBankElectricalWire = 25,
+        -- Min: 0 Max: 100 Default: 25
+        PowerBankWire = 25,
+        -- Min: 0 Max: 10 Default: 1
+        PowerBankRedLightBulbs = 1,
+        -- Min: 0 Max: 10 Default: 1
+        PowerBankGreenLightBulbs = 1,
+        -- Min: 0 Max: 25 Default: 4
+        PowerBankMetalBars = 4,
+        -- Min: 0 Max: 10 Default: 10
+        PowerBankTorchChargeUnits = 10,
+        -- Min: 1 Max: 3650 Default: 21
+        AbandonedInteriorRealDays = 21,
+    },
+    KillCount = {
+        doExport = false,
+        includePostDeathUI = true,
+        -- Min: 0 Max: 10000000 Default: 500
+        MaxUpdateDelay = 500,
+        shareOnServer = true,
+        keepTrackOfDead = true,
+    },
+    UnifiedCarryWeightFramework = {
+        CapWeight = true,
+        GatherDetailedDebug = false,
+    },
+    GWG = {
+        -- Min: 0 Max: 5 Default: 0
+        MultiplayerTick = 0,
+    },
+    MorePlushies = {
+        Loot = 3,
+        CommonPlushies = true,
+        -- Min: 1 Max: 100 Default: 50
+        CommonPlushiesRates = 50,
+        UncommonPlushies = true,
+        -- Min: 1 Max: 100 Default: 40
+        UncommonPlushiesRates = 40,
+        RarePlushies = true,
+        -- Min: 1 Max: 100 Default: 30
+        RarePlushiesRates = 30,
+        VeryRarePlushies = true,
+        -- Min: 1 Max: 100 Default: 15
+        VeryRarePlushiesRates = 15,
+        LocationsToy = true,
+        LocationsGeneral = true,
+        LocationsIncidental = true,
+    },
+    PropaneExchangeCabinet = {
+        Enabled = true,
+        -- Min: 0 Max: 100 Default: 50
+        SpawnChance = 50,
+        -- Min: 0 Max: 6 Default: 6
+        MaxTanks = 6,
+        -- Min: 0 Max: 100 Default: 55
+        FillWeightFull = 55,
+        -- Min: 0 Max: 100 Default: 15
+        FillWeightEmpty = 15,
+        -- Min: 0 Max: 100 Default: 25
+        MagazineChance = 25,
+        MagazineOnePerSave = true,
+        RemoveNewCabinets = false,
+    },
+    LBO = {
+        -- Min: 15.00 Max: 49.00 Default: 49.00
+        BagCapacity = 49.0,
+        -- Min: 0.90 Max: 0.99 Default: 0.99
+        BagRunSpeedModifier = 0.95,
+        -- Min: 50.00 Max: 99.00 Default: 99.00
+        BagWeightReduction = 99.0,
+        -- Min: 0.00 Max: 4.00 Default: 0.15
+        DropLBC = 1.0E-5,
+        -- Min: 0.00 Max: 4.00 Default: 0.35
+        DropLBR = 5.0E-5,
+        -- Min: 0.00 Max: 4.00 Default: 0.80
+        DropMLB = 1.0E-5,
+        StartWithLBGrey = false,
+    },
+    LSO = {
+        -- Min: 15.00 Max: 49.00 Default: 49.00
+        BagCapacity = 25.0,
+        -- Min: 0.90 Max: 0.99 Default: 0.99
+        BagRunSpeedModifier = 0.95,
+        -- Min: 50.00 Max: 99.00 Default: 99.00
+        BagWeightReduction = 95.0,
+        -- Min: 0.00 Max: 4.00 Default: 0.15
+        DropLSC = 1.0E-5,
+        -- Min: 0.00 Max: 4.00 Default: 0.35
+        DropLSR = 5.0E-5,
+        -- Min: 0.00 Max: 4.00 Default: 0.80
+        DropMLS = 1.0E-5,
+        StartWithLSGrey = false,
+    },
+    ZombieVirusVaccineBETA = {
+        DebugMode = false,
+        EnableWorldLoot = true,
+        LootChemicals = 3,
+        ExpandChemicalsLoot = false,
+        EnableVehicleLoot = true,
+        EnableBagsLoot = true,
+        LootSyringes = 3,
+        LootEquipmentBooks = 3,
+        LootVirologyBooks = 3,
+        VirologyBooksSpawnMode = 2,
+        BloodAgingMode = true,
+        -- Min: 5 Max: 21 Default: 14
+        BloodAgingRadius = 14,
+        EnableWaterPurification = true,
+        -- Min: 5 Max: 21 Default: 5
+        WaterPurificationRadius = 5,
+        EnableLightPaints = true,
+        AllowWindowGlass = true,
+        AllowAutopsyOnGround = true,
+        -- Min: 800 Max: 1800 Default: 1200
+        AutopsySpeed = 1200,
+        -- Min: 2 Max: 72 Default: 12
+        AutopsyMaxHours = 12,
+        -- Min: 0 Max: 30 Default: 30
+        TicksDecreasedByPerkLv = 30,
+        TableSpeedBonus = 6,
+        -- Min: 0 Max: 15 Default: 15
+        AutopsyGroundXP = 15,
+        -- Min: 0 Max: 30 Default: 30
+        AutopsyTableXP = 30,
+        -- Min: 0 Max: 30 Default: 15
+        CollectPartXP = 15,
+        -- Min: 0 Max: 15 Default: 10
+        BrainHighOffset = 10,
+        -- Min: 0 Max: 30 Default: 10
+        HemophobicDebuff = 10,
+        AllowScalpelDegrade = false,
+        AllowSawDegrade = true,
+        StartingKit = true,
+    },
+    EvolvingTraitsWorld = {
+        DisableAllDynamicTraits = false,
+        AffinitySystem = true,
+        -- Min: 1.00 Max: 100.00 Default: 2.00
+        AffinitySystemLoseDivider = 2.0,
+        -- Min: 1.00 Max: 100.00 Default: 2.00
+        AffinitySystemGainMultiplier = 2.0,
+        DelayedTraitsSystem = true,
+        -- Min: 1 Max: 100000 Default: 336
+        DelayedTraitsSystemDefaultDelay = 336,
+        -- Min: 1 Max: 100000 Default: 504
+        DelayedTraitsSystemDefaultStartingDelay = 504,
+        UIPage = true,
+        ServerLogs = false,
+        BraverySystem = true,
+        -- Min: 0 Max: 10000000 Default: 14000
+        BraverySystemKills = 14000,
+        BraverySystemRemovesOtherFearPerks = false,
+        EatingSpeedSystem = true,
+        -- Min: 0 Max: 10000000 Default: 216000
+        EatingSpeedSystemCounter = 216000,
+        FearOfLocationsSystem = true,
+        FearOfLocationsExclusiveFears = true,
+        -- Min: 0.00 Max: 8.00 Default: 0.10
+        FearOfLocationsSystemPassiveCounterDecay = 0.1,
+        -- Min: 0 Max: 10000000 Default: 8000
+        FearOfLocationsSystemCounter = 8000,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        FearOfLocationsSystemCounterLoseMultiplier = 1.0,
+        FogSystem = true,
+        -- Min: 0 Max: 10000000 Default: 20000
+        FogSystemCounter = 20000,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        FogSystemCounterIncreaseMultiplier = 10.0,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        FogSystemCounterDecreaseMultiplier = 10.0,
+        FoodSicknessSystem = true,
+        -- Min: 0 Max: 10000000 Default: 40000
+        FoodSicknessSystemCounter = 40000,
+        -- Min: 0.00 Max: 100.00 Default: 0.10
+        FoodSicknessSystemNormalSicknessMultiplier = 0.1,
+        IdealWeight = true,
+        -- Min: 1.00 Max: 10000000.00 Default: 18000.00
+        IdealWeightCounter = 18000.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        IdealWeightProgressGainMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        IdealWeightProgressLossMultiplier = 1.0,
+        Blissful = true,
+        -- Min: 0.00 Max: 1.00 Default: 0.90
+        BlissfulGainThreshold = 0.9,
+        -- Min: 0.00 Max: 1.00 Default: 0.80
+        BlissfulLoseThreshold = 0.8,
+        FoodSystem = true,
+        -- Min: 0.00 Max: 1.00 Default: 0.82
+        FoodSystemGainPositiveThreshold = 0.82,
+        -- Min: 0.00 Max: 1.00 Default: 0.72
+        FoodSystemLosePositiveThreshold = 0.72,
+        -- Min: 0.00 Max: 1.00 Default: 0.70
+        FoodSystemLoseNegativeThreshold = 0.7,
+        -- Min: 0.00 Max: 1.00 Default: 0.55
+        FoodSystemGainNegativeThreshold = 0.55,
+        HearingSystem = true,
+        -- Min: 0 Max: 100 Default: 80
+        HearingSystemSkill = 80,
+        ImmunitySystem = true,
+        -- Min: 0 Max: 10000000 Default: 9000
+        ImmunitySystemCounter = 9000,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        ImmunitySystemInfectionMultiplier = 10.0,
+        InjuriesSystem = true,
+        -- Min: 1 Max: 10000000 Default: 10000
+        InjuriesSystemCounter = 10000,
+        -- Min: 0.00 Max: 100.00 Default: 0.50
+        InjuriesSystemPassiveCounterDecay = 0.5,
+        HealerSystem = true,
+        -- Min: 1 Max: 10000000 Default: 10000
+        HealerSystemCounter = 10000,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        HealerSystemProperlyTendedMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        HealerSystemNeedsAttentionMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 0.10
+        HealerSystemSleepingMultiplier = 0.1,
+        -- Min: 0.00 Max: 100.00 Default: 2.00
+        BodyScratchContribution = 2.0,
+        -- Min: 0.00 Max: 100.00 Default: 4.00
+        BodyLacerationContribution = 4.0,
+        -- Min: 0.00 Max: 100.00 Default: 6.00
+        BodyDeepWoundContribution = 6.0,
+        -- Min: 0.00 Max: 100.00 Default: 8.00
+        BodyBiteContribution = 8.0,
+        -- Min: 0.00 Max: 100.00 Default: 6.00
+        BodyBurnContribution = 6.0,
+        -- Min: 0.00 Max: 100.00 Default: 6.00
+        BodyFractureContribution = 6.0,
+        -- Min: 0.00 Max: 100.00 Default: 8.00
+        BodyLodgedBulletContribution = 8.0,
+        -- Min: 0.00 Max: 100.00 Default: 4.00
+        BodyLodgedGlassContribution = 4.0,
+        InventoryTransferSystem = true,
+        -- Min: 0 Max: 10000000 Default: 40000
+        InventoryTransferSystemItems = 40000,
+        -- Min: 0 Max: 10000000 Default: 30000
+        InventoryTransferSystemWeight = 30000,
+        LearnerSystem = true,
+        -- Min: 0 Max: 90 Default: 60
+        LearnerSystemSkill = 60,
+        LuckSystem = true,
+        -- Min: 0.00 Max: 100.00 Default: 66.00
+        LuckSystemSkill = 66.0,
+        RainSystem = true,
+        -- Min: 0 Max: 10000000 Default: 40000
+        RainSystemCounter = 40000,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        RainSystemCounterIncreaseMultiplier = 10.0,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        RainSystemCounterDecreaseMultiplier = 10.0,
+        ReaderSystem = true,
+        -- Min: 0 Max: 10000000 Default: 10000
+        ReaderSystemCounter = 10000,
+        SleepSystem = true,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        SleepSystemMultiplier = 1.0,
+        TraitsLockSystemCanLosePositive = true,
+        TraitsLockSystemCanGainPositive = true,
+        TraitsLockSystemCanLoseNegative = true,
+        TraitsLockSystemCanGainNegative = true,
+        ThirstSystem = true,
+        -- Min: 0.00 Max: 1.00 Default: 0.85
+        ThirstSystemGainPositiveThreshold = 0.85,
+        -- Min: 0.00 Max: 1.00 Default: 0.76
+        ThirstSystemLosePositiveThreshold = 0.76,
+        -- Min: 0.00 Max: 1.00 Default: 0.75
+        ThirstSystemLoseNegativeThreshold = 0.75,
+        -- Min: 0.00 Max: 1.00 Default: 0.60
+        ThirstSystemGainNegativeThreshold = 0.6,
+        BloodlustMoodle = true,
+        -- Min: 1 Max: 480 Default: 6
+        BloodlustMoodleVisibilityHours = 6,
+        SleepMoodle = true,
+        InjuredBurns = true,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
+        InjuredWoundTimeMultiplier = 2.0,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
+        BrokenLegFractureTimeMultiplier = 2.0,
+        -- Min: 0.00 Max: 10.00 Default: 0.10
+        DeprivedUnhappinessPerMinute = 0.1,
+        -- Min: 0 Max: 100 Default: 75
+        DeprivedCapacityThresholdPercent = 75,
+        -- Min: 0.00 Max: 10.00 Default: 0.80
+        AntiGunAimingTimeMultiplier = 0.8,
+        -- Min: 0 Max: 200 Default: 25
+        TerminatorDamageBonusPercent = 25,
+        -- Min: 0.00 Max: 10.00 Default: 2.00
+        TerminatorAimingTimeMultiplier = 2.0,
+        -- Min: 0.00 Max: 100.00 Default: 5.00
+        TerminatorMaxRangeBonus = 5.0,
+        -- Min: 0.00 Max: 1.00 Default: 0.50
+        TerminatorJamChanceMultiplier = 0.5,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        TerminatorPanicReductionPerMinute = 10.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        TerminatorStressReductionPercentPerMinute = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 5.00
+        AntiGunMaxRangePenalty = 5.0,
+        -- Min: 0.00 Max: 100.00 Default: 2.00
+        AntiGunUnhappinessPerMinute = 2.0,
+        -- Min: 0 Max: 100 Default: 25
+        AntiGunAimingXPPenaltyPercent = 25,
+        -- Min: 0.00 Max: 100.00 Default: 0.10
+        AntiGunMagazineHandlingUnhappinessPerBullet = 0.1,
+        -- Min: 0 Max: 100 Default: 25
+        AntiGunReloadingXPPenaltyPercent = 25,
+        -- Min: 0.00 Max: 10.00 Default: 0.40
+        AnemicBleedingDamage = 0.4,
+        AsceticFoodEffect = true,
+        -- Min: 0.00 Max: 100.00 Default: 0.25
+        AsceticUnhappinessReductionPerMinute = 0.25,
+        -- Min: 0.00 Max: 100.00 Default: 0.25
+        AsceticBoredomReductionPerMinute = 0.25,
+        -- Min: 0 Max: 1000 Default: 25
+        AsceticSimpleFoodGainPercent = 25,
+        AsceticSleepEffect = true,
+        AsceticTelevisionEffect = true,
+        AsceticReadingEffect = true,
+        -- Min: 0 Max: 100 Default: 20
+        BadTeethPainChance = 20,
+        -- Min: 0.00 Max: 100.00 Default: 20.00
+        BadTeethMaxPain = 20.0,
+        -- Min: 0.00 Max: 100.00 Default: 0.70
+        BlissfulUnhappinessReductionPerMinute = 0.7,
+        -- Min: 0.00 Max: 100.00 Default: 0.35
+        BlissfulBoredomReductionPerMinute = 0.35,
+        -- Min: 1 Max: 100000 Default: 2000
+        ButterfingersChanceOneIn = 2000,
+        -- Min: 0 Max: 100 Default: 5
+        ButterfingersTransferDropChance = 5,
+        -- Min: 0 Max: 100 Default: 2
+        DepressiveEpisodeChance = 2,
+        -- Min: 0.00 Max: 100.00 Default: 25.00
+        DepressiveUnhappinessIncrease = 25.0,
+        -- Min: 0.00 Max: 100.00 Default: 0.01
+        DepressiveRecoveryPerMinute = 0.01,
+        -- Min: 0 Max: 100 Default: 25
+        SelfDestructiveUnhappinessThreshold = 25,
+        -- Min: 0.00 Max: 10.00 Default: 0.15
+        SelfDestructiveDamagePerMinute = 0.15,
+        -- Min: 0.00 Max: 100.00 Default: 33.33
+        SelfDestructiveMaximumHealthLossPercent = 33.33,
+        -- Min: 0.00 Max: 100.00 Default: 50.00
+        SelfDestructiveMaxHealthLossWithDepressive = 50.0,
+        -- Min: 0 Max: 100 Default: 1
+        SelfDestructiveDepressiveEpisodeChanceBonus = 1,
+        -- Min: 0 Max: 100 Default: 25
+        ImmunocompromisedKnoxInfectionChance = 25,
+        -- Min: 0.00 Max: 10.00 Default: 0.05
+        ImmunocompromisedWoundInfectionIncreasePerMinute = 0.05,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
+        MadeOfGlassDamageMultiplier = 2.0,
+        -- Min: 0 Max: 100 Default: 33
+        MadeOfGlassInjuryChance = 33,
+        -- Min: 0.00 Max: 100.00 Default: 0.10
+        MadeOfGlassScratchMinimumHealthLoss = 0.1,
+        -- Min: 0.00 Max: 100.00 Default: 0.33
+        MadeOfGlassFractureMinimumHealthLoss = 0.33,
+        -- Min: 0 Max: 1000 Default: 10
+        MadeOfGlassMinimumFractureTime = 10,
+        -- Min: 0 Max: 1000 Default: 29
+        MadeOfGlassMaximumFractureTime = 29,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
+        GymRatExerciseXPMultiplier = 2.0,
+        -- Min: 0 Max: 100 Default: 50
+        GymRatExerciseFatigueReductionPercent = 50,
+        -- Min: 0 Max: 100 Default: 25
+        HardyExtraEndurancePercent = 25,
+        -- Min: 0.00 Max: 1.00 Default: 0.05
+        HardyTransferPerMinute = 0.05,
+        -- Min: 35.00 Max: 200.00 Default: 78.00
+        IdealWeightLowerThreshold = 78.0,
+        -- Min: 35.00 Max: 200.00 Default: 82.00
+        IdealWeightUpperThreshold = 82.0,
+        -- Min: 0.00 Max: 10.00 Default: 1.50
+        IdealWeightUnderMultiplier = 1.5,
+        -- Min: 0.00 Max: 10.00 Default: 0.75
+        IdealWeightOverMultiplier = 0.75,
+        -- Min: 0.00 Max: 100.00 Default: 2.00
+        LeadFootStompPowerMultiplier = 2.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LeadFootStompPowerBonus = 1.0,
+        -- Min: 0.00 Max: 1000.00 Default: 50.00
+        NaturalEaterMentalRecoveryPercentOfHunger = 50.0,
+        -- Min: 0.00 Max: 100.00 Default: 5.00
+        NaturalEaterMaximumMentalRecoveryPercent = 5.0,
+        -- Min: 0.10 Max: 10.00 Default: 0.50
+        GourmandCookingTimeMultiplier = 0.5,
+        -- Min: 0.10 Max: 10.00 Default: 2.00
+        GourmandBurnTimeMultiplier = 2.0,
+        -- Min: 1.00 Max: 10.00 Default: 1.50
+        GourmandCookedFoodBenefitMultiplier = 1.5,
+        -- Min: 1 Max: 1000000 Default: 5000
+        NoodleLegsTripChanceOneIn = 5000,
+        -- Min: 0.00 Max: 200.00 Default: 50.00
+        ActionHeroBaseDamagePercent = 50.0,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        ActionHeroCloseDamageBonusPercent = 10.0,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        ActionHeroBaseCriticalChance = 10.0,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        ActionHeroCloseCriticalChanceBonus = 10.0,
+        -- Min: 0 Max: 100 Default: 5
+        BouncerChance = 5,
+        -- Min: 0 Max: 240 Default: 60
+        BouncerCooldown = 60,
+        -- Min: 0.25 Max: 3.00 Default: 1.75
+        BouncerDistance = 1.75,
+        -- Min: 0 Max: 10000 Default: 1
+        IndefatigableUses = 1,
+        -- Min: 1 Max: 10000 Default: 7
+        IndefatigableCooldownDays = 7,
+        -- Min: 15 Max: 40 Default: 20
+        IndefatigableTriggerHealthPercent = 20,
+        IndefatigableRequiresNearbyZombie = true,
+        -- Min: 0 Max: 1000 Default: 100
+        GordoniteEffectiveness = 100,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
+        UnwaveringMaximumDamageMultiplier = 2.0,
+        -- Min: 0.00 Max: 100.00 Default: 0.50
+        PackMouseWeight = 0.5,
+        -- Min: 0.00 Max: 1000.00 Default: 20.00
+        PackMuleMaxCapacityPercent = 20.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        ParanoiaBaseChancePercent = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 2.00
+        ParanoiaStressChanceBonusPercent = 2.0,
+        -- Min: 0.00 Max: 100.00 Default: 35.00
+        ParanoiaPanicIncrease = 35.0,
+        -- Min: 0.00 Max: 100.00 Default: 10.00
+        ParanoiaStressIncreasePercent = 10.0,
+        -- Min: 0 Max: 100 Default: 25
+        ParanoiaYellChancePercent = 25,
+        -- Min: 0 Max: 1440 Default: 30
+        ParanoiaCooldownMinutes = 30,
+        -- Min: 0.00 Max: 1000.00 Default: 20.00
+        ProwessMeleeDamageBonusPercent = 20.0,
+        -- Min: 0.00 Max: 100.00 Default: 5.00
+        ProwessMeleeBaseCriticalChance = 5.0,
+        -- Min: 0 Max: 100 Default: 33
+        ProwessConditionRestoreChance = 33,
+        -- Min: 0.00 Max: 1000.00 Default: 10.00
+        TavernBrawlerDamageBonusPercent = 10.0,
+        -- Min: 0.00 Max: 95.00 Default: 50.00
+        TavernBrawlerConditionLossReductionPercent = 50.0,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
+        QuickRestRecoveryMultiplier = 2.0,
+        -- Min: 0 Max: 100 Default: 50
+        WellFittedWeightReduction = 50,
+        -- Min: 0 Max: 100 Default: 75
+        WellFittedSpeedPenaltyReduction = 75,
+        -- Min: 0.00 Max: 10.00 Default: 0.15
+        ThickBloodedBleedingHealthPerMinute = 0.15,
+        -- Min: 0.00 Max: 100.00 Default: 50.00
+        SunSensitivityMaximumPain = 50.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        SunSensitivityExposurePerMinute = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 2.00
+        SunSensitivityRecoveryPerMinute = 2.0,
+        -- Min: 0.00 Max: 1.00 Default: 0.50
+        SunSensitivityUmbrellaMultiplier = 0.5,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        BloodlustMultiplier = 1.0,
+        -- Min: 0 Max: 90 Default: 25
+        FastEaterSpeed = 25,
+        -- Min: 0.00 Max: 100.00 Default: 0.50
+        HoarderWeight = 0.5,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        HomichlophileMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        HomichlophobiaMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 5.00
+        PetTherapyMoodBoostMultiplier = 5.0,
+        -- Min: 1 Max: 60000 Default: 5
+        PetTherapyMinutesBetweenPets = 5,
+        -- Min: 0.00 Max: 100.00 Default: 60.00
+        PainToleranceThreshold = 60.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        PluviophileMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        PluviophobiaMultiplier = 1.0,
+        -- Min: 1 Max: 100 Default: 75
+        RestorationExpertChance = 75,
+        -- Min: 0 Max: 90 Default: 25
+        SlowEaterSpeed = 25,
+        Asthmatic = true,
+        -- Min: 0 Max: 10000000 Default: 20000
+        AsthmaticCounter = 20000,
+        Bloodlust = true,
+        -- Min: 0.00 Max: 10.00 Default: 1.00
+        BloodlustFromAnimalsMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 0.50
+        BloodlustMeterFillMultiplier = 0.5,
+        -- Min: 1 Max: 100 Default: 2
+        BloodlustMeterMaxCapMultiplier = 2,
+        -- Min: 1 Max: 10000000 Default: 1000
+        BloodlustProgress = 1000,
+        CatEyes = true,
+        -- Min: 0 Max: 10000000 Default: 250000
+        CatEyesCounter = 250000,
+        EagleEyed = true,
+        -- Min: 0 Max: 50 Default: 20
+        EagleEyedDistance = 20,
+        -- Min: 0 Max: 10000000 Default: 200
+        EagleEyedKills = 200,
+        Herbalist = true,
+        -- Min: 0 Max: 10000000 Default: 250
+        HerbalistHerbsPicked = 250,
+        -- Min: 0 Max: 200 Default: 50
+        HerbalistJournalCounterIncrease = 50,
+        Outdoorsman = true,
+        -- Min: 0 Max: 10000000 Default: 500000
+        OutdoorsmanCounter = 500000,
+        -- Min: 0.00 Max: 100.00 Default: 3.00
+        OutdoorsmanCounterIncreaseMultiplier = 3.0,
+        -- Min: 0.00 Max: 100.00 Default: 3.00
+        OutdoorsmanCounterDecreaseMultiplier = 3.0,
+        Smoker = true,
+        -- Min: 0 Max: 10000000 Default: 500
+        SmokerCounter = 500,
+        -- Min: 0.00 Max: 1000.00 Default: 24.00
+        SmokingAddictionDecay = 24.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        SmokingAddictionMultiplier = 1.0,
+        Mechanics = true,
+        -- Min: 0 Max: 10 Default: 4
+        MechanicsSkill = 4,
+        -- Min: 0 Max: 10000000 Default: 1000
+        MechanicsRepairs = 1000,
+        Mason = true,
+        -- Min: 0 Max: 10 Default: 4
+        MasonSkill = 4,
+        Fishing = true,
+        -- Min: 0 Max: 10 Default: 4
+        FishingSkill = 4,
+        AVClub = true,
+        -- Min: 0 Max: 10 Default: 4
+        AVClubSkill = 4,
+        Artisan = true,
+        -- Min: 0 Max: 20 Default: 8
+        ArtisanSkill = 8,
+        Axeman = true,
+        -- Min: 0 Max: 10000000 Default: 250
+        AxemanTrees = 250,
+        AxeThrower = true,
+        -- Min: 0 Max: 10 Default: 4
+        AxeThrowerSkill = 4,
+        -- Min: 0 Max: 10000000 Default: 200
+        AxeThrowerKills = 200,
+        AntiGunActivist = true,
+        -- Min: 0 Max: 20 Default: 8
+        AntiGunActivistSkill = 8,
+        -- Min: 0 Max: 10000000 Default: 300
+        AntiGunActivistKills = 300,
+        BaseballPlayer = true,
+        -- Min: 0 Max: 10 Default: 4
+        BaseballPlayerSkill = 4,
+        -- Min: 0 Max: 10000000 Default: 200
+        BaseballPlayerKills = 200,
+        Blacksmith = true,
+        -- Min: 0 Max: 20 Default: 12
+        BlacksmithSkill = 12,
+        BladeEnthusiast = true,
+        -- Min: 0 Max: 10 Default: 5
+        BladeEnthusiastSkill = 5,
+        -- Min: 0 Max: 10000000 Default: 250
+        BladeEnthusiastKills = 250,
+        BodyworkEnthusiast = true,
+        -- Min: 0 Max: 20 Default: 12
+        BodyworkEnthusiastSkill = 12,
+        -- Min: 0 Max: 10000000 Default: 6000
+        BodyworkEnthusiastRepairs = 6000,
+        Thuggish = true,
+        -- Min: 0 Max: 20 Default: 12
+        ThuggishSkill = 12,
+        -- Min: 0 Max: 10000000 Default: 600
+        ThuggishKills = 600,
+        Brawler = true,
+        -- Min: 0 Max: 20 Default: 12
+        BrawlerSkill = 12,
+        -- Min: 0 Max: 10000000 Default: 600
+        BrawlerKills = 600,
+        Burglar = true,
+        -- Min: 4 Max: 30 Default: 7
+        BurglarSkill = 7,
+        Clumsy = true,
+        -- Min: 0 Max: 20 Default: 12
+        ClumsySkill = 12,
+        Conspicuous = true,
+        -- Min: 0 Max: 10 Default: 4
+        ConspicuousSkill = 4,
+        Cook = true,
+        -- Min: 0 Max: 20 Default: 8
+        CookSkill = 8,
+        Crafty = true,
+        -- Min: 0 Max: 120 Default: 48
+        CraftySkill = 48,
+        FirstAid = true,
+        -- Min: 0 Max: 10 Default: 4
+        FirstAidSkill = 4,
+        FurnitureAssembler = true,
+        -- Min: 0 Max: 10 Default: 4
+        FurnitureAssemblerSkill = 4,
+        Gardener = true,
+        -- Min: 0 Max: 10 Default: 4
+        GardenerSkill = 4,
+        Graceful = true,
+        -- Min: 0 Max: 30 Default: 9
+        GracefulSkill = 9,
+        GunEnthusiast = true,
+        -- Min: 0 Max: 20 Default: 12
+        GunEnthusiastSkill = 12,
+        -- Min: 0 Max: 10000000 Default: 600
+        GunEnthusiastKills = 600,
+        Gymnast = true,
+        -- Min: 0 Max: 20 Default: 15
+        GymnastSkill = 15,
+        GymRat = true,
+        -- Min: 0 Max: 20 Default: 14
+        GymRatSkill = 14,
+        Handy = true,
+        -- Min: 0 Max: 40 Default: 24
+        HandySkill = 24,
+        Hiker = true,
+        -- Min: 0 Max: 20 Default: 10
+        HikerSkill = 10,
+        Hoarder = true,
+        -- Min: 0 Max: 10000000 Default: 30000
+        HoarderCounter = 30000,
+        HomeCook = true,
+        -- Min: 0 Max: 10 Default: 4
+        HomeCookSkill = 4,
+        Hunter = true,
+        -- Min: 10 Max: 50 Default: 28
+        HunterSkill = 28,
+        -- Min: 0 Max: 10000000 Default: 200
+        HunterKills = 200,
+        Inconspicuous = true,
+        -- Min: 0 Max: 10 Default: 7
+        InconspicuousSkill = 7,
+        KnifeFighter = true,
+        -- Min: 0 Max: 10 Default: 4
+        KnifeFighterSkill = 4,
+        -- Min: 0 Max: 10000000 Default: 200
+        KnifeFighterKills = 200,
+        LightStep = true,
+        -- Min: 0 Max: 10 Default: 4
+        LightStepSkill = 4,
+        LowProfile = true,
+        -- Min: 0 Max: 10 Default: 4
+        LowProfileSkill = 4,
+        PainTolerance = true,
+        -- Min: 0 Max: 10000000 Default: 30000
+        PainToleranceCounter = 30000,
+        -- Min: 0.00 Max: 100.00 Default: 0.10
+        PainToleranceExerciseMultiplier = 0.1,
+        PetTherapy = true,
+        -- Min: 0 Max: 10 Default: 4
+        PetTherapySkill = 4,
+        -- Min: 0 Max: 1000000 Default: 50
+        PetTherapyUniqueAnimalsPetted = 50,
+        PolearmFighter = true,
+        -- Min: 0 Max: 10 Default: 4
+        PolearmFighterSkill = 4,
+        -- Min: 0 Max: 10000000 Default: 200
+        PolearmFighterKills = 200,
+        Quiet = true,
+        -- Min: 0 Max: 20 Default: 12
+        QuietSkill = 12,
+        Scrapper = true,
+        -- Min: 0 Max: 30 Default: 18
+        ScrapperSkill = 18,
+        RestorationExpert = true,
+        -- Min: 0 Max: 10 Default: 9
+        RestorationExpertSkill = 9,
+        Runner = true,
+        -- Min: 0 Max: 10 Default: 4
+        RunnerSkill = 4,
+        Olympian = true,
+        -- Min: 0 Max: 10000000 Default: 2880
+        OlympianCounter = 2880,
+        Sewer = true,
+        -- Min: 0 Max: 10 Default: 4
+        SewerSkill = 4,
+        -- Min: 0 Max: 1000000 Default: 50
+        SewerUniqueClothesRipped = 50,
+        StickFighter = true,
+        -- Min: 0 Max: 10 Default: 4
+        StickFighterSkill = 4,
+        -- Min: 0 Max: 10000000 Default: 200
+        StickFighterKills = 200,
+        TargetShooter = true,
+        -- Min: 0 Max: 10 Default: 4
+        TargetShooterSkill = 4,
+        Tinkerer = true,
+        -- Min: 0 Max: 10 Default: 4
+        TinkererSkill = 4,
+        WildernessKnowledge = true,
+        -- Min: 8 Max: 40 Default: 24
+        WildernessKnowledgeSkill = 24,
+        Whittler = true,
+        -- Min: 0 Max: 10 Default: 4
+        WhittlerSkill = 4,
+    },
+    ProximityInventory = {
+        ZombieOnly = false,
+    },
+    ISA = {
+        ChargeFreq = 1,
+        DrainCalc = 2,
+        -- Min: 1 Max: 100 Default: 25
+        solarPanelEfficiency = 25,
+        -- Min: 0 Max: 1000 Default: 100
+        batteryDegradeChance = 100,
+        -- Min: 1 Max: 10000 Default: 100
+        DIYBatteryMultiplier = 100,
+        -- Min: 0 Max: 100 Default: 25
+        solarPanelWorldSpawns = 25,
+        BatteryBankSpawn = 3,
+        StashMode = 1,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMSolarPanels = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMBatteries = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LRMMisc = 1.0,
+        -- Min: 1 Max: 1440 Default: 10
+        ConnectPanelMin = 10,
+        enableExpandedRecipes = false,
+        -- Min: 1 Max: 20 Default: 10
+        BackupGeneratorRange = 10,
+    },
+    BFLightState = {
+        -- Min: 0.00 Max: 300.00 Default: 30.00
+        heartbeatSeconds = 30.0,
+    },
+    BFFloorLights = {
+        enabled = true,
+        -- Min: 0.10 Max: 1.00 Default: 0.25
+        radiusMult = 0.25,
+        weaponLights = true,
+        drainFuel = true,
+        directional = true,
+        debug = false,
+    },
+    SkillRecoveryJournal = {
+        -- Min: 1 Max: 100 Default: 100
+        RecoveryPercentage = 100,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        TranscribeSpeed = 2.0,
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        ReadTimeSpeed = 2.0,
+        -- Min: 0.00 Max: 1.00 Default: 0.00
+        IlliterateSpeedMultiplier = 0.0,
+        RecoverProfessionAndTraitsBonuses = false,
+        TranscribeTVXP = false,
+        -- Min: -1 Max: 100 Default: 0
+        RecoverPassiveSkills = -1,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverPhysicalCategorySkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverCombatSkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverFirearmSkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverCraftingSkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverSurvivalistSkills = 100,
+        -- Min: -1 Max: 100 Default: -1
+        RecoverFarmingCategorySkills = 100,
+        -- Min: -1 Max: 100 Default: 0
+        KillsTrack = 100,
+        RecoverRecipes = true,
+        RecoveryJournalUsed = false,
+        SecurityFeatures = 1,
+        CraftRecipeNeedLearn = false,
+        CraftRecipe = "",
+        ModDataTrack = "",
+    },
+    HIC = {
+        Active = true,
+        MoodleActive = true,
+        -- Min: 0 Max: 100 Default: 15
+        MinimalCondition = 15,
+        -- Min: 1 Max: 10 Default: 2
+        Radius = 2,
+        -- Min: 1 Max: 10 Default: 1
+        SleepRadius = 1,
+        CheckForTraits = true,
+        -- Min: 0 Max: 100 Default: 60
+        TraitCoefficient = 60,
+        ZombieMemory = false,
+    },
+    Plumbing = {
+        -- Min: 0.00 Max: 0.10 Default: 0.01
+        PumpFilterUsage = 0.007,
+        -- Min: 0.00 Max: 0.01 Default: 0.00
+        PumpEfficiencyLoss = 0.0012,
+        -- Min: 6 Max: 96 Default: 12
+        PumpMaxWater = 12,
+    },
+    BecomeDesensitized = {
+        -- Min: 1 Max: 10000 Default: 1000
+        MinimumZombieKills = 1000,
+        -- Min: 1 Max: 10000 Default: 2000
+        MaximumZombieKills = 2000,
+        ConsiderTraits = true,
+        ConsiderOccupations = true,
+    },
+    STA_PryOpen = {
+        PryEnablePity = false,
+        -- Min: 0.01 Max: 1.00 Default: 0.25
+        PryChanceBase = 0.25,
+        PryEnableSoftMin = false,
+        -- Min: 0.00 Max: 1.00 Default: 0.50
+        PryBonusSoftMin = 0.5,
+        -- Min: 0.00 Max: 1.00 Default: 0.03
+        PryBonusSkillStrength = 0.03,
+        -- Min: 0.00 Max: 1.00 Default: 0.03
+        PryBonusSkillCarpentry = 0.03,
+        -- Min: 0.00 Max: 1.00 Default: 0.03
+        PryBonusSkillBlacksmith = 0.03,
+        -- Min: 0.00 Max: 1.00 Default: 0.03
+        PryBonusSkillMechanics = 0.03,
+        -- Min: 0.00 Max: 1.00 Default: 0.15
+        PryBonusTraitBurglar = 0.15,
+        -- Min: 0.00 Max: 5.00 Default: 0.20
+        PryBonusSkillNimble = 0.2,
+        -- Min: 0.00 Max: 5.00 Default: 1.00
+        PryBonusTraitDextrous = 1.0,
+        PryEnableBuilding = true,
+        -- Min: 0 Max: 10 Default: 3
+        PryLevelBuilding = 3,
+        -- Min: 0.01 Max: 5.00 Default: 1.00
+        PryChanceMultiplierBuilding = 1.0,
+        -- Min: 1 Max: 30 Default: 8
+        PryTimeBuilding = 8,
+        PryEnableWindow = true,
+        -- Min: 0 Max: 10 Default: 2
+        PryLevelWindow = 2,
+        -- Min: 0.01 Max: 5.00 Default: 1.10
+        PryChanceMultiplierWindow = 1.1,
+        -- Min: 1 Max: 30 Default: 6
+        PryTimeWindow = 6,
+        PryEnableGarage = true,
+        -- Min: 0 Max: 10 Default: 6
+        PryLevelGarage = 6,
+        -- Min: 0.01 Max: 5.00 Default: 0.85
+        PryChanceMultiplierGarage = 0.85,
+        -- Min: 1 Max: 30 Default: 10
+        PryTimeGarage = 10,
+        PryEnableSecure = true,
+        -- Min: 0 Max: 10 Default: 8
+        PryLevelSecure = 8,
+        -- Min: 0.01 Max: 5.00 Default: 0.80
+        PryChanceMultiplierSecure = 0.8,
+        -- Min: 1 Max: 30 Default: 14
+        PryTimeSecure = 14,
+        PryEnableVehicle = true,
+        -- Min: 0 Max: 10 Default: 3
+        PryLevelVehicle = 3,
+        -- Min: 0.01 Max: 5.00 Default: 1.00
+        PryChanceMultiplierVehicle = 1.0,
+        -- Min: 1 Max: 30 Default: 10
+        PryTimeVehicle = 10,
+        PryEnableTrunk = true,
+        -- Min: 0 Max: 10 Default: 2
+        PryLevelTrunk = 2,
+        -- Min: 0.01 Max: 5.00 Default: 1.05
+        PryChanceMultiplierTrunk = 1.05,
+        -- Min: 1 Max: 30 Default: 8
+        PryTimeTrunk = 8,
+        -- Min: 0.00 Max: 1.00 Default: 0.30
+        PryChanceBreakWindow = 0.3,
+        -- Min: 0.00 Max: 1.00 Default: 0.20
+        PryChanceBreakVehicleWindow = 0.2,
+        -- Min: 0.00 Max: 1.00 Default: 0.15
+        PryChanceBreakVehicleLock = 0.15,
+        -- Min: 0.00 Max: 1.00 Default: 0.08
+        PryChanceInjury = 0.08,
+        -- Min: 0.00 Max: 1.00 Default: 0.05
+        PryBonusTraitSkin = 0.05,
+        -- Min: 0.00 Max: 1.00 Default: 0.65
+        PryChanceInjurySeverity01 = 0.65,
+        -- Min: 0.00 Max: 1.00 Default: 0.30
+        PryChanceInjurySeverity02 = 0.3,
+        -- Min: 0.00 Max: 1.00 Default: 0.05
+        PryChanceInjurySeverity03 = 0.05,
+        -- Min: 5 Max: 100 Default: 15
+        PryNoiseRadius = 15,
+        -- Min: 0.00 Max: 10.00 Default: 0.50
+        PryBonusSkillSneak = 0.5,
+        PryEnableAlarmSuccess = true,
+        PryEnableAlarmForce = true,
+        -- Min: 0.00 Max: 1.00 Default: 0.12
+        PryChanceAlarm = 0.12,
+        -- Min: 0.00 Max: 1.00 Default: 0.01
+        PryBonusSkillElectricity = 0.01,
+        PryToolItemsList = "",
+        PryToolTagsList = "base:crowbar:1.0;",
+    },
+    ArcadiaRefillablePropaneTanks = {
+        -- Min: 100 Max: 100000 Default: 2000
+        Capacity = 2000,
+        InfinitePropane = true,
+        EnableFossoilDepots = true,
+        EnableGas2GoDepots = true,
+        EnableLanternBottles = true,
+        EnableWorkshopContainers = true,
+        EnableCompatiblePropaneItems = true,
+        -- Min: 0.00 Max: 1.00 Default: 1.00
+        InitialFillMin = 1.0,
+        -- Min: 0.00 Max: 1.00 Default: 1.00
+        InitialFillMax = 1.0,
+        -- Min: 0 Max: 100 Default: 0
+        InitialEmptyChance = 0,
+    },
+    CHStatusHUD = {
+        RestrictStats = false,
+        AllowVerifyTool = false,
+        AllowHealth = true,
+        AllowFood = true,
+        AllowWater = true,
+        AllowRest = true,
+        AllowEndurance = true,
+        AllowFitness = true,
+        AllowStress = true,
+        AllowPanic = true,
+        AllowPain = true,
+        AllowUnhappy = true,
+        AllowBoredom = true,
+        AllowBodyTemp = true,
+        AllowAnger = true,
+        AllowMorale = true,
+        AllowNicotine = true,
+        AllowIdleness = true,
+        AllowSanity = true,
+        AllowHeatGen = true,
+        AllowWetness = true,
+        AllowDiscomfort = true,
+        AllowFoodSickness = true,
+        AllowPoison = true,
+        AllowSickness = true,
+        AllowInfection = true,
+        AllowFever = true,
+        AllowDrunk = true,
+        AllowCarry = true,
+        AllowBodyWeight = true,
+        AllowCalories = true,
+        AllowProteins = true,
+        AllowCarbs = true,
+        AllowLipids = true,
+        AllowThresholdTicks = true,
+    },
+    ammomakerOptions = {
+        -- Min: 1 Max: 10 Default: 1
+        CraftingSpeed = 1,
+        -- Min: 10 Max: 100 Default: 10
+        ProduceAmmoBulkSize = 10,
+        -- Min: 1 Max: 100 Default: 10
+        NitreYield = 10,
+        -- Min: 1 Max: 5 Default: 1
+        BirdExYield = 1,
+        -- Min: 1 Max: 200 Default: 8
+        BirdExSpawnMin = 8,
+        -- Min: 1 Max: 200 Default: 24
+        BirdExSpawnMax = 24,
+        -- Min: 1 Max: 10 Default: 1
+        BirdFeatherSpawnMin = 1,
+        -- Min: 1 Max: 10 Default: 3
+        BirdFeatherSpawnMax = 3,
+        -- Min: 1 Max: 20 Default: 1
+        CasingsSpawnMin = 1,
+        -- Min: 1 Max: 20 Default: 3
+        CasingsSpawnMax = 3,
+        -- Min: 1 Max: 720 Default: 168
+        DroppedCasingsLifetime = 168,
+        DropCasingsReload = false,
+        CasingModelsCalibre = true,
+        CasingIconsCalibre = true,
+        CollectAdditionalSeeds = true,
+        AllowConvertRecipes = false,
+        ShowHiddenRecipes = false,
+        SpawnRecipeMagazines = true,
+        SpawnAmmoParts = true,
+    },
+    SVRPClassicBows = {
+        -- Min: 0 Max: 100 Default: 100
+        RecoverMissedArrowsChance = 100,
+        -- Min: 0.00 Max: 10.00 Default: 1.00
+        AimingXPMultiplier = 1.0,
+        -- Min: 0.10 Max: 10.00 Default: 1.00
+        DamageScale = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        SpawnRateMultiplier = 1.0,
+        RetroactiveSpawnBows = false,
+        -- Min: 0 Max: 10 Default: 0
+        FixedAimingLevel = 0,
+        OnlyRecoverFromCorpses = false,
+        DisableDebugLogging = true,
+    },
+    MarzGuns = {
+        VanillaWeaponReplacement = true,
+        VanillaAmmoReplacement = true,
+        VanillaAttachmentReplacement = true,
+        -- Min: 0.00 Max: 10.00 Default: 1.00
+        LootMultiplier = 1.0,
+        SpawnHighCapMags = true,
+        SpawnExplosives = true,
+    },
+    DAMN = {
+        AllowOinkerSpawns = true,
+        AllowGreatScottSpawns = false,
+        AllowMrBusSpawns = true,
+        AllowChonkerSpawns = true,
+        AllowCashcowSpawns = true,
+        AllowMcBoxySpawns = true,
+        AllowWreckyMcChevySpawns = true,
+        AllowPro440Spawns = true,
+        AllowDemonChildSpawns = false,
+        AllowEV6spawns = true,
+        AllowTBCspawns = true,
+        AllowUBCspawns = true,
+    },
+    SVUC = {
+        -- Min: 10 Max: 50 Default: 15
+        timeLight = 15,
+        -- Min: 10 Max: 50 Default: 30
+        timeHeavy = 30,
+        -- Min: 10 Max: 50 Default: 45
+        timeReinforced = 45,
+        -- Min: 10 Max: 50 Default: 15
+        timeMods = 15,
+        -- Min: 10 Max: 50 Default: 15
+        timeWheels = 15,
+        -- Min: 50 Max: 80 Default: 80
+        protectionHealthTriger = 80,
+        -- Min: 1 Max: 10 Default: 5
+        protectionLightHealthDelta = 5,
+        -- Min: 1 Max: 10 Default: 4
+        protectionHeavyHealthDelta = 4,
+        -- Min: 1 Max: 10 Default: 3
+        protectionReinforcedHealthDelta = 3,
+        -- Min: 1 Max: 10 Default: 6
+        protectionBullbarSmallHealthDelta = 6,
+        -- Min: 1 Max: 10 Default: 5
+        protectionBullbarMediumHealthDelta = 5,
+        -- Min: 1 Max: 10 Default: 4
+        protectionBullbarLargeHealthDelta = 4,
+        -- Min: 1 Max: 10 Default: 3
+        protectionPlowHealthDelta = 3,
+        -- Min: 1 Max: 10 Default: 1
+        protectionWheelsHealthDelta = 1,
+        -- Min: 0 Max: 50 Default: 10
+        protectionEngineSmallPowerIncrease = 10,
+        -- Min: 0 Max: 50 Default: 20
+        protectionEngineMediumPowerIncrease = 20,
+        -- Min: 0 Max: 50 Default: 35
+        protectionEngineLargePowerIncrease = 35,
+        -- Min: 0 Max: 50 Default: 50
+        protectionEnginePipedPowerIncrease = 50,
+        -- Min: 0 Max: 50 Default: 15
+        protectionEngineSnorkelPowerIncrease = 15,
+        -- Min: 0 Max: 100 Default: 10
+        protectionLightGasUsage = 10,
+        -- Min: 0 Max: 100 Default: 20
+        protectionHeavyGasUsage = 20,
+        -- Min: 0 Max: 100 Default: 40
+        protectionReinforcedGasUsage = 40,
+        -- Min: 0 Max: 100 Default: 0
+        protectionModsGasUsage = 0,
+        -- Min: 0 Max: 100 Default: 1
+        protectionBullbarSmallGasUsage = 1,
+        -- Min: 0 Max: 100 Default: 5
+        protectionBullbarMediumGasUsage = 5,
+        -- Min: 0 Max: 100 Default: 10
+        protectionBullbarLargeGasUsage = 10,
+        -- Min: 0 Max: 100 Default: 20
+        protectionPlowGasUsage = 20,
+        -- Min: 0 Max: 100 Default: 2
+        protectionEngineSmallGasUsage = 2,
+        -- Min: 0 Max: 100 Default: 3
+        protectionEngineMediumGasUsage = 3,
+        -- Min: 0 Max: 100 Default: 4
+        protectionEngineLargeGasUsage = 4,
+        -- Min: 0 Max: 100 Default: 5
+        protectionEnginePipedGasUsage = 5,
+        -- Min: 0 Max: 100 Default: 1
+        protectionEngineSnorkelGasUsage = 1,
+    },
+    EasyEngineRepair = {
+        -- Min: 0.10 Max: 100.00 Default: 3.00
+        CondPerPartMult = 3.0,
+        -- Min: 1 Max: 100 Default: 3
+        CondPerPartMin = 3,
+        -- Min: 1 Max: 100 Default: 30
+        CondPerPartMax = 30,
+    },
+    ChoppedVehicleSalvage = {
+        -- Min: 0.50 Max: 10.00 Default: 2.00
+        SalvageDurationMultiplier = 2.0,
+        -- Min: -1 Max: 20 Default: 0
+        MinPartsDropped = 0,
+        -- Min: -1 Max: 20 Default: -1
+        MaxPartsDropped = -1,
+        -- Min: 0 Max: 10 Default: 3
+        MinWeldingLevel = 3,
+        -- Min: 0 Max: 10 Default: 0
+        MinMechanicsLevel = 0,
+    },
+    FunctionalCarLift = {
+        -- Min: 0 Max: 5 Default: 1
+        Range = 1,
+        RequirePower = true,
+        ConvertVanilla = false,
+        RevertVanilla = false,
+    },
+    Text = {
+        DividerMusicNew = true,
+        DividerDancingNew = true,
+        DividerMeditationNew = true,
+        DividerHygiene = true,
+        DividerArt = true,
+        LSDividerOther = false,
+        DividerDebug = false,
+    },
+    LSAmbt = {
+        Toggle = true,
+        -- Min: 1 Max: 1000 Default: 36
+        Cooldown = 36,
+        -- Min: 1 Max: 100 Default: 1
+        MaxInProgress = 1,
+        -- Min: 1 Max: 100 Default: 3
+        MaxTotal = 3,
+        ResetException = false,
+        HideTips = false,
+    },
+    Music = {
+        StrengthMultiplier = 2,
+        ListeningStrengthMultiplier = 2,
+        LearningChance = 3,
+        Metabolics = 1,
+    },
+    Dancing = {
+        StrengthMultiplier = 2,
+    },
+    Meditation = {
+        StrengthMultiplier = 2,
+        MindfulnessDuration = 2,
+        -- Min: 0.00 Max: 10.00 Default: 2.00
+        HealFactor = 2.0,
+        EffectMultiplier = 2,
+        KeepBags = false,
+    },
+    LSMeditation = {
+        RemoveLevitation = false,
+    },
+    Yoga = {
+        StrengthMultiplier = 2,
+        Exhaustion = 3,
+        Embarrassment = 2,
+        AidObjects = true,
+        RequiresMat = false,
+        KeepBags = false,
+        FailChance = 4,
+        -- Min: 0.10 Max: 5.00 Default: 1.00
+        YogaXPMultiplier = 1.0,
+        -- Min: 0.10 Max: 5.00 Default: 1.00
+        FitnessXPMultiplier = 1.0,
+        -- Min: 0.10 Max: 5.00 Default: 1.00
+        NimbleXPMultiplier = 1.0,
+    },
+    LSHygiene = {
+        -- Min: 0.00 Max: 3.00 Default: 1.00
+        HygieneNeedMultiplier = 1.0,
+        -- Min: 0.00 Max: 3.00 Default: 1.00
+        BladderNeedMultiplier = 1.0,
+        HygieneNeedExpectationTime = 2,
+        CleansMakeup = true,
+        NotEmbarrassed = false,
+        ColdSeverity = 2,
+        -- Min: 0.00 Max: 3.00 Default: 0.00
+        ColdChanceMultiplier = 0.0,
+        -- Min: 1 Max: 100 Default: 10
+        OuthouseRange = 10,
+        CleaningExpectationTime = 2,
+        CleaningLitterChance = 3,
+    },
+    LSArt = {
+        -- Min: 0.10 Max: 3.00 Default: 1.00
+        GeneralBeautyMultiplier = 1.0,
+        BeautyOutdoors = false,
+        BeautyShowNegative = false,
+        BeautyNeedDecayRate = 3,
+        BeautyNeedStrength = 3,
+        -- Min: 0.10 Max: 4.00 Default: 1.00
+        ArtworkBeautyMultiplier = 1.0,
+    },
+    LS = {
+        DynamicTraits = false,
+        DynamicTraitsReverse = 1,
+        DividerServer = false,
+        ModdataUpdate = 1,
+        MoodUpdate = 1,
+    },
+    LSComfort = {
+        -- Min: 0.00 Max: 3.00 Default: 1.00
+        ComfortNeedMultiplier = 1.0,
+        ComfortPositive = false,
+        ComfortNoImpact = false,
+    },
+    Debug = {
+        MoodlePriority = false,
+        Expressions = false,
+        DanceAnim = false,
+        LSVerbose = false,
+    },
+    SapphCooking = {
+        NonPerishableChance = 3,
+        PerishableChance = 3,
+        SpicesSpawnChance = 3,
+        CannedSpawnChance = 3,
+        MagazineChance = 3,
+        MREChance = 3,
+        KitchenUtensilsChance = 3,
+        AlcoholChance = 3,
+        ZombieLootSpawn = 3,
     },
 }
