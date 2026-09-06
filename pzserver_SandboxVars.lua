@@ -980,7 +980,7 @@ SandboxVars = {
         -- How close members of a zombie group stay to the group's "leader". Min: 1 Max: 10 Default: 3
         RallyGroupRadius = 3,
         -- Controls the maximum number of zombies tracked before cleanup occurs. 0 means zombies will not be cleaned up. The default value (300) is strongly recommended. Increasing this value or setting to 0 may cause severe performance problems. For troubleshooting and bug-report purposes, please reproduce any issue with the default setting before submitting a report. Min: 0 Max: 5000 Default: 300
-        ZombiesCountBeforeDelete = 200,
+        ZombiesCountBeforeDelete = 100,
     },
     MultiplierConfig = {
         -- The rate at which all skills level up. Min: 0.00 Max: 1000.00 Default: 1.00
