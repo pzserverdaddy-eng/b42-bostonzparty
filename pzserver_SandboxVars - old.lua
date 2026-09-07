@@ -1068,35 +1068,6 @@ SandboxVars = {
         -- Min: 0.00 Max: 1000.00 Default: 1.00
         Music = 1.0,
     },
-    RVInterior = {
-        -- Min: 0 Max: 100 Default: 20
-        SafeZombieDistance = 20,
-        NotWhenChased = true,
-        ReturnPlayersToVehicleSeats = true,
-        -- Min: 0.00 Max: 5.00 Default: 1.00
-        PowerBankConsumptionMultiplier = 1.0,
-        SpawnStarterPowerBanks = true,
-        -- Min: 0 Max: 10 Default: 5
-        PowerBankElectricalSkill = 5,
-        -- Min: 0 Max: 10 Default: 4
-        PowerBankMetalworkingSkill = 4,
-        -- Min: 0 Max: 100 Default: 25
-        PowerBankMetalPlates = 25,
-        -- Min: 0 Max: 100 Default: 25
-        PowerBankElectricalWire = 25,
-        -- Min: 0 Max: 100 Default: 25
-        PowerBankWire = 25,
-        -- Min: 0 Max: 10 Default: 1
-        PowerBankRedLightBulbs = 1,
-        -- Min: 0 Max: 10 Default: 1
-        PowerBankGreenLightBulbs = 1,
-        -- Min: 0 Max: 25 Default: 4
-        PowerBankMetalBars = 4,
-        -- Min: 0 Max: 10 Default: 10
-        PowerBankTorchChargeUnits = 10,
-        -- Min: 1 Max: 3650 Default: 21
-        AbandonedInteriorRealDays = 1,
-    },
     KillCount = {
         doExport = false,
         includePostDeathUI = true,
