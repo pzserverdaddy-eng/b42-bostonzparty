@@ -1,0 +1,1 @@
+[06-09-26 06:49:10.974] 76561198148801188 "ServerDaddy" removed Barricade (carpentry_01_2) at 11185,6697,0.

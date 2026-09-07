@@ -1095,7 +1095,7 @@ SandboxVars = {
         -- Min: 0 Max: 10 Default: 10
         PowerBankTorchChargeUnits = 10,
         -- Min: 1 Max: 3650 Default: 21
-        AbandonedInteriorRealDays = 21,
+        AbandonedInteriorRealDays = 1,
     },
     KillCount = {
         doExport = false,

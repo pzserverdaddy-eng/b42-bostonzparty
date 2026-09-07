@@ -1,0 +1,46 @@
+[07-09-26 02:30:28.937][LOG] Safety: "Legofanhead" (8789,11599,0) restore true.
+[07-09-26 02:32:18.631][LOG] Safety: "ServerDaddy" (8789,11599,0) restore true.
+[07-09-26 02:32:55.331][LOG] Safety: "Lilith Sullivan" (1978,8592,0) restore true.
+[07-09-26 02:34:05.688][LOG] Safety: "Danny Sullivan" (1978,8601,0) restore true.
+[07-09-26 02:35:04.612][LOG] Safety: "Blinkdog81" (12634,1420,0) restore true.
+[07-09-26 02:35:50.527][LOG] Safety: "Danny Sullivan" (1979,8575,0) store true.
+[07-09-26 02:36:58.812][LOG] Safety: "ServerDaddy" (2051,8531,0) store true.
+[07-09-26 02:38:06.695][LOG] Safety: "Danny Sullivan" (1979,8575,0) restore true.
+[07-09-26 02:39:35.346][LOG] Safety: "ServerDaddy" (2051,8531,0) restore true.
+[07-09-26 02:41:18.055][LOG] Safety: "Sledge40" (13375,1411,0) restore true.
+[07-09-26 02:41:36.854][LOG] Safety: "ServerDaddy" (2051,8531,0) store true.
+[07-09-26 02:42:25.390][LOG] Safety: "Freya" (12719,8750,0) restore true.
+[07-09-26 02:44:32.460][LOG] Safety: "admin" (13726,5035,0) restore true.
+[07-09-26 02:44:51.918][LOG] Safety: "Tymbomb" (13711,1847,0) restore true.
+[07-09-26 02:47:23.626][LOG] Safety: "admin" (2051,8553,0) store true.
+[07-09-26 02:50:14.243][LOG] Safety: "admin" (2051,8553,0) restore true.
+[07-09-26 02:52:40.667][LOG] Safety: "admin" (2008,8552,0) store true.
+[07-09-26 02:56:33.597][LOG] Safety: "ServerDaddy" (2051,8531,0) restore true.
+[07-09-26 03:03:16.251][LOG] Safety: "Danny Sullivan" (1969,8541,0) store true.
+[07-09-26 03:06:59.255][LOG] Safety: "Danny Sullivan" (1969,8541,0) restore true.
+[07-09-26 03:12:02.234][LOG] Safety: "ServerDaddy" (13540,5042,0) store true.
+[07-09-26 03:12:18.973][LOG] Safety: "Danny Sullivan" (1958,8526,0) store true.
+[07-09-26 03:13:23.313][LOG] Safety: "Blinkdog81" (13678,1357,0) store true.
+[07-09-26 03:16:09.501][LOG] Safety: "Danny Sullivan" (1958,8526,0) restore true.
+[07-09-26 03:18:11.941][LOG] Safety: "Blinkdog81" (13678,1357,0) restore true.
+[07-09-26 03:19:07.463][LOG] Safety: "Blinkdog81" (13644,1355,0) store true.
+[07-09-26 03:21:39.899][INFO] Combat: "Danny Sullivan" (2021,8551,0) hit "Danny Sullivan" (2021,8552,0) weapon="zombie" damage=-1.000000.
+[07-09-26 03:23:20.180][LOG] Safety: "ServerDaddy" (13540,5042,0) restore true.
+[07-09-26 03:24:05.149][LOG] Safety: "Legofanhead" (8797,11594,0) store true.
+[07-09-26 03:30:12.075][LOG] Safety: "Blinkdog81" (13644,1355,0) restore true.
+[07-09-26 03:32:55.965][LOG] Safety: "Sledge40" (14175,2635,0) store true.
+[07-09-26 03:36:06.333][LOG] Safety: "ServerDaddy" (13546,5049,0) store true.
+[07-09-26 03:38:04.903][LOG] Safety: "admin" (2008,8552,0) restore true.
+[07-09-26 03:39:08.913][LOG] Safety: "Lilith Sullivan" (1986,8585,0) store true.
+[07-09-26 03:42:45.125][LOG] Safety: "Lilith Sullivan" (1986,8585,0) restore true.
+[07-09-26 03:48:32.566][LOG] Safety: "Tymbomb" (14147,2656,0) store true.
+[07-09-26 03:52:13.528][LOG] Safety: "admin" (12814,8803,0) store true.
+[07-09-26 04:02:46.256][LOG] Safety: "ServerDaddy" (13546,5049,0) restore true.
+[07-09-26 05:02:19.935][INFO] Combat: "Blinkdog81" (12513,4495,0) hit "Blinkdog81" (12512,4492,0) weapon="zombie" damage=-1.000000.
+[07-09-26 05:02:22.078][INFO] Combat: "Blinkdog81" (12512,4492,0) hit "Blinkdog81" (12512,4492,0) weapon="zombie" damage=-1.000000.
+[07-09-26 05:05:24.639][LOG] Safety: "Blinkdog81" (10955,6964,0) restore true.
+[07-09-26 05:30:12.728][LOG] Safety: "Blinkdog81" (12511,4605,0) store true.
+[07-09-26 05:32:47.985][LOG] Safety: "Danny Sullivan" (1985,8593,1) store true.
+[07-09-26 05:32:54.157][LOG] Safety: "Lilith Sullivan" (1984,8589,0) store true.
+[07-09-26 05:33:18.219][LOG] Safety: "Freya" (12678,8723,0) store true.
+[07-09-26 05:33:32.833][LOG] Safety: "ServerDaddy" (13662,5748,0) store true.

@@ -1,0 +1,13 @@
+[07-09-26 05:41:30.981][LOG] Safety: "Lilith Sullivan" (1984,8589,0) restore true.
+[07-09-26 05:41:52.282][LOG] Safety: "ServerDaddy" (13662,5748,0) restore true.
+[07-09-26 05:42:37.531][LOG] Safety: "Danny Sullivan" (1985,8593,1) restore true.
+[07-09-26 05:44:06.359][LOG] Safety: "Freya" (12678,8723,0) restore true.
+[07-09-26 05:48:13.109][LOG] Safety: "Blinkdog81" (12511,4605,0) restore true.
+[07-09-26 06:16:05.510][LOG] Safety: "Blinkdog81" (12719,5056,1) store true.
+[07-09-26 06:19:18.451][LOG] Safety: "Lilith Sullivan" (1985,8587,0) store true.
+[07-09-26 06:20:11.808][LOG] Safety: "Danny Sullivan" (1983,8592,1) store true.
+[07-09-26 06:31:04.749][LOG] Safety: "ServerDaddy" (13547,5047,0) store true.
+[07-09-26 06:37:45.853][LOG] Safety: "Sledge40" (14175,2635,0) restore true.
+[07-09-26 07:01:27.003][LOG] Safety: "Freya" (12714,8747,1) store true.
+[07-09-26 12:16:26.905][INFO] Combat: "Sledge40" (14530,3980,0) hit "Sledge40" (14530,3980,0) weapon="zombie" damage=-1.000000.
+[07-09-26 13:36:39.733][LOG] Safety: "Sledge40" (14183,2632,0) store true.

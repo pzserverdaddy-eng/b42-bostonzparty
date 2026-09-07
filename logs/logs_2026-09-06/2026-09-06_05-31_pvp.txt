@@ -1,0 +1,52 @@
+[06-09-26 05:50:16.546][LOG] Safety: "ServerDaddy" (11218,6796,0) restore true.
+[06-09-26 05:51:00.800][LOG] Safety: "Legofanhead" (7976,11402,0) restore true.
+[06-09-26 05:57:56.702][LOG] Safety: "ServerDaddy" (11218,6793,0) store true.
+[06-09-26 06:00:37.106][LOG] Safety: "ServerDaddy" (11218,6793,0) restore true.
+[06-09-26 06:02:42.592][LOG] Safety: "Blinkdog81" (10695,9383,0) restore true.
+[06-09-26 06:04:58.515][INFO] Combat: "Blinkdog81" (10652,9351,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:05:00.060][INFO] Combat: "Blinkdog81" (10651,9354,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:05:00.628][INFO] Combat: "Blinkdog81" (10650,9354,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:05:01.431][INFO] Combat: "Blinkdog81" (10651,9354,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:05:02.000][INFO] Combat: "Blinkdog81" (10650,9354,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:05:02.811][INFO] Combat: "Blinkdog81" (10650,9354,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:05:03.314][INFO] Combat: "Blinkdog81" (10651,9355,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:05:03.361][INFO] Combat: "Blinkdog81" (10650,9354,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:05:03.362][INFO] Combat: "Blinkdog81" (10650,9354,0) hit "Blinkdog81" (10650,9354,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:21.587][LOG] Safety: "Blinkdog81" (11936,6749,0) restore true.
+[06-09-26 06:09:47.427][INFO] Combat: "Blinkdog81" (11924,6746,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:49.504][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:51.617][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:52.166][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:52.989][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:53.975][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:54.485][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:56.666][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:56.668][INFO] Combat: "Blinkdog81" (11921,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:56.669][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:56.669][INFO] Combat: "Blinkdog81" (11921,6745,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:56.669][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:56.739][INFO] Combat: "Blinkdog81" (11921,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:57.150][INFO] Combat: "Blinkdog81" (11922,6744,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:09:57.172][INFO] Combat: "Blinkdog81" (11921,6745,0) hit "Blinkdog81" (11922,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 06:10:20.688][LOG] Safety: "Blinkdog81" (11735,6691,0) restore true.
+[06-09-26 06:12:26.964][LOG] Safety: "Lilith Sullivan" (11936,6749,0) restore true.
+[06-09-26 06:34:20.821][INFO] Combat: "Lilith Sullivan" (11673,6753,0) hit "Lilith Sullivan" (11674,6754,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:05:07.972][LOG] Safety: "Blinkdog81" (11635,8185,0) store true.
+[06-09-26 07:26:37.326][INFO] Combat: "ServerDaddy" (11295,6716,0) hit "ServerDaddy" (11294,6714,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:26:37.599][INFO] Combat: "ServerDaddy" (11296,6715,0) hit "ServerDaddy" (11294,6714,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:26:38.679][INFO] Combat: "ServerDaddy" (11295,6716,0) hit "ServerDaddy" (11294,6714,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:26:43.781][INFO] Combat: "ServerDaddy" (11289,6715,0) hit "ServerDaddy" (11287,6715,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:26:44.268][INFO] Combat: "ServerDaddy" (11290,6715,0) hit "ServerDaddy" (11287,6715,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:26:45.250][INFO] Combat: "ServerDaddy" (11291,6715,0) hit "ServerDaddy" (11287,6715,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:26:45.628][INFO] Combat: "ServerDaddy" (11288,6715,0) hit "ServerDaddy" (11287,6715,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:26:46.344][INFO] Combat: "ServerDaddy" (11287,6715,0) hit "ServerDaddy" (11287,6715,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:26:46.765][INFO] Combat: "ServerDaddy" (11288,6715,0) hit "ServerDaddy" (11287,6715,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:27:55.761][LOG] Safety: "ServerDaddy" (10637,10267,0) restore true.
+[06-09-26 07:32:57.751][INFO] Combat: "ServerDaddy" (10638,10275,0) hit "ServerDaddy" (10637,10274,0) weapon="zombie" damage=-1.000000.
+[06-09-26 07:41:01.051][LOG] Safety: "Freya" (10770,10271,0) restore true.
+[06-09-26 07:45:15.883][LOG] Safety: "Freya" (10771,10272,0) store true.
+[06-09-26 07:59:39.947][LOG] Safety: "Lilith Sullivan" (61665,19803,0) store true.
+[06-09-26 08:02:51.868][LOG] Safety: "Legofanhead" (8798,11607,0) store true.
+[06-09-26 08:05:44.691][LOG] Safety: "Freya" (10771,10272,0) restore true.
+[06-09-26 08:33:08.710][LOG] Safety: "ServerDaddy" (58845,17662,0) store true.
+[06-09-26 12:34:31.693][LOG] Safety: "Freya" (11610,8285,0) store true.

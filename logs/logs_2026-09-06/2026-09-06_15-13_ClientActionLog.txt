@@ -1,0 +1,483 @@
+[06-09-26 15:19:03.579] [76561199133759071][ISEnterVehicle][Tymbomb][12640,5327,0][VanSchwabSheetMetal].
+[06-09-26 15:19:27.414] [76561199133759071][ISExitVehicle][Tymbomb][12640,5328,0][VanSchwabSheetMetal].
+[06-09-26 15:20:29.022] [76561198254867641][ISEnterVehicle][Lilith Sullivan][4660,10722,0][VanUncloggers].
+[06-09-26 15:24:16.134] [76561199133759071][ISEnterVehicle][Tymbomb][12632,5340,0][89trooperRS].
+[06-09-26 15:26:11.755] [76561198148801188][ISEnterVehicle][ServerDaddy][11356,8771,0][fhq92Econoline].
+[06-09-26 15:26:40.547] [76561199133759071][ISExitVehicle][Tymbomb][12642,4707,0][89trooperRS].
+[06-09-26 15:31:03.016] [76561198148801188][ISExitVehicle][ServerDaddy][11354,8771,0][fhq92Econoline].
+[06-09-26 15:31:05.733] [76561198148801188][ISEnterVehicle][ServerDaddy][11355,8771,0][fhq92Econoline].
+[06-09-26 15:32:15.633] [76561199133759071][ISEnterVehicle][Tymbomb][12642,4707,0][89trooperRS].
+[06-09-26 15:32:33.920] [76561199133759071][ISExitVehicle][Tymbomb][12630,4703,0][89trooperRS].
+[06-09-26 15:34:20.972] [76561198148801188][ISExitVehicle][ServerDaddy][11292,8770,0][fhq92Econoline].
+[06-09-26 15:34:25.998] [76561198148801188][ISEnterVehicle][ServerDaddy][11292,8770,0][fhq92Econoline].
+[06-09-26 15:36:23.650] [76561198254867641][ISExitVehicle][Lilith Sullivan][1920,8575,0][VanUncloggers].
+[06-09-26 15:36:24.599] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1920,8576,0][VanUncloggers].
+[06-09-26 15:36:57.838] [76561198254867641][ISExitVehicle][Lilith Sullivan][1951,8577,0][VanUncloggers].
+[06-09-26 15:37:01.279] [76561199471776312][ISEnterVehicle][Sledge40][11872,6695,0][fhqLoyale].
+[06-09-26 15:37:23.420] [76561199471776312][ISExitVehicle][Sledge40][11871,6695,0][fhqLoyale].
+[06-09-26 15:38:00.550] [76561199471776312][ISEnterVehicle][Sledge40][11883,6692,0][CarNormal].
+[06-09-26 15:39:04.713] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1951,8578,0][VanUncloggers].
+[06-09-26 15:39:05.767] [76561198254867641][ISExitVehicle][Lilith Sullivan][1951,8577,0][VanUncloggers].
+[06-09-26 15:39:17.919] [76561199471776312][ISExitVehicle][Sledge40][11884,6693,0][CarNormal].
+[06-09-26 15:39:59.384] [76561198148801188][ISExitVehicle][ServerDaddy][10346,9387,0][fhq92Econoline].
+[06-09-26 15:40:07.292] [76561198148801188][ISEnterVehicle][ServerDaddy][10342,9391,0][VanMccoy].
+[06-09-26 15:40:07.292] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1951,8578,0][VanUncloggers].
+[06-09-26 15:42:01.399] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1951,8578,0][VanUncloggers].
+[06-09-26 15:42:26.462] [76561198254867641][ISExitVehicle][Lilith Sullivan][1951,8577,0][VanUncloggers].
+[06-09-26 15:43:35.499] [76561199471776312][ISEnterVehicle][Sledge40][11883,6693,0][CarNormal].
+[06-09-26 15:44:00.362] [76561198148801188][ISEnterVehicle][ServerDaddy][10342,9391,0][VanMccoy].
+[06-09-26 15:44:31.044] [76561198165650138][ISEnterVehicle][Blinkdog81][10601,9224,0][VanPluggedInElectrics].
+[06-09-26 15:44:51.137] [76561198148801188][ISExitVehicle][ServerDaddy][10342,9392,0][VanMccoy].
+[06-09-26 15:44:54.442] [76561198148801188][ISEnterVehicle][ServerDaddy][10342,9391,0][VanMccoy].
+[06-09-26 15:45:27.318] [76561198165650138][ISExitVehicle][Blinkdog81][10590,9416,0][VanPluggedInElectrics].
+[06-09-26 15:45:27.331] [76561198165650138][ISEnterVehicle][Blinkdog81][10591,9416,0][VanPluggedInElectrics].
+[06-09-26 15:45:33.921] [76561198165650138][ISExitVehicle][Blinkdog81][10590,9416,0][VanPluggedInElectrics].
+[06-09-26 15:45:39.403] [76561198148801188][ISEnterVehicle][ServerDaddy][10342,9391,0][VanMccoy].
+[06-09-26 15:45:40.316] [76561199471776312][ISExitVehicle][Sledge40][12232,6983,0][CarNormal].
+[06-09-26 15:45:58.618] [76561199471776312][ISEnterVehicle][Sledge40][12268,6984,0][VanAmbulance].
+[06-09-26 15:46:19.811] [76561199471776312][ISExitVehicle][Sledge40][12267,6984,0][VanAmbulance].
+[06-09-26 15:46:29.416] [76561199471776312][ISEnterVehicle][Sledge40][12268,6984,0][VanAmbulance].
+[06-09-26 15:48:17.540] [76561199471776312][ISExitVehicle][Sledge40][12230,6976,0][VanAmbulance].
+[06-09-26 15:48:58.235] [76561198165650138][ISEnterVehicle][Blinkdog81][10591,9416,0][VanPluggedInElectrics].
+[06-09-26 15:49:12.963] [76561198165650138][ISExitVehicle][Blinkdog81][10595,9452,0][VanPluggedInElectrics].
+[06-09-26 15:49:15.354] [76561198165650138][ISEnterVehicle][Blinkdog81][10596,9452,0][VanPluggedInElectrics].
+[06-09-26 15:50:31.667] [76561198148801188][ISEnterVehicle][ServerDaddy][10346,9386,0][fhq92Econoline].
+[06-09-26 15:50:39.184] [76561198148801188][ISExitVehicle][ServerDaddy][10346,9387,0][fhq92Econoline].
+[06-09-26 15:51:54.211] [76561198148801188][ISEnterVehicle][ServerDaddy][10342,9392,0][VanMccoy].
+[06-09-26 15:51:57.204] [76561198148801188][ISExitVehicle][ServerDaddy][10342,9392,0][VanMccoy].
+[06-09-26 15:51:59.475] [76561198148801188][ISEnterVehicle][ServerDaddy][10346,9386,0][fhq92Econoline].
+[06-09-26 15:52:30.691] [76561199471776312][ISEnterVehicle][Sledge40][12231,6976,0][VanAmbulance].
+[06-09-26 15:52:33.829] [76561199133759071][ISEnterVehicle][Tymbomb][12630,4703,0][89trooperRS].
+[06-09-26 15:52:44.868] [76561199133759071][ISExitVehicle][Tymbomb][12630,4703,0][89trooperRS].
+[06-09-26 15:52:56.711] [76561198165650138][ISExitVehicle][Blinkdog81][10599,10323,0][VanPluggedInElectrics].
+[06-09-26 15:54:25.097] [76561198165650138][ISEnterVehicle][Blinkdog81][10598,10323,0][VanPluggedInElectrics].
+[06-09-26 15:54:35.803] [76561199133759071][ISEnterVehicle][Tymbomb][12631,4703,0][89trooperRS].
+[06-09-26 15:54:40.018] [76561199133759071][ISExitVehicle][Tymbomb][12630,4703,0][89trooperRS].
+[06-09-26 15:55:54.917] [76561198093780693][ISEnterVehicle][Danny Sullivan][6254,5446,0][fhq300ZXZ32].
+[06-09-26 15:55:59.273] [76561198148801188][ISEnterVehicle][ServerDaddy][10342,9391,0][VanMccoy].
+[06-09-26 15:56:02.915] [76561197983854611][ISEnterVehicle][Krom][10786,9767,0][CarTaxi2].
+[06-09-26 15:56:10.707] [76561197983854611][ISExitVehicle][Krom][10785,9767,0][CarTaxi2].
+[06-09-26 15:56:13.701] [76561199471776312][ISExitVehicle][Sledge40][12674,6520,0][VanAmbulance].
+[06-09-26 15:56:15.220] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1951,8578,0][VanUncloggers].
+[06-09-26 15:56:42.504] [76561198093780693][ISExitVehicle][Danny Sullivan][6266,5323,0][fhq300ZXZ32].
+[06-09-26 15:56:46.207] [76561198254867641][ISExitVehicle][Lilith Sullivan][1978,8582,0][VanUncloggers].
+[06-09-26 15:56:52.440] [76561198093780693][ISEnterVehicle][Danny Sullivan][6256,5331,0][87fordF700box].
+[06-09-26 15:57:53.766] [76561198093780693][ISExitVehicle][Danny Sullivan][6254,5331,0][87fordF700box].
+[06-09-26 15:58:02.779] [76561198093780693][ISEnterVehicle][Danny Sullivan][6266,5323,0][fhq300ZXZ32].
+[06-09-26 15:58:13.524] [76561197983854611][ISEnterVehicle][Krom][10774,9799,0][DashRoamer].
+[06-09-26 15:59:12.695] [76561198148801188][ISExitVehicle][ServerDaddy][10342,9392,0][VanMccoy].
+[06-09-26 15:59:43.594] [76561198093780693][ISExitVehicle][Danny Sullivan][6260,5294,0][fhq300ZXZ32].
+[06-09-26 16:00:36.455] [76561198165650138][ISExitVehicle][Blinkdog81][10597,9114,0][VanPluggedInElectrics].
+[06-09-26 16:01:12.232] [76561197983854611][ISExitVehicle][Krom][10330,9402,0][DashRoamer].
+[06-09-26 16:02:03.462] [76561198165650138][ISEnterVehicle][Blinkdog81][10598,9115,0][VanPluggedInElectrics].
+[06-09-26 16:02:30.697] [76561198093780693][ISEnterVehicle][Danny Sullivan][6261,5295,0][fhq300ZXZ32].
+[06-09-26 16:03:11.694] [76561198093780693][ISExitVehicle][Danny Sullivan][6230,5315,0][fhq300ZXZ32].
+[06-09-26 16:03:40.900] [76561198093780693][ISEnterVehicle][Danny Sullivan][6219,5321,0][fhq92EconolineXL].
+[06-09-26 16:04:34.549] [76561198148801188][ISEnterVehicle][ServerDaddy][10342,9391,0][VanMccoy].
+[06-09-26 16:06:38.011] [76561198148801188][ISEnterVehicle][ServerDaddy][10342,9391,0][VanMccoy].
+[06-09-26 16:07:36.745] [76561199471776312][ISEnterVehicle][Sledge40][12675,6520,0][VanAmbulance].
+[06-09-26 16:07:50.294] [76561198148801188][ISExitVehicle][ServerDaddy][10316,9394,0][VanMccoy].
+[06-09-26 16:09:16.028] [76561199471776312][ISExitVehicle][Sledge40][12641,5996,0][VanAmbulance].
+[06-09-26 16:09:19.539] [76561199471776312][ISEnterVehicle][Sledge40][12637,5996,0][CarLightsKST].
+[06-09-26 16:09:47.170] [76561199471776312][ISExitVehicle][Sledge40][12637,5996,0][CarLightsKST].
+[06-09-26 16:09:49.050] [76561198093780693][ISExitVehicle][Danny Sullivan][6132,5323,0][fhq92EconolineXL].
+[06-09-26 16:09:55.599] [76561199471776312][ISEnterVehicle][Sledge40][12632,5994,0][CarLightsLouisvilleCounty].
+[06-09-26 16:10:05.167] [76561199471776312][ISExitVehicle][Sledge40][12632,5995,0][CarLightsLouisvilleCounty].
+[06-09-26 16:10:12.584] [76561199471776312][ISEnterVehicle][Sledge40][12641,5996,0][VanAmbulance].
+[06-09-26 16:12:25.819] [76561198093780693][ISEnterVehicle][Danny Sullivan][6129,5338,0][DashRoamer].
+[06-09-26 16:12:32.997] [76561198093780693][ISExitVehicle][Danny Sullivan][6128,5338,0][DashRoamer].
+[06-09-26 16:13:07.171] [76561198093780693][ISEnterVehicle][Danny Sullivan][6129,5338,0][DashRoamer].
+[06-09-26 16:13:41.205] [76561198093780693][ISExitVehicle][Danny Sullivan][6128,5338,0][DashRoamer].
+[06-09-26 16:13:44.879] [76561198093780693][ISEnterVehicle][Danny Sullivan][6128,5338,0][DashRoamer].
+[06-09-26 16:14:11.995] [76561198093780693][ISExitVehicle][Danny Sullivan][6144,5342,0][DashRoamer].
+[06-09-26 16:14:22.814] [76561198093780693][ISEnterVehicle][Danny Sullivan][6131,5338,0][87fordF700box].
+[06-09-26 16:14:27.108] [76561198093780693][ISExitVehicle][Danny Sullivan][6131,5338,0][87fordF700box].
+[06-09-26 16:14:40.216] [76561199471776312][ISExitVehicle][Sledge40][12634,4697,0][VanAmbulance].
+[06-09-26 16:15:15.997] [76561198148801188][ISEnterVehicle][ServerDaddy][10316,9394,0][VanMccoy].
+[06-09-26 16:15:27.247] [76561198165650138][ISExitVehicle][Blinkdog81][11989,6902,0][VanPluggedInElectrics].
+[06-09-26 16:15:38.684] [76561198093780693][ISEnterVehicle][Danny Sullivan][6144,5343,0][DashRoamer].
+[06-09-26 16:16:04.963] [76561198093780693][ISExitVehicle][Danny Sullivan][6091,5304,0][DashRoamer].
+[06-09-26 16:16:25.525] [76561197983854611][ISEnterVehicle][Krom][10330,9402,0][DashRoamer].
+[06-09-26 16:16:32.502] [76561198148801188][ISExitVehicle][ServerDaddy][10343,9381,0][VanMccoy].
+[06-09-26 16:16:36.787] [76561197983854611][ISExitVehicle][Krom][10346,9374,0][DashRoamer].
+[06-09-26 16:16:43.400] [76561198093780693][ISEnterVehicle][Danny Sullivan][6095,5315,0][70dodgeTA].
+[06-09-26 16:16:59.132] [76561198148801188][ISEnterVehicle][ServerDaddy][10345,9386,0][fhq92Econoline].
+[06-09-26 16:17:02.710] [76561198093780693][ISExitVehicle][Danny Sullivan][6095,5315,0][70dodgeTA].
+[06-09-26 16:17:03.135] [76561197983854611][ISEnterVehicle][Krom][10346,9375,0][DashRoamer].
+[06-09-26 16:17:08.851] [76561198148801188][ISExitVehicle][ServerDaddy][10345,9385,0][fhq92Econoline].
+[06-09-26 16:17:12.345] [76561198148801188][ISEnterVehicle][ServerDaddy][10345,9386,0][fhq92Econoline].
+[06-09-26 16:17:13.270] [76561198093780693][ISEnterVehicle][Danny Sullivan][6095,5315,0][70dodgeTA].
+[06-09-26 16:17:14.454] [76561198148801188][ISExitVehicle][ServerDaddy][10345,9385,0][fhq92Econoline].
+[06-09-26 16:17:17.946] [76561198148801188][ISEnterVehicle][ServerDaddy][10343,9382,0][VanMccoy].
+[06-09-26 16:17:27.559] [76561198093780693][ISExitVehicle][Danny Sullivan][6095,5313,0][70dodgeTA].
+[06-09-26 16:17:34.863] [76561198093780693][ISEnterVehicle][Danny Sullivan][6092,5305,0][DashRoamer].
+[06-09-26 16:18:55.224] [76561198148801188][ISExitVehicle][ServerDaddy][10606,8830,0][VanMccoy].
+[06-09-26 16:19:09.418] [76561198148801188][ISEnterVehicle][ServerDaddy][10606,8827,0][fhqLoyale].
+[06-09-26 16:19:13.104] [76561198148801188][ISExitVehicle][ServerDaddy][10607,8827,0][fhqLoyale].
+[06-09-26 16:19:20.466] [76561198148801188][ISEnterVehicle][ServerDaddy][10607,8825,0][fhq78Scirocco].
+[06-09-26 16:19:22.304] [76561198093780693][ISExitVehicle][Danny Sullivan][6090,5314,0][DashRoamer].
+[06-09-26 16:19:25.273] [76561198148801188][ISExitVehicle][ServerDaddy][10607,8824,0][fhq78Scirocco].
+[06-09-26 16:19:29.820] [76561198148801188][ISEnterVehicle][ServerDaddy][10607,8830,0][VanMccoy].
+[06-09-26 16:19:51.293] [76561198148801188][ISExitVehicle][ServerDaddy][10717,8768,0][VanMccoy].
+[06-09-26 16:19:54.616] [76561198148801188][ISEnterVehicle][ServerDaddy][10714,8764,0][fhqLeCar].
+[06-09-26 16:20:18.380] [76561198148801188][ISExitVehicle][ServerDaddy][10715,8764,0][fhqLeCar].
+[06-09-26 16:20:37.390] [76561198148801188][ISEnterVehicle][ServerDaddy][10718,8763,0][SmallCar02].
+[06-09-26 16:20:45.903] [76561198148801188][ISExitVehicle][ServerDaddy][10719,8763,0][SmallCar02].
+[06-09-26 16:20:46.457] [76561198093780693][ISEnterVehicle][Danny Sullivan][6090,5314,0][DashRoamer].
+[06-09-26 16:20:55.301] [76561198148801188][ISEnterVehicle][ServerDaddy][10717,8769,0][VanMccoy].
+[06-09-26 16:21:03.675] [76561199471776312][ISEnterVehicle][Sledge40][12630,4703,0][89trooperRS].
+[06-09-26 16:21:06.493] [76561199471776312][ISExitVehicle][Sledge40][12630,4703,0][89trooperRS].
+[06-09-26 16:25:29.506] [76561198165650138][ISEnterVehicle][Blinkdog81][11988,6902,0][VanPluggedInElectrics].
+[06-09-26 16:26:35.682] [76561198165650138][ISExitVehicle][Blinkdog81][12109,6801,0][VanPluggedInElectrics].
+[06-09-26 16:27:16.071] [76561198148801188][ISExitVehicle][ServerDaddy][11453,8766,0][VanMccoy].
+[06-09-26 16:27:42.385] [76561198148801188][ISEnterVehicle][ServerDaddy][11453,8766,0][VanMccoy].
+[06-09-26 16:27:48.063] [76561198148801188][ISExitVehicle][ServerDaddy][11451,8758,0][VanMccoy].
+[06-09-26 16:29:23.958] [76561198148801188][ISEnterVehicle][ServerDaddy][11450,8759,0][VanMccoy].
+[06-09-26 16:30:13.488] [76561198148801188][ISExitVehicle][ServerDaddy][11489,8763,0][VanMccoy].
+[06-09-26 16:30:15.999] [76561198148801188][ISEnterVehicle][ServerDaddy][11489,8763,0][VanMccoy].
+[06-09-26 16:30:21.421] [76561198148801188][ISExitVehicle][ServerDaddy][11488,8762,0][VanMccoy].
+[06-09-26 16:31:06.475] [76561198165650138][ISEnterVehicle][Blinkdog81][12110,6801,0][VanPluggedInElectrics].
+[06-09-26 16:31:30.317] [76561198165650138][ISExitVehicle][Blinkdog81][12097,6797,0][VanPluggedInElectrics].
+[06-09-26 16:31:37.339] [76561197983854611][ISExitVehicle][Krom][10499,9234,0][DashRoamer].
+[06-09-26 16:33:11.598] [76561198148801188][ISEnterVehicle][ServerDaddy][11489,8762,0][VanMccoy].
+[06-09-26 16:33:23.628] [76561198148801188][ISExitVehicle][ServerDaddy][11490,8761,0][VanMccoy].
+[06-09-26 16:34:10.249] [76561198148801188][ISEnterVehicle][ServerDaddy][11490,8762,0][VanMccoy].
+[06-09-26 16:36:56.256] [76561197983854611][ISEnterVehicle][Krom][10499,9234,0][DashRoamer].
+[06-09-26 16:39:40.655] [76561199471776312][ISEnterVehicle][Sledge40][12634,4697,0][VanAmbulance].
+[06-09-26 16:39:40.660] [76561198148801188][ISExitVehicle][ServerDaddy][11537,8823,0][VanMccoy].
+[06-09-26 16:39:43.086] [76561198148801188][ISEnterVehicle][ServerDaddy][11537,8823,0][VanMccoy].
+[06-09-26 16:39:59.680] [76561199471776312][ISExitVehicle][Sledge40][12585,4709,0][VanAmbulance].
+[06-09-26 16:40:30.017] [76561198148801188][ISExitVehicle][ServerDaddy][11492,8760,0][VanMccoy].
+[06-09-26 16:40:44.349] [76561198148801188][ISEnterVehicle][ServerDaddy][11492,8761,0][VanMccoy].
+[06-09-26 16:40:57.051] [76561198148801188][ISExitVehicle][ServerDaddy][11511,8760,0][VanMccoy].
+[06-09-26 16:42:53.567] [76561199471776312][ISEnterVehicle][Sledge40][12575,4698,0][VanOvoFarm].
+[06-09-26 16:43:53.835] [76561199471776312][ISExitVehicle][Sledge40][12575,4697,0][VanOvoFarm].
+[06-09-26 16:46:16.787] [76561199471776312][ISEnterVehicle][Sledge40][12585,4709,0][VanAmbulance].
+[06-09-26 16:49:46.011] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1978,8582,0][VanUncloggers].
+[06-09-26 16:50:17.000] [76561198165650138][ISEnterVehicle][Blinkdog81][12096,6796,0][VanPluggedInElectrics].
+[06-09-26 16:50:18.800] [76561198165650138][ISExitVehicle][Blinkdog81][12097,6797,0][VanPluggedInElectrics].
+[06-09-26 16:51:44.902] [76561198254867641][ISExitVehicle][Lilith Sullivan][1978,8582,0][VanUncloggers].
+[06-09-26 16:52:17.285] [76561199133759071][ISEnterVehicle][Tymbomb][12631,4703,0][89trooperRS].
+[06-09-26 16:52:18.582] [76561199133759071][ISExitVehicle][Tymbomb][12630,4703,0][89trooperRS].
+[06-09-26 16:52:22.324] [76561199133759071][ISEnterVehicle][Tymbomb][12631,4703,0][89trooperRS].
+[06-09-26 16:53:24.024] [76561199133759071][ISExitVehicle][Tymbomb][12518,4500,0][89trooperRS].
+[06-09-26 16:53:52.042] [76561199133759071][ISEnterVehicle][Tymbomb][12519,4499,0][89trooperRS].
+[06-09-26 16:53:59.249] [76561199133759071][ISExitVehicle][Tymbomb][12514,4487,0][89trooperRS].
+[06-09-26 16:55:12.969] [76561199133759071][ISEnterVehicle][Tymbomb][12514,4488,0][89trooperRS].
+[06-09-26 16:56:02.808] [76561199133759071][ISExitVehicle][Tymbomb][12514,4364,0][89trooperRS].
+[06-09-26 16:56:07.609] [76561199133759071][ISEnterVehicle][Tymbomb][12514,4365,0][89trooperRS].
+[06-09-26 16:56:13.085] [76561199133759071][ISExitVehicle][Tymbomb][12514,4355,0][89trooperRS].
+[06-09-26 16:56:19.669] [76561199133759071][ISEnterVehicle][Tymbomb][12515,4355,0][89trooperRS].
+[06-09-26 16:57:02.506] [76561199133759071][ISExitVehicle][Tymbomb][12515,4355,0][89trooperRS].
+[06-09-26 16:57:08.740] [76561199133759071][ISEnterVehicle][Tymbomb][12514,4355,0][89trooperRS].
+[06-09-26 16:57:12.948] [76561199133759071][ISExitVehicle][Tymbomb][12516,4366,0][89trooperRS].
+[06-09-26 16:57:22.871] [76561199133759071][ISEnterVehicle][Tymbomb][12516,4365,0][89trooperRS].
+[06-09-26 16:57:41.024] [76561199133759071][ISExitVehicle][Tymbomb][12515,4488,0][89trooperRS].
+[06-09-26 16:57:52.812] [76561199133759071][ISEnterVehicle][Tymbomb][12515,4488,0][89trooperRS].
+[06-09-26 16:57:58.301] [76561199133759071][ISExitVehicle][Tymbomb][12516,4497,0][89trooperRS].
+[06-09-26 16:58:24.866] [76561199133759071][ISEnterVehicle][Tymbomb][12516,4497,0][89trooperRS].
+[06-09-26 16:58:34.510] [76561199133759071][ISExitVehicle][Tymbomb][12518,4498,0][89trooperRS].
+[06-09-26 16:58:44.065] [76561199133759071][ISEnterVehicle][Tymbomb][12518,4498,0][89trooperRS].
+[06-09-26 16:58:50.694] [76561198093780693][ISExitVehicle][Danny Sullivan][1922,8574,0][DashRoamer].
+[06-09-26 16:59:00.479] [76561198093780693][ISEnterVehicle][Danny Sullivan][1921,8575,0][DashRoamer].
+[06-09-26 16:59:43.331] [76561199133759071][ISExitVehicle][Tymbomb][12651,4298,0][89trooperRS].
+[06-09-26 17:00:02.342] [76561198093780693][ISExitVehicle][Danny Sullivan][1966,8573,0][DashRoamer].
+[06-09-26 17:00:11.015] [76561198093780693][ISEnterVehicle][Danny Sullivan][1965,8573,0][DashRoamer].
+[06-09-26 17:00:13.129] [76561198093780693][ISExitVehicle][Danny Sullivan][1966,8573,0][DashRoamer].
+[06-09-26 17:00:16.889] [76561198093780693][ISEnterVehicle][Danny Sullivan][1965,8573,0][DashRoamer].
+[06-09-26 17:00:43.632] [76561199471776312][ISExitVehicle][Sledge40][12667,4194,0][VanAmbulance].
+[06-09-26 17:02:13.764] [76561198093780693][ISExitVehicle][Danny Sullivan][1966,8573,0][DashRoamer].
+[06-09-26 17:02:16.687] [76561198093780693][ISEnterVehicle][Danny Sullivan][1965,8573,0][DashRoamer].
+[06-09-26 17:02:17.576] [76561198093780693][ISExitVehicle][Danny Sullivan][1966,8573,0][DashRoamer].
+[06-09-26 17:07:31.227] [76561198148801188][ISEnterVehicle][ServerDaddy][11552,8846,0][DashRoamer].
+[06-09-26 17:08:53.907] [76561198148801188][ISEnterVehicle][ServerDaddy][11552,8846,0][DashRoamer].
+[06-09-26 17:10:18.439] [76561198148801188][ISEnterVehicle][ServerDaddy][11552,8846,0][DashRoamer].
+[06-09-26 17:10:21.548] [76561199471776312][ISEnterVehicle][Sledge40][12667,4193,0][VanAmbulance].
+[06-09-26 17:10:22.726] [76561198148801188][ISExitVehicle][ServerDaddy][11551,8846,0][DashRoamer].
+[06-09-26 17:10:40.447] [76561199133759071][ISEnterVehicle][Tymbomb][12650,4297,0][89trooperRS].
+[06-09-26 17:10:45.421] [76561199471776312][ISExitVehicle][Sledge40][12665,4075,0][VanAmbulance].
+[06-09-26 17:11:15.683] [76561198148801188][ISEnterVehicle][ServerDaddy][11552,8846,0][DashRoamer].
+[06-09-26 17:11:35.427] [76561198148801188][ISExitVehicle][ServerDaddy][11517,8759,0][DashRoamer].
+[06-09-26 17:11:38.365] [76561199133759071][ISExitVehicle][Tymbomb][12649,4431,0][89trooperRS].
+[06-09-26 17:11:38.365] [76561198148801188][ISEnterVehicle][ServerDaddy][11511,8761,0][VanMccoy].
+[06-09-26 17:12:03.635] [76561198148801188][ISExitVehicle][ServerDaddy][11511,8760,0][VanMccoy].
+[06-09-26 17:12:25.995] [76561198148801188][ISEnterVehicle][ServerDaddy][11516,8762,0][DashRoamer].
+[06-09-26 17:12:45.415] [76561199133759071][ISEnterVehicle][Tymbomb][12649,4432,0][89trooperRS].
+[06-09-26 17:12:52.848] [76561199133759071][ISExitVehicle][Tymbomb][12650,4388,0][89trooperRS].
+[06-09-26 17:13:46.144] [76561199471776312][ISEnterVehicle][Sledge40][12666,4075,0][VanAmbulance].
+[06-09-26 17:13:54.768] [76561199133759071][ISEnterVehicle][Tymbomb][12650,4389,0][89trooperRS].
+[06-09-26 17:14:16.672] [76561199133759071][ISExitVehicle][Tymbomb][12630,4471,0][89trooperRS].
+[06-09-26 17:15:00.419] [76561198148801188][ISExitVehicle][ServerDaddy][11516,8763,0][DashRoamer].
+[06-09-26 17:15:01.267] [76561198165650138][ISEnterVehicle][Blinkdog81][12096,6796,0][VanPluggedInElectrics].
+[06-09-26 17:15:23.124] [76561198148801188][ISEnterVehicle][ServerDaddy][11511,8760,0][VanMccoy].
+[06-09-26 17:15:41.421] [76561198165650138][ISExitVehicle][Blinkdog81][12024,6874,0][VanPluggedInElectrics].
+[06-09-26 17:17:09.517] [76561198148801188][ISExitVehicle][ServerDaddy][11514,8757,0][VanMccoy].
+[06-09-26 17:17:14.831] [76561198148801188][ISEnterVehicle][ServerDaddy][11517,8759,0][DashRoamer].
+[06-09-26 17:18:01.295] [76561199471776312][ISExitVehicle][Sledge40][13271,3511,0][VanAmbulance].
+[06-09-26 17:18:08.638] [76561198148801188][ISExitVehicle][ServerDaddy][11517,8759,0][DashRoamer].
+[06-09-26 17:18:12.515] [76561199471776312][ISEnterVehicle][Sledge40][13270,3512,0][VanAmbulance].
+[06-09-26 17:18:31.828] [76561199471776312][ISExitVehicle][Sledge40][13297,3454,0][VanAmbulance].
+[06-09-26 17:18:35.281] [76561199133759071][ISEnterVehicle][Tymbomb][12631,4471,0][89trooperRS].
+[06-09-26 17:18:47.276] [76561199133759071][ISExitVehicle][Tymbomb][12630,4471,0][89trooperRS].
+[06-09-26 17:18:55.383] [76561199471776312][ISEnterVehicle][Sledge40][13297,3455,0][VanAmbulance].
+[06-09-26 17:18:56.675] [76561198148801188][ISEnterVehicle][ServerDaddy][11516,8762,0][DashRoamer].
+[06-09-26 17:19:36.202] [76561199133759071][ISEnterVehicle][Tymbomb][12631,4471,0][89trooperRS].
+[06-09-26 17:20:05.569] [76561199471776312][ISExitVehicle][Sledge40][13649,3455,0][VanAmbulance].
+[06-09-26 17:20:06.940] [76561199133759071][ISExitVehicle][Tymbomb][12630,4471,0][89trooperRS].
+[06-09-26 17:20:12.103] [76561199471776312][ISEnterVehicle][Sledge40][13659,3455,0][VanMetalheads].
+[06-09-26 17:20:25.261] [76561199471776312][ISExitVehicle][Sledge40][13659,3456,0][VanMetalheads].
+[06-09-26 17:20:36.037] [76561199133759071][ISEnterVehicle][Tymbomb][12630,4470,0][89trooperRS].
+[06-09-26 17:21:04.682] [76561199133759071][ISExitVehicle][Tymbomb][12634,4342,0][89trooperRS].
+[06-09-26 17:21:36.427] [76561199471776312][ISEnterVehicle][Sledge40][13650,3456,0][VanAmbulance].
+[06-09-26 17:21:44.358] [76561199471776312][ISExitVehicle][Sledge40][13664,3451,0][VanAmbulance].
+[06-09-26 17:21:44.563] [76561198148801188][ISEnterVehicle][ServerDaddy][11515,8757,0][VanMccoy].
+[06-09-26 17:22:09.606] [76561199133759071][ISEnterVehicle][Tymbomb][12634,4342,0][89trooperRS].
+[06-09-26 17:22:11.955] [76561199471776312][ISEnterVehicle][Sledge40][13664,3451,0][VanAmbulance].
+[06-09-26 17:23:37.929] [76561199471776312][ISExitVehicle][Sledge40][13982,3419,0][VanAmbulance].
+[06-09-26 17:24:22.597] [76561199471776312][ISEnterVehicle][Sledge40][13982,3419,0][VanAmbulance].
+[06-09-26 17:25:49.428] [76561198148801188][ISExitVehicle][ServerDaddy][11514,8757,0][VanMccoy].
+[06-09-26 17:26:13.222] [76561198148801188][ISEnterVehicle][ServerDaddy][11517,8759,0][DashRoamer].
+[06-09-26 17:26:16.772] [76561198148801188][ISExitVehicle][ServerDaddy][11519,8759,0][DashRoamer].
+[06-09-26 17:26:22.638] [76561198148801188][ISEnterVehicle][ServerDaddy][11515,8758,0][VanMccoy].
+[06-09-26 17:26:26.083] [76561198148801188][ISExitVehicle][ServerDaddy][11514,8757,0][VanMccoy].
+[06-09-26 17:26:37.648] [76561198148801188][ISEnterVehicle][ServerDaddy][11519,8759,0][DashRoamer].
+[06-09-26 17:27:26.958] [76561199471776312][ISExitVehicle][Sledge40][13980,2666,0][VanAmbulance].
+[06-09-26 17:27:30.336] [76561199471776312][ISEnterVehicle][Sledge40][13981,2667,0][VanAmbulance].
+[06-09-26 17:27:42.252] [76561199133759071][ISExitVehicle][Tymbomb][13979,3432,0][89trooperRS].
+[06-09-26 17:27:46.517] [76561198148801188][ISExitVehicle][ServerDaddy][11639,8715,0][DashRoamer].
+[06-09-26 17:27:54.399] [76561198148801188][ISEnterVehicle][ServerDaddy][11637,8715,0][DashRoamer].
+[06-09-26 17:28:16.159] [76561199471776312][ISExitVehicle][Sledge40][14097,2661,0][VanAmbulance].
+[06-09-26 17:30:04.319] [76561198165650138][ISEnterVehicle][Blinkdog81][12024,6874,0][VanPluggedInElectrics].
+[06-09-26 17:30:08.392] [76561198148801188][ISEnterVehicle][ServerDaddy][11646,8555,0][DashRoamer].
+[06-09-26 17:30:32.102] [76561199133759071][ISEnterVehicle][Tymbomb][13977,3421,0][87fordB700military].
+[06-09-26 17:30:57.119] [76561199133759071][ISExitVehicle][Tymbomb][13977,3421,0][87fordB700military].
+[06-09-26 17:31:04.578] [76561199133759071][ISEnterVehicle][Tymbomb][13979,3432,0][89trooperRS].
+[06-09-26 17:31:16.591] [76561198165650138][ISExitVehicle][Blinkdog81][12062,7160,0][VanPluggedInElectrics].
+[06-09-26 17:31:21.769] [76561199133759071][ISExitVehicle][Tymbomb][13979,3426,0][89trooperRS].
+[06-09-26 17:31:30.624] [76561199133759071][ISEnterVehicle][Tymbomb][13979,3426,0][89trooperRS].
+[06-09-26 17:31:32.568] [76561199133759071][ISExitVehicle][Tymbomb][13979,3426,0][89trooperRS].
+[06-09-26 17:31:41.888] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1972,8581,0][91range].
+[06-09-26 17:31:43.913] [76561198148801188][ISExitVehicle][ServerDaddy][11671,8371,0][DashRoamer].
+[06-09-26 17:31:45.000] [76561199133759071][ISEnterVehicle][Tymbomb][13979,3425,0][89trooperRS].
+[06-09-26 17:31:46.832] [76561198254867641][ISExitVehicle][Lilith Sullivan][1972,8581,0][91range].
+[06-09-26 17:33:23.194] [76561198148801188][ISEnterVehicle][ServerDaddy][11670,8352,0][fhqE36M3Coupe].
+[06-09-26 17:33:30.194] [76561198148801188][ISExitVehicle][ServerDaddy][11670,8353,0][fhqE36M3Coupe].
+[06-09-26 17:33:35.922] [76561198165650138][ISEnterVehicle][Blinkdog81][12062,7160,0][VanPluggedInElectrics].
+[06-09-26 17:34:45.490] [76561198148801188][ISEnterVehicle][ServerDaddy][11670,8352,0][fhqE36M3Coupe].
+[06-09-26 17:34:46.222] [76561198148801188][ISExitVehicle][ServerDaddy][11670,8353,0][fhqE36M3Coupe].
+[06-09-26 17:34:48.128] [76561199133759071][ISExitVehicle][Tymbomb][14147,2644,0][89trooperRS].
+[06-09-26 17:34:55.058] [76561199133759071][ISEnterVehicle][Tymbomb][14147,2644,0][89trooperRS].
+[06-09-26 17:35:02.441] [76561199133759071][ISExitVehicle][Tymbomb][14147,2644,0][89trooperRS].
+[06-09-26 17:36:51.827] [76561199471776312][ISEnterVehicle][Sledge40][14097,2661,0][VanAmbulance].
+[06-09-26 17:37:37.273] [76561199471776312][ISExitVehicle][Sledge40][14175,2630,0][VanAmbulance].
+[06-09-26 17:38:10.241] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1978,8582,0][VanUncloggers].
+[06-09-26 17:38:44.885] [76561198254867641][ISExitVehicle][Lilith Sullivan][1927,8578,0][VanUncloggers].
+[06-09-26 17:38:50.522] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1927,8577,0][VanUncloggers].
+[06-09-26 17:38:52.821] [76561198254867641][ISExitVehicle][Lilith Sullivan][1928,8578,0][VanUncloggers].
+[06-09-26 17:38:59.493] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1929,8577,0][VanUncloggers].
+[06-09-26 17:39:07.524] [76561198254867641][ISExitVehicle][Lilith Sullivan][1921,8577,0][VanUncloggers].
+[06-09-26 17:39:16.375] [76561198148801188][ISEnterVehicle][ServerDaddy][11672,8371,0][DashRoamer].
+[06-09-26 17:39:17.803] [76561198254867641][ISEnterVehicle][Lilith Sullivan][1921,8576,0][VanUncloggers].
+[06-09-26 17:39:20.547] [76561198165650138][ISExitVehicle][Blinkdog81][11643,8846,0][VanPluggedInElectrics].
+[06-09-26 17:45:53.656] [76561198093780693][ISEnterVehicle][Danny Sullivan][1966,8573,0][DashRoamer].
+[06-09-26 17:45:57.911] [76561198093780693][ISExitVehicle][Danny Sullivan][1966,8573,0][DashRoamer].
+[06-09-26 17:47:28.265] [76561198148801188][ISEnterVehicle][ServerDaddy][11671,8371,0][DashRoamer].
+[06-09-26 17:49:15.765] [76561198254867641][ISExitVehicle][Lilith Sullivan][985,9070,0][VanUncloggers].
+[06-09-26 17:50:33.195] [76561198148801188][ISEnterVehicle][ServerDaddy][11672,8371,0][DashRoamer].
+[06-09-26 17:53:44.607] [76561198254867641][ISEnterVehicle][Lilith Sullivan][986,9070,0][VanUncloggers].
+[06-09-26 17:54:02.085] [76561198148801188][ISExitVehicle][ServerDaddy][11646,7588,0][DashRoamer].
+[06-09-26 17:54:04.681] [76561198148801188][ISEnterVehicle][ServerDaddy][11646,7589,0][DashRoamer].
+[06-09-26 17:55:50.864] [76561198308440766][ISEnterVehicle][Legofanhead][8795,11606,0][69chargerRT].
+[06-09-26 17:58:26.778] [76561198308440766][ISExitVehicle][Legofanhead][8796,11606,0][69chargerRT].
+[06-09-26 17:59:16.311] [76561198308440766][ISEnterVehicle][Legofanhead][8795,11606,0][69chargerRT].
+[06-09-26 17:59:21.730] [76561198308440766][ISExitVehicle][Legofanhead][8796,11606,0][69chargerRT].
+[06-09-26 17:59:27.892] [76561198308440766][ISEnterVehicle][Legofanhead][8796,11606,0][69chargerRT].
+[06-09-26 17:59:28.984] [76561198308440766][ISExitVehicle][Legofanhead][8796,11606,0][69chargerRT].
+[06-09-26 18:00:03.939] [76561198165650138][ISEnterVehicle][Blinkdog81][11643,8846,0][VanPluggedInElectrics].
+[06-09-26 18:00:24.544] [76561198165650138][ISExitVehicle][Blinkdog81][11614,8844,0][VanPluggedInElectrics].
+[06-09-26 18:01:40.338] [76561198308440766][ISEnterVehicle][Legofanhead][8796,11606,0][69chargerRT].
+[06-09-26 18:01:42.260] [76561198308440766][ISExitVehicle][Legofanhead][8796,11606,0][69chargerRT].
+[06-09-26 18:03:31.258] [76561198308440766][ISEnterVehicle][Legofanhead][8796,11606,0][69chargerRT].
+[06-09-26 18:04:33.302] [76561198254867641][ISExitVehicle][Lilith Sullivan][416,9877,0][VanUncloggers].
+[06-09-26 18:07:09.463] [76561199471776312][ISEnterVehicle][Sledge40][14172,2636,0][82porsche911turbo].
+[06-09-26 18:07:59.510] [76561199471776312][ISExitVehicle][Sledge40][14172,2636,0][82porsche911turbo].
+[06-09-26 18:11:54.401] [76561198308440766][ISExitVehicle][Legofanhead][10609,10464,0][69chargerRT].
+[06-09-26 18:14:41.454] [76561198254867641][ISEnterVehicle][Lilith Sullivan][416,9876,0][VanUncloggers].
+[06-09-26 18:15:11.164] [76561198093780693][ISEnterVehicle][Danny Sullivan][1965,8573,0][DashRoamer].
+[06-09-26 18:15:46.913] [76561198093780693][ISExitVehicle][Danny Sullivan][1966,8573,0][DashRoamer].
+[06-09-26 18:15:50.138] [76561198093780693][ISEnterVehicle][Danny Sullivan][1966,8573,0][DashRoamer].
+[06-09-26 18:16:40.931] [76561199471776312][ISEnterVehicle][Sledge40][14175,2630,0][VanAmbulance].
+[06-09-26 18:17:15.462] [76561199471776312][ISExitVehicle][Sledge40][14175,2630,0][VanAmbulance].
+[06-09-26 18:33:02.198] [76561198254867641][ISEnterVehicle][Lilith Sullivan][452,9800,0][VanUncloggers].
+[06-09-26 18:38:13.287] [76561198254867641][ISEnterVehicle][Lilith Sullivan][452,9800,0][VanUncloggers].
+[06-09-26 18:40:39.451] [76561198165650138][ISEnterVehicle][Blinkdog81][11666,8807,0][PickUpTruck].
+[06-09-26 18:42:44.281] [76561198254867641][ISEnterVehicle][Lilith Sullivan][452,9800,0][VanUncloggers].
+[06-09-26 18:43:18.098] [76561198254867641][ISExitVehicle][Lilith Sullivan][396,9810,0][VanUncloggers].
+[06-09-26 18:44:38.884] [76561198308440766][ISEnterVehicle][Legofanhead][10609,10464,0][69chargerRT].
+[06-09-26 18:45:18.741] [76561198308440766][ISExitVehicle][Legofanhead][10641,10430,0][69chargerRT].
+[06-09-26 18:45:39.695] [76561198165650138][ISExitVehicle][Blinkdog81][12105,6890,0][PickUpTruck].
+[06-09-26 18:46:11.900] [76561198093780693][ISEnterVehicle][Danny Sullivan][1891,7875,0][fhqLoyaleWag].
+[06-09-26 18:47:01.455] [76561198093780693][ISExitVehicle][Danny Sullivan][1878,7700,0][fhqLoyaleWag].
+[06-09-26 18:50:34.650] [76561198165650138][ISEnterVehicle][Blinkdog81][12106,6891,0][PickUpTruck].
+[06-09-26 18:51:33.103] [76561198165650138][ISExitVehicle][Blinkdog81][11902,6898,0][PickUpTruck].
+[06-09-26 18:52:12.326] [76561198165650138][ISEnterVehicle][Blinkdog81][11902,6898,0][PickUpTruck].
+[06-09-26 18:52:23.529] [76561198165650138][ISExitVehicle][Blinkdog81][11902,6898,0][PickUpTruck].
+[06-09-26 18:53:09.813] [76561198308440766][ISEnterVehicle][Legofanhead][10641,10430,0][69chargerRT].
+[06-09-26 18:54:07.023] [76561198093780693][ISEnterVehicle][Danny Sullivan][1975,7126,0][fhq91CutlassCiera].
+[06-09-26 18:54:47.659] [76561198254867641][ISEnterVehicle][Lilith Sullivan][396,9809,0][VanUncloggers].
+[06-09-26 18:56:11.188] [76561198093780693][ISExitVehicle][Danny Sullivan][1957,6633,0][fhq91CutlassCiera].
+[06-09-26 18:56:16.551] [76561198093780693][ISEnterVehicle][Danny Sullivan][1958,6633,0][fhq91CutlassCiera].
+[06-09-26 18:56:26.254] [76561198093780693][ISExitVehicle][Danny Sullivan][1953,6611,0][fhq91CutlassCiera].
+[06-09-26 18:56:51.636] [76561198254867641][ISExitVehicle][Lilith Sullivan][580,9684,0][VanUncloggers].
+[06-09-26 18:57:06.543] [76561198093780693][ISEnterVehicle][Danny Sullivan][1941,6602,0][StepVan_Zippee].
+[06-09-26 18:57:53.640] [76561198093780693][ISExitVehicle][Danny Sullivan][1941,6602,0][StepVan_Zippee].
+[06-09-26 18:59:47.332] [76561198093780693][ISEnterVehicle][Danny Sullivan][1939,6614,0][fhq78SubWag_DL].
+[06-09-26 19:01:09.532] [76561198093780693][ISExitVehicle][Danny Sullivan][2024,6518,0][fhq78SubWag_DL].
+[06-09-26 19:01:16.273] [76561198093780693][ISEnterVehicle][Danny Sullivan][2024,6518,0][fhq78SubWag_DL].
+[06-09-26 19:01:23.040] [76561198093780693][ISExitVehicle][Danny Sullivan][2024,6518,0][fhq78SubWag_DL].
+[06-09-26 19:01:55.081] [76561198308440766][ISExitVehicle][Legofanhead][11598,8271,0][69chargerRT].
+[06-09-26 19:01:59.666] [76561198308440766][ISEnterVehicle][Legofanhead][11598,8272,0][69chargerRT].
+[06-09-26 19:02:01.680] [76561198308440766][ISExitVehicle][Legofanhead][11598,8271,0][69chargerRT].
+[06-09-26 19:03:11.806] [76561198308440766][ISEnterVehicle][Legofanhead][11593,8272,0][82porsche911turbo].
+[06-09-26 19:03:57.743] [76561198254867641][ISEnterVehicle][Lilith Sullivan][581,9684,0][VanUncloggers].
+[06-09-26 19:04:19.439] [76561198308440766][ISExitVehicle][Legofanhead][11603,8271,0][82porsche911turbo].
+[06-09-26 19:04:28.838] [76561198308440766][ISEnterVehicle][Legofanhead][11598,8272,0][69chargerRT].
+[06-09-26 19:04:38.373] [76561198308440766][ISExitVehicle][Legofanhead][11600,8274,0][69chargerRT].
+[06-09-26 19:04:57.910] [76561198308440766][ISEnterVehicle][Legofanhead][11600,8274,0][69chargerRT].
+[06-09-26 19:05:30.264] [76561198308440766][ISExitVehicle][Legofanhead][11600,8303,0][69chargerRT].
+[06-09-26 19:05:56.935] [76561198093780693][ISEnterVehicle][Danny Sullivan][2058,6494,0][fhq71Cuda].
+[06-09-26 19:06:12.943] [76561199471776312][ISEnterVehicle][Sledge40][14175,2630,0][VanAmbulance].
+[06-09-26 19:07:16.069] [76561198254867641][ISExitVehicle][Lilith Sullivan][679,9855,0][VanUncloggers].
+[06-09-26 19:07:39.752] [76561199471776312][ISEnterVehicle][Sledge40][14147,2645,0][89trooperRS].
+[06-09-26 19:08:07.483] [76561199471776312][ISExitVehicle][Sledge40][14147,2644,0][89trooperRS].
+[06-09-26 19:09:50.730] [76561198165650138][ISEnterVehicle][Blinkdog81][11902,6898,0][PickUpTruck].
+[06-09-26 19:10:04.240] [76561198093780693][ISExitVehicle][Danny Sullivan][2066,6439,0][fhq71Cuda].
+[06-09-26 19:10:53.683] [76561198165650138][ISExitVehicle][Blinkdog81][11761,6902,0][PickUpTruck].
+[06-09-26 19:10:58.929] [76561198165650138][ISEnterVehicle][Blinkdog81][11762,6902,0][PickUpTruck].
+[06-09-26 19:11:04.644] [76561198308440766][ISEnterVehicle][Legofanhead][11600,8297,0][82porsche911turbo].
+[06-09-26 19:11:09.096] [76561198165650138][ISExitVehicle][Blinkdog81][11777,6903,0][PickUpTruck].
+[06-09-26 19:11:33.262] [76561198093780693][ISEnterVehicle][Danny Sullivan][2066,6439,0][fhq71Cuda].
+[06-09-26 19:11:33.530] [76561198308440766][ISExitVehicle][Legofanhead][11600,8297,0][82porsche911turbo].
+[06-09-26 19:11:44.537] [76561198093780693][ISExitVehicle][Danny Sullivan][2065,6440,0][fhq71Cuda].
+[06-09-26 19:11:57.533] [76561199471776312][ISEnterVehicle][Sledge40][14172,2636,0][82porsche911turbo].
+[06-09-26 19:12:04.171] [76561199471776312][ISExitVehicle][Sledge40][14173,2638,0][82porsche911turbo].
+[06-09-26 19:12:11.000] [76561198308440766][ISEnterVehicle][Legofanhead][11600,8303,0][69chargerRT].
+[06-09-26 19:12:22.402] [76561198308440766][ISExitVehicle][Legofanhead][11611,8314,0][69chargerRT].
+[06-09-26 19:12:23.479] [76561198093780693][ISEnterVehicle][Danny Sullivan][2065,6439,0][fhq71Cuda].
+[06-09-26 19:12:24.181] [76561199471776312][ISEnterVehicle][Sledge40][14173,2638,0][82porsche911turbo].
+[06-09-26 19:12:34.440] [76561198308440766][ISEnterVehicle][Legofanhead][11611,8314,0][69chargerRT].
+[06-09-26 19:12:38.620] [76561198308440766][ISExitVehicle][Legofanhead][11616,8314,0][69chargerRT].
+[06-09-26 19:13:14.256] [76561198308440766][ISEnterVehicle][Legofanhead][11616,8314,0][69chargerRT].
+[06-09-26 19:13:40.401] [76561198308440766][ISExitVehicle][Legofanhead][11678,8357,0][69chargerRT].
+[06-09-26 19:13:43.056] [76561198308440766][ISEnterVehicle][Legofanhead][11679,8357,0][69chargerRT].
+[06-09-26 19:13:44.388] [76561198308440766][ISExitVehicle][Legofanhead][11678,8357,0][69chargerRT].
+[06-09-26 19:14:01.433] [76561198308440766][ISEnterVehicle][Legofanhead][11677,8361,0][VanAmbulance].
+[06-09-26 19:14:15.881] [76561198308440766][ISExitVehicle][Legofanhead][11677,8360,0][VanAmbulance].
+[06-09-26 19:14:51.586] [76561198254867641][ISEnterVehicle][Lilith Sullivan][679,9855,0][VanUncloggers].
+[06-09-26 19:14:55.059] [76561198308440766][ISEnterVehicle][Legofanhead][11679,8357,0][69chargerRT].
+[06-09-26 19:15:04.819] [76561198308440766][ISExitVehicle][Legofanhead][11662,8361,0][69chargerRT].
+[06-09-26 19:15:06.958] [76561199471776312][ISExitVehicle][Sledge40][13940,3066,0][82porsche911turbo].
+[06-09-26 19:15:06.974] [76561198308440766][ISEnterVehicle][Legofanhead][11662,8361,0][69chargerRT].
+[06-09-26 19:15:52.150] [76561198093780693][ISExitVehicle][Danny Sullivan][1899,6417,0][fhq71Cuda].
+[06-09-26 19:15:54.459] [76561198093780693][ISEnterVehicle][Danny Sullivan][1900,6417,0][fhq71Cuda].
+[06-09-26 19:15:59.492] [76561198093780693][ISExitVehicle][Danny Sullivan][1899,6417,0][fhq71Cuda].
+[06-09-26 19:16:25.648] [76561198093780693][ISEnterVehicle][Danny Sullivan][1891,6417,0][fhq92EconolineValkyrie].
+[06-09-26 19:17:41.705] [76561198093780693][ISExitVehicle][Danny Sullivan][2064,6440,0][fhq92EconolineValkyrie].
+[06-09-26 19:17:42.805] [76561198254867641][ISEnterVehicle][Lilith Sullivan][680,9855,0][VanUncloggers].
+[06-09-26 19:18:06.429] [76561198308440766][ISExitVehicle][Legofanhead][11100,8325,0][69chargerRT].
+[06-09-26 19:18:20.806] [76561198308440766][ISEnterVehicle][Legofanhead][11100,8325,0][69chargerRT].
+[06-09-26 19:18:23.438] [76561198308440766][ISExitVehicle][Legofanhead][11100,8325,0][69chargerRT].
+[06-09-26 19:18:31.519] [76561198093780693][ISEnterVehicle][Danny Sullivan][2064,6439,0][fhq92EconolineValkyrie].
+[06-09-26 19:18:41.709] [76561198308440766][ISEnterVehicle][Legofanhead][11100,8325,0][69chargerRT].
+[06-09-26 19:18:54.054] [76561198093780693][ISExitVehicle][Danny Sullivan][1983,6469,0][fhq92EconolineValkyrie].
+[06-09-26 19:19:01.267] [76561198093780693][ISEnterVehicle][Danny Sullivan][1982,6469,0][fhq92EconolineValkyrie].
+[06-09-26 19:19:42.364] [76561199471776312][ISEnterVehicle][Sledge40][13948,3062,0][StepVan_LouisvilleMotorShop].
+[06-09-26 19:20:15.270] [76561199471776312][ISExitVehicle][Sledge40][13948,3063,0][StepVan_LouisvilleMotorShop].
+[06-09-26 19:20:22.536] [76561199471776312][ISEnterVehicle][Sledge40][13940,3065,0][82porsche911turbo].
+[06-09-26 19:20:49.498] [76561199471776312][ISExitVehicle][Sledge40][13971,3090,0][82porsche911turbo].
+[06-09-26 19:23:59.319] [76561198254867641][ISExitVehicle][Lilith Sullivan][340,9848,0][VanUncloggers].
+[06-09-26 19:24:13.760] [76561198254867641][ISEnterVehicle][Lilith Sullivan][342,9842,0][90fordF350SWAT].
+[06-09-26 19:24:21.798] [76561198254867641][ISExitVehicle][Lilith Sullivan][342,9842,0][90fordF350SWAT].
+[06-09-26 19:24:32.339] [76561198254867641][ISEnterVehicle][Lilith Sullivan][340,9847,0][VanUncloggers].
+[06-09-26 19:24:56.645] [76561198093780693][ISExitVehicle][Danny Sullivan][1458,5858,0][fhq92EconolineValkyrie].
+[06-09-26 19:25:04.968] [76561198093780693][ISEnterVehicle][Danny Sullivan][1458,5857,0][fhq92EconolineValkyrie].
+[06-09-26 19:25:36.630] [76561198254867641][ISExitVehicle][Lilith Sullivan][418,9874,0][VanUncloggers].
+[06-09-26 19:25:45.332] [76561198254867641][ISEnterVehicle][Lilith Sullivan][404,9880,0][84mercLWB4].
+[06-09-26 19:25:50.540] [76561198254867641][ISExitVehicle][Lilith Sullivan][404,9880,0][84mercLWB4].
+[06-09-26 19:26:02.406] [76561198254867641][ISEnterVehicle][Lilith Sullivan][413,9880,0][89trooperRS].
+[06-09-26 19:26:11.766] [76561198254867641][ISExitVehicle][Lilith Sullivan][412,9879,0][89trooperRS].
+[06-09-26 19:27:44.374] [76561198165650138][ISEnterVehicle][Blinkdog81][11689,6918,0][fhq93RangerLBed].
+[06-09-26 19:28:02.746] [76561198165650138][ISExitVehicle][Blinkdog81][11688,6918,0][fhq93RangerLBed].
+[06-09-26 19:28:11.336] [76561198165650138][ISEnterVehicle][Blinkdog81][11689,6918,0][fhq93RangerLBed].
+[06-09-26 19:29:07.518] [76561199471776312][ISEnterVehicle][Sledge40][13972,3089,0][82porsche911turbo].
+[06-09-26 19:29:12.629] [76561199471776312][ISExitVehicle][Sledge40][13971,3090,0][82porsche911turbo].
+[06-09-26 19:29:14.969] [76561199471776312][ISEnterVehicle][Sledge40][13972,3089,0][82porsche911turbo].
+[06-09-26 19:29:39.220] [76561199471776312][ISExitVehicle][Sledge40][13944,3057,0][82porsche911turbo].
+[06-09-26 19:30:01.858] [76561198093780693][ISExitVehicle][Danny Sullivan][1434,5878,0][fhq92EconolineValkyrie].
+[06-09-26 19:30:47.879] [76561198093780693][ISEnterVehicle][Danny Sullivan][1435,5877,0][fhq92EconolineValkyrie].
+[06-09-26 19:33:47.877] [76561199471776312][ISEnterVehicle][Sledge40][13945,3056,0][82porsche911turbo].
+[06-09-26 19:33:57.929] [76561199471776312][ISExitVehicle][Sledge40][13952,3063,0][82porsche911turbo].
+[06-09-26 19:34:02.080] [76561198165650138][ISExitVehicle][Blinkdog81][11642,8642,0][fhq93RangerLBed].
+[06-09-26 19:34:38.717] [76561199471776312][ISEnterVehicle][Sledge40][13967,3081,0][CarStationWagon2].
+[06-09-26 19:34:53.738] [76561198093780693][ISExitVehicle][Danny Sullivan][1449,5816,0][fhq92EconolineValkyrie].
+[06-09-26 19:35:11.940] [76561198093780693][ISEnterVehicle][Danny Sullivan][1456,5821,0][SmallCar02].
+[06-09-26 19:35:16.764] [76561198165650138][ISEnterVehicle][Blinkdog81][11642,8642,0][fhq93RangerLBed].
+[06-09-26 19:35:31.642] [76561198165650138][ISExitVehicle][Blinkdog81][11637,8653,0][fhq93RangerLBed].
+[06-09-26 19:35:37.801] [76561198165650138][ISEnterVehicle][Blinkdog81][11642,8657,0][82porsche911turbo].
+[06-09-26 19:35:43.406] [76561198254867641][ISEnterVehicle][Lilith Sullivan][418,9874,0][VanUncloggers].
+[06-09-26 19:35:53.307] [76561198165650138][ISExitVehicle][Blinkdog81][11642,8658,0][82porsche911turbo].
+[06-09-26 19:35:56.479] [76561198165650138][ISEnterVehicle][Blinkdog81][11642,8657,0][82porsche911turbo].
+[06-09-26 19:35:58.088] [76561198093780693][ISExitVehicle][Danny Sullivan][1457,5821,0][SmallCar02].
+[06-09-26 19:36:04.500] [76561199471776312][ISExitVehicle][Sledge40][13975,3403,0][CarStationWagon2].
+[06-09-26 19:36:23.870] [76561199471776312][ISEnterVehicle][Sledge40][13977,3421,0][87fordB700military].
+[06-09-26 19:36:24.132] [76561198165650138][ISExitVehicle][Blinkdog81][11642,8658,0][82porsche911turbo].
+[06-09-26 19:36:30.180] [76561198165650138][ISEnterVehicle][Blinkdog81][11642,8657,0][82porsche911turbo].
+[06-09-26 19:36:34.614] [76561198093780693][ISEnterVehicle][Danny Sullivan][1441,5821,0][SmallCar].
+[06-09-26 19:36:56.179] [76561198093780693][ISExitVehicle][Danny Sullivan][1442,5821,0][SmallCar].
+[06-09-26 19:37:28.373] [76561199471776312][ISExitVehicle][Sledge40][13985,3303,0][87fordB700military].
+[06-09-26 19:37:47.344] [76561198165650138][ISExitVehicle][Blinkdog81][11642,8639,0][82porsche911turbo].
+[06-09-26 19:38:04.426] [76561198165650138][ISEnterVehicle][Blinkdog81][11636,8653,0][fhq93RangerLBed].
+[06-09-26 19:38:20.907] [76561198165650138][ISExitVehicle][Blinkdog81][11637,8653,0][fhq93RangerLBed].
+[06-09-26 19:38:24.094] [76561199471776312][ISEnterVehicle][Sledge40][13985,3303,0][87fordB700military].
+[06-09-26 19:38:42.462] [76561199471776312][ISExitVehicle][Sledge40][13964,3278,0][87fordB700military].
+[06-09-26 19:39:02.479] [76561198165650138][ISEnterVehicle][Blinkdog81][11636,8653,0][fhq93RangerLBed].
+[06-09-26 19:39:05.364] [76561198308440766][ISEnterVehicle][Legofanhead][11643,8643,0][69chargerRT].
+[06-09-26 19:39:18.144] [76561198254867641][ISEnterVehicle][Lilith Sullivan][378,9822,0][VanUncloggers].
+[06-09-26 19:39:19.016] [76561198093780693][ISEnterVehicle][Danny Sullivan][1450,5815,0][fhq92EconolineValkyrie].
+[06-09-26 19:40:31.043] [76561199133759071][ISEnterVehicle][Tymbomb][14024,2583,0][StepVan_Zippee].
+[06-09-26 19:40:40.986] [76561198165650138][ISExitVehicle][Blinkdog81][11627,8852,0][fhq93RangerLBed].
+[06-09-26 19:40:46.586] [76561199133759071][ISExitVehicle][Tymbomb][14024,2583,0][StepVan_Zippee].
+[06-09-26 19:41:03.655] [76561198254867641][ISEnterVehicle][Lilith Sullivan][378,9821,0][VanUncloggers].
+[06-09-26 19:44:57.665] [76561198165650138][ISEnterVehicle][Blinkdog81][11632,8844,0][fhq91CutlassCruiser_Taxi].
+[06-09-26 19:45:25.251] [76561198165650138][ISExitVehicle][Blinkdog81][11633,8853,0][fhq91CutlassCruiser_Taxi].
+[06-09-26 19:45:31.730] [76561198165650138][ISEnterVehicle][Blinkdog81][11627,8852,0][fhq93RangerLBed].
+[06-09-26 19:45:48.175] [76561198165650138][ISExitVehicle][Blinkdog81][11620,8844,0][fhq93RangerLBed].
+[06-09-26 19:45:52.615] [76561198165650138][ISEnterVehicle][Blinkdog81][11614,8844,0][VanPluggedInElectrics].
+[06-09-26 19:46:04.284] [76561198165650138][ISExitVehicle][Blinkdog81][11621,8841,0][VanPluggedInElectrics].
+[06-09-26 19:46:09.083] [76561198165650138][ISEnterVehicle][Blinkdog81][11620,8845,0][fhq93RangerLBed].
+[06-09-26 19:46:35.139] [76561198165650138][ISExitVehicle][Blinkdog81][11613,8843,0][fhq93RangerLBed].
+[06-09-26 19:46:44.327] [76561198165650138][ISEnterVehicle][Blinkdog81][11621,8842,0][VanPluggedInElectrics].
+[06-09-26 19:47:04.916] [76561198165650138][ISExitVehicle][Blinkdog81][11619,8843,0][VanPluggedInElectrics].
+[06-09-26 19:54:06.475] [76561199471776312][ISEnterVehicle][Sledge40][13972,3216,0][91range2].
+[06-09-26 19:54:29.465] [76561199471776312][ISExitVehicle][Sledge40][13976,3217,0][91range2].
+[06-09-26 19:54:40.588] [76561199471776312][ISEnterVehicle][Sledge40][13976,3218,0][91range2].
+[06-09-26 19:54:41.252] [76561198165650138][ISEnterVehicle][Blinkdog81][11634,8852,0][fhq91CutlassCruiser_Taxi].
+[06-09-26 19:55:18.863] [76561198308440766][ISExitVehicle][Legofanhead][8808,11609,0][69chargerRT].
+[06-09-26 19:55:40.047] [76561198308440766][ISEnterVehicle][Legofanhead][8808,11609,0][69chargerRT].
+[06-09-26 19:55:42.228] [76561198165650138][ISExitVehicle][Blinkdog81][11509,8825,0][fhq91CutlassCruiser_Taxi].
+[06-09-26 19:55:43.675] [76561199471776312][ISExitVehicle][Sledge40][13948,3057,0][91range2].
+[06-09-26 19:55:45.519] [76561198165650138][ISEnterVehicle][Blinkdog81][11509,8824,0][fhq91CutlassCruiser_Taxi].
+[06-09-26 19:55:49.903] [76561198165650138][ISExitVehicle][Blinkdog81][11509,8825,0][fhq91CutlassCruiser_Taxi].
+[06-09-26 19:55:50.887] [76561198308440766][ISExitVehicle][Legofanhead][8796,11606,0][69chargerRT].
+[06-09-26 19:55:58.216] [76561198308440766][ISEnterVehicle][Legofanhead][8813,11609,0][82porsche911turbo].
+[06-09-26 19:56:12.886] [76561198308440766][ISExitVehicle][Legofanhead][8800,11616,0][82porsche911turbo].
+[06-09-26 19:56:44.629] [76561198308440766][ISEnterVehicle][Legofanhead][8850,11622,0][fhqLoyale_4WD].
+[06-09-26 19:57:41.812] [76561199471776312][ISEnterVehicle][Sledge40][13952,3063,0][82porsche911turbo].
+[06-09-26 19:57:55.813] [76561199471776312][ISExitVehicle][Sledge40][13979,3004,0][82porsche911turbo].
+[06-09-26 19:58:35.480] [76561198308440766][ISExitVehicle][Legofanhead][8850,11623,0][fhqLoyale_4WD].
+[06-09-26 19:59:18.201] [76561198165650138][ISEnterVehicle][Blinkdog81][11509,8824,0][fhq91CutlassCruiser_Taxi].
+[06-09-26 19:59:46.887] [76561198308440766][ISEnterVehicle][Legofanhead][8850,11622,0][fhqLoyale_4WD].
+[06-09-26 20:00:03.947] [76561199471776312][ISEnterVehicle][Sledge40][13979,3005,0][82porsche911turbo].
+[06-09-26 20:00:12.299] [76561198308440766][ISExitVehicle][Legofanhead][8799,11613,0][fhqLoyale_4WD].
+[06-09-26 20:00:20.431] [76561199471776312][ISExitVehicle][Sledge40][13983,2936,0][82porsche911turbo].
+[06-09-26 20:01:00.696] [76561198308440766][ISEnterVehicle][Legofanhead][8799,11612,0][fhqLoyale_4WD].

@@ -1,0 +1,16 @@
+[07-09-26 00:43:12.182][info] Start chat server initialization....
+[07-09-26 00:43:12.186][info] General chat has id = 0.
+[07-09-26 00:43:12.186][info] Say chat has id = 1.
+[07-09-26 00:43:12.186][info] Shout chat has id = 2.
+[07-09-26 00:43:12.186][info] Radio chat has id = 3.
+[07-09-26 00:43:12.187][info] Admin chat has id = 4.
+[07-09-26 00:43:12.187][info] Server chat has id = 5.
+[07-09-26 00:43:12.187][info] Chat server successfully initialized.
+[07-09-26 00:43:49.835][info] Creating safehouse chat '12711,8743 at 1788741829833'.
+[07-09-26 00:43:49.836][info] Safehouse chat '12711,8743 at 1788741829833' created.
+[07-09-26 00:43:49.836][info] Creating safehouse chat '58782,18258 at 1788741829836'.
+[07-09-26 00:43:49.836][info] Safehouse chat '58782,18258 at 1788741829836' created.
+[07-09-26 00:43:49.836][info] Creating safehouse chat '63342,18679 at 1788741829836'.
+[07-09-26 00:43:49.836][info] Safehouse chat '63342,18679 at 1788741829836' created.
+[07-09-26 00:43:49.836][info] Creating safehouse chat '14137,2651 at 1788741829836'.
+[07-09-26 00:43:49.836][info] Safehouse chat '14137,2651 at 1788741829836' created.

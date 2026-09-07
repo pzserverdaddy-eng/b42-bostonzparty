@@ -1,0 +1,32 @@
+[07-09-26 13:44:24.931] Connection add index=0 guid=4503603456696092 id=null.
+[07-09-26 13:44:26.352] 76561199471776312 "Sledge40" attempting to join.
+[07-09-26 13:44:26.353] 76561199471776312 "Sledge40" allowed to join.
+[07-09-26 13:45:22.315] 76561199471776312 "Sledge40" attempting to join used queue.
+[07-09-26 13:45:34.621] player Sledge40 loading time was: 11477 ms.
+[07-09-26 13:45:57.794] 76561199471776312 "Sledge40" fully connected (14183,2632,0).
+[07-09-26 13:47:08.183] Connection add index=1 guid=765613408796257363 id=null.
+[07-09-26 13:47:09.665] 76561198254867641 "Lilith Sullivan" attempting to join.
+[07-09-26 13:47:09.665] 76561198254867641 "Lilith Sullivan" allowed to join.
+[07-09-26 13:47:50.201] 76561198254867641 "Lilith Sullivan" attempting to join used queue.
+[07-09-26 13:48:56.543] player Lilith Sullivan loading time was: 64565 ms.
+[07-09-26 13:48:59.932] 76561198254867641 "Lilith Sullivan" fully connected (1985,8587,0).
+[07-09-26 13:55:41.503] Connection add index=2 guid=126100790006778560 id=null.
+[07-09-26 13:55:45.095] 76561199133759071 "Tymbomb" attempting to join.
+[07-09-26 13:55:45.095] 76561199133759071 "Tymbomb" allowed to join.
+[07-09-26 13:56:17.900] 76561199133759071 "Tymbomb" attempting to join used queue.
+[07-09-26 13:56:32.639] player Tymbomb loading time was: 13437 ms.
+[07-09-26 13:56:41.305] 76561199133759071 "Tymbomb" fully connected (14147,2656,0).
+[07-09-26 14:04:11.908] Connection add index=3 guid=779122736435360310 id=null.
+[07-09-26 14:04:11.988] 76561198093780693 "Danny Sullivan" attempting to join.
+[07-09-26 14:04:11.989] 76561198093780693 "Danny Sullivan" allowed to join.
+[07-09-26 14:05:41.111] Connection disconnect index=3 guid=779122736435360310 id=76561198093780693.
+[07-09-26 14:05:41.119] Connection remove index=3 guid=779122736435360310 id=76561198093780693.
+[07-09-26 14:09:38.296] Connection disconnect index=2 guid=126100790006778560 id=76561199133759071.
+[07-09-26 14:09:38.533] Connection remove index=2 guid=126100790006778560 id=76561199133759071.
+[07-09-26 14:09:38.537] 76561199133759071 "Tymbomb" disconnected player (14152,2598,1).
+[07-09-26 14:09:43.475] Connection disconnect index=1 guid=765613408796257363 id=76561198254867641.
+[07-09-26 14:09:43.483] Connection remove index=1 guid=765613408796257363 id=76561198254867641.
+[07-09-26 14:09:43.497] 76561198254867641 "Lilith Sullivan" disconnected player (62805,20703,0).
+[07-09-26 14:11:10.087] Connection disconnect index=0 guid=4503603456696092 id=76561199471776312.
+[07-09-26 14:11:10.101] Connection remove index=0 guid=4503603456696092 id=76561199471776312.
+[07-09-26 14:11:10.118] 76561199471776312 "Sledge40" disconnected player (58845,18082,0).

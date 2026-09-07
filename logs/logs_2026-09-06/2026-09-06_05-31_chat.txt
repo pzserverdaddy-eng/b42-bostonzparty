@@ -1,0 +1,491 @@
+[06-09-26 05:32:08.788][info] Start chat server initialization....
+[06-09-26 05:32:08.794][info] General chat has id = 0.
+[06-09-26 05:32:08.794][info] Say chat has id = 1.
+[06-09-26 05:32:08.794][info] Shout chat has id = 2.
+[06-09-26 05:32:08.794][info] Radio chat has id = 3.
+[06-09-26 05:32:08.794][info] Admin chat has id = 4.
+[06-09-26 05:32:08.794][info] Server chat has id = 5.
+[06-09-26 05:32:08.794][info] Chat server successfully initialized.
+[06-09-26 05:50:16.543][info] Player with id = '4' tries to connect.
+[06-09-26 05:50:16.543][info] Adding player '4' to chat server.
+[06-09-26 05:50:16.545][info] Player joined to default chats.
+[06-09-26 05:50:16.545][info] Player 4(4) joined to chat server successfully.
+[06-09-26 05:51:00.800][info] Player with id = '0' tries to connect.
+[06-09-26 05:51:00.800][info] Adding player '0' to chat server.
+[06-09-26 05:51:00.800][info] Player joined to default chats.
+[06-09-26 05:51:00.800][info] Player 0(0) joined to chat server successfully.
+[06-09-26 05:57:56.701][info] Player 4 disconnecting....
+[06-09-26 05:57:56.701][info] Disconnecting player 4 finished.
+[06-09-26 05:57:56.702][info] Player 4 disconnecting....
+[06-09-26 05:57:56.702][info] Disconnecting player 4 finished.
+[06-09-26 06:00:37.106][info] Player with id = '12' tries to connect.
+[06-09-26 06:00:37.106][info] Adding player '12' to chat server.
+[06-09-26 06:00:37.106][info] Player joined to default chats.
+[06-09-26 06:00:37.106][info] Player 12(12) joined to chat server successfully.
+[06-09-26 06:02:42.591][info] Player with id = '8' tries to connect.
+[06-09-26 06:02:42.591][info] Adding player '8' to chat server.
+[06-09-26 06:02:42.592][info] Player joined to default chats.
+[06-09-26 06:02:42.592][info] Player 8(8) joined to chat server successfully.
+[06-09-26 06:03:14.713][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='im super slow when sneaking'}.
+[06-09-26 06:03:14.714][info] Message ChatMessage{chat=General, author='Blinkdog81', text='im super slow when sneaking'} sent to chat (id = 0) members.
+[06-09-26 06:09:14.994][info] Player 8 disconnecting....
+[06-09-26 06:09:14.994][info] Disconnecting player 8 finished.
+[06-09-26 06:09:14.995][info] Player with id = '8' tries to connect.
+[06-09-26 06:09:14.995][info] Adding player '8' to chat server.
+[06-09-26 06:09:14.996][error] Player or connection is not found on server!.
+[06-09-26 06:09:14.996][error] player = null.
+[06-09-26 06:09:21.587][info] Player with id = '8' tries to connect.
+[06-09-26 06:09:21.587][info] Adding player '8' to chat server.
+[06-09-26 06:09:21.587][info] Player joined to default chats.
+[06-09-26 06:09:21.587][info] Player 8(8) joined to chat server successfully.
+[06-09-26 06:09:44.382][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:09:44.382][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:10:15.589][info] Player 8 disconnecting....
+[06-09-26 06:10:15.589][info] Disconnecting player 8 finished.
+[06-09-26 06:10:15.590][info] Player with id = '8' tries to connect.
+[06-09-26 06:10:15.590][info] Adding player '8' to chat server.
+[06-09-26 06:10:15.590][error] Player or connection is not found on server!.
+[06-09-26 06:10:15.590][error] player = null.
+[06-09-26 06:10:20.688][info] Player with id = '8' tries to connect.
+[06-09-26 06:10:20.688][info] Adding player '8' to chat server.
+[06-09-26 06:10:20.688][info] Player joined to default chats.
+[06-09-26 06:10:20.688][info] Player 8(8) joined to chat server successfully.
+[06-09-26 06:10:29.361][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='were you super injured?'}.
+[06-09-26 06:10:29.362][info] Message ChatMessage{chat=General, author='ServerDaddy', text='were you super injured?'} sent to chat (id = 0) members.
+[06-09-26 06:10:32.016][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='sorry just seeing this'}.
+[06-09-26 06:10:32.017][info] Message ChatMessage{chat=General, author='ServerDaddy', text='sorry just seeing this'} sent to chat (id = 0) members.
+[06-09-26 06:10:38.669][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='so stoned lol'}.
+[06-09-26 06:10:38.669][info] Message ChatMessage{chat=General, author='ServerDaddy', text='so stoned lol'} sent to chat (id = 0) members.
+[06-09-26 06:12:26.963][info] Player with id = '4' tries to connect.
+[06-09-26 06:12:26.963][info] Adding player '4' to chat server.
+[06-09-26 06:12:26.963][info] Player joined to default chats.
+[06-09-26 06:12:26.963][info] Player 4(4) joined to chat server successfully.
+[06-09-26 06:13:34.510][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='the first time my foot was heart so I couldnt walk fast'}.
+[06-09-26 06:13:34.510][info] Message ChatMessage{chat=General, author='Blinkdog81', text='the first time my foot was heart so I couldnt walk fast'} sent to chat (id = 0) members.
+[06-09-26 06:13:48.148][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='the second time I had made my charecter not look right'}.
+[06-09-26 06:13:48.148][info] Message ChatMessage{chat=General, author='Blinkdog81', text='the second time I had made my charecter not look right'} sent to chat (id = 0) members.
+[06-09-26 06:14:47.793][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='a fucking red lambo'}.
+[06-09-26 06:14:47.793][info] Message ChatMessage{chat=General, author='Blinkdog81', text='a fucking red lambo'} sent to chat (id = 0) members.
+[06-09-26 06:14:51.857][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:14:51.858][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:14:58.966][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:14:58.966][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:15:01.339][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Hi'}.
+[06-09-26 06:15:01.339][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Hi'} sent to chat (id = 0) members.
+[06-09-26 06:15:05.178][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:15:05.178][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:15:09.461][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='nice!'}.
+[06-09-26 06:15:09.461][info] Message ChatMessage{chat=General, author='ServerDaddy', text='nice!'} sent to chat (id = 0) members.
+[06-09-26 06:15:09.629][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:15:09.629][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:15:10.653][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='hello!'}.
+[06-09-26 06:15:10.653][info] Message ChatMessage{chat=General, author='ServerDaddy', text='hello!'} sent to chat (id = 0) members.
+[06-09-26 06:15:21.593][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:15:21.593][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:15:28.970][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:15:28.970][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:15:33.503][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Dude so many zeds in west point'}.
+[06-09-26 06:15:33.503][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Dude so many zeds in west point'} sent to chat (id = 0) members.
+[06-09-26 06:15:39.857][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:15:39.857][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:15:47.403][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:15:47.403][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:15:52.184][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:15:52.185][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:15:57.990][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:15:57.990][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:16:10.024][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:16:10.025][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:16:16.725][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:16:16.725][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:16:25.726][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:16:25.726][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:16:27.663][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:16:27.663][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:16:33.967][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:16:33.967][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:16:37.491][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:16:37.491][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:16:56.631][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='ahhh i'm in west point hah but no limp this time thank god'}.
+[06-09-26 06:16:56.631][info] Message ChatMessage{chat=General, author='ServerDaddy', text='ahhh i'm in west point hah but no limp this time thank god'} sent to chat (id = 0) members.
+[06-09-26 06:17:05.791][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i've only got a chefs knife but doing ok'}.
+[06-09-26 06:17:05.791][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i've only got a chefs knife but doing ok'} sent to chat (id = 0) members.
+[06-09-26 06:19:54.157][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Timed actions is a little laggy but it seems good so far'}.
+[06-09-26 06:19:54.157][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Timed actions is a little laggy but it seems good so far'} sent to chat (id = 0) members.
+[06-09-26 06:20:19.245][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i've gotten one maybe two yea... hoping it's not in the way'}.
+[06-09-26 06:20:19.248][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i've gotten one maybe two yea... hoping it's not in the way'} sent to chat (id = 0) members.
+[06-09-26 06:24:31.531][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Mine is constant. But could be my internet'}.
+[06-09-26 06:24:31.531][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Mine is constant. But could be my internet'} sent to chat (id = 0) members.
+[06-09-26 06:27:15.692][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='hi lilith, I hear your car'}.
+[06-09-26 06:27:15.692][info] Message ChatMessage{chat=General, author='Blinkdog81', text='hi lilith, I hear your car'} sent to chat (id = 0) members.
+[06-09-26 06:27:30.530][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Hi! Yeah just got it XD'}.
+[06-09-26 06:27:30.530][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Hi! Yeah just got it XD'} sent to chat (id = 0) members.
+[06-09-26 06:30:45.331][info] Got message:ChatMessage{chat=Local, author='Legofanhead', text='OVER HERE!'}.
+[06-09-26 06:30:45.331][info] Message ChatMessage{chat=Local, author='Legofanhead', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:31:44.387][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:31:44.387][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:31:49.226][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:31:49.226][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:31:54.963][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:31:54.963][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:32:01.603][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:32:01.603][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:32:08.521][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:32:08.521][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:32:16.522][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:32:16.522][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:32:23.387][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:32:23.387][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:32:31.491][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:32:31.491][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:32:36.430][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:32:36.430][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:32:45.544][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:32:45.544][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:32:54.481][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:32:54.481][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:32:59.974][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:32:59.975][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:33:04.092][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:33:04.092][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:33:12.362][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:33:12.362][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:33:18.087][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:33:18.087][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:33:29.863][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:33:29.863][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:33:35.606][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:33:35.606][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:33:38.247][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:33:38.247][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:33:41.805][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:33:41.805][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:33:47.825][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:33:47.825][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:34:00.760][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:34:00.761][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:34:04.832][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:34:04.832][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:34:09.881][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:34:09.881][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:34:12.595][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:34:12.595][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:34:22.965][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:34:22.966][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:34:25.123][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:34:25.123][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:34:28.823][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:34:28.824][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:34:32.788][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:34:32.788][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:34:36.628][info] Got message:ChatMessage{chat=Local, author='Legofanhead', text='HEY YOU!'}.
+[06-09-26 06:34:36.628][info] Message ChatMessage{chat=Local, author='Legofanhead', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:34:41.330][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:34:41.330][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:34:48.128][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:34:48.128][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:34:52.127][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:34:52.127][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:34:58.519][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:34:58.519][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:35:01.336][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:35:01.336][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:35:08.278][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:35:08.278][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:35:13.139][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:35:13.139][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:35:17.373][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:35:17.374][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:35:23.513][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:35:23.513][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:35:31.123][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:35:31.123][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:35:42.348][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:35:42.348][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:35:43.227][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:35:43.228][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:35:48.288][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:35:48.288][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:37:13.795][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='got a van and a full tank of gas'}.
+[06-09-26 06:37:13.795][info] Message ChatMessage{chat=General, author='Blinkdog81', text='got a van and a full tank of gas'} sent to chat (id = 0) members.
+[06-09-26 06:38:05.384][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='where you heading you think?'}.
+[06-09-26 06:38:05.384][info] Message ChatMessage{chat=General, author='ServerDaddy', text='where you heading you think?'} sent to chat (id = 0) members.
+[06-09-26 06:42:02.009][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:42:02.009][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:42:06.317][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:42:06.318][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:42:09.987][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:42:09.987][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:42:38.523][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='original plan is to go to that same base'}.
+[06-09-26 06:42:38.523][info] Message ChatMessage{chat=General, author='Blinkdog81', text='original plan is to go to that same base'} sent to chat (id = 0) members.
+[06-09-26 06:42:47.896][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='dixie'}.
+[06-09-26 06:42:47.896][info] Message ChatMessage{chat=General, author='Blinkdog81', text='dixie'} sent to chat (id = 0) members.
+[06-09-26 06:43:18.676][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:43:18.676][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:44:02.775][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:44:02.775][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:44:11.295][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:44:11.295][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:44:18.812][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:44:18.812][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:44:32.891][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='im open to sugestions'}.
+[06-09-26 06:44:32.891][info] Message ChatMessage{chat=General, author='Blinkdog81', text='im open to sugestions'} sent to chat (id = 0) members.
+[06-09-26 06:44:36.379][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='also you can join me'}.
+[06-09-26 06:44:36.379][info] Message ChatMessage{chat=General, author='Blinkdog81', text='also you can join me'} sent to chat (id = 0) members.
+[06-09-26 06:44:40.140][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:44:40.140][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:44:49.317][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:44:49.317][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:45:04.864][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:45:04.864][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:45:23.867][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:45:23.867][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:45:31.522][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:45:31.522][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:45:35.861][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:45:35.861][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:45:44.565][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:45:44.565][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:45:47.656][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='so aine and me picked out a small plot of farmhouses just north of the mall by the checkpoint. I have some plans for a field there'}.
+[06-09-26 06:45:47.657][info] Message ChatMessage{chat=General, author='ServerDaddy', text='so aine and me picked out a small plot of farmhouses just north of the mall by the checkpoint. I have some plans for a field there'} sent to chat (id = 0) members.
+[06-09-26 06:46:33.487][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='well atleast all the zeds around this house within gunfire sound are all dead'}.
+[06-09-26 06:46:33.487][info] Message ChatMessage{chat=General, author='Legofanhead', text='well atleast all the zeds around this house within gunfire sound are all dead'} sent to chat (id = 0) members.
+[06-09-26 06:47:40.377][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='lego needs a crowbar so gonna have to lure all the zeds away from the giga mart for the hardware store next door to it, thatll be fun'}.
+[06-09-26 06:47:40.377][info] Message ChatMessage{chat=General, author='Legofanhead', text='lego needs a crowbar so gonna have to lure all the zeds away from the giga mart for the hardware store next door to it, thatll be fun'} sent to chat (id = 0) members.
+[06-09-26 06:50:11.731][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='im also questing for a crowbar'}.
+[06-09-26 06:50:11.731][info] Message ChatMessage{chat=General, author='Blinkdog81', text='im also questing for a crowbar'} sent to chat (id = 0) members.
+[06-09-26 06:50:31.819][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:50:31.819][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:50:37.749][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'}.
+[06-09-26 06:50:37.750][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY!'} sent to chat (id = 2) members.
+[06-09-26 06:50:38.580][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='same - i'm finally true gordonite again'}.
+[06-09-26 06:50:38.580][info] Message ChatMessage{chat=General, author='ServerDaddy', text='same - i'm finally true gordonite again'} sent to chat (id = 0) members.
+[06-09-26 06:52:35.443][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='i am too'}.
+[06-09-26 06:52:35.443][info] Message ChatMessage{chat=General, author='Legofanhead', text='i am too'} sent to chat (id = 0) members.
+[06-09-26 06:52:36.667][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i put our target in the discord'}.
+[06-09-26 06:52:36.668][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i put our target in the discord'} sent to chat (id = 0) members.
+[06-09-26 06:58:33.754][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'}.
+[06-09-26 06:58:33.754][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='OVER HERE!'} sent to chat (id = 2) members.
+[06-09-26 06:58:44.109][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:58:44.109][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 06:59:46.115][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'}.
+[06-09-26 06:59:46.115][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='HEY YOU!'} sent to chat (id = 2) members.
+[06-09-26 07:04:26.079][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='its running quite smoothly'}.
+[06-09-26 07:04:26.079][info] Message ChatMessage{chat=General, author='Blinkdog81', text='its running quite smoothly'} sent to chat (id = 0) members.
+[06-09-26 07:05:05.099][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='i think its bwed time, good night'}.
+[06-09-26 07:05:05.099][info] Message ChatMessage{chat=General, author='Blinkdog81', text='i think its bwed time, good night'} sent to chat (id = 0) members.
+[06-09-26 07:05:07.971][info] Player 8 disconnecting....
+[06-09-26 07:05:07.972][info] Disconnecting player 8 finished.
+[06-09-26 07:05:07.972][info] Player 8 disconnecting....
+[06-09-26 07:05:07.972][info] Disconnecting player 8 finished.
+[06-09-26 07:05:20.712][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='night night!'}.
+[06-09-26 07:05:20.712][info] Message ChatMessage{chat=General, author='ServerDaddy', text='night night!'} sent to chat (id = 0) members.
+[06-09-26 07:10:17.051][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='hmm i think the sleep factor might need adjusting bc i took out sleep with friends - can't remember why right now but yes sleep is slow, remind me to change if i don't think of it'}.
+[06-09-26 07:10:17.051][info] Message ChatMessage{chat=General, author='ServerDaddy', text='hmm i think the sleep factor might need adjusting bc i took out sleep with friends - can't remember why right now but yes sleep is slow, remind me to change if i don't think of it'} sent to chat (id = 0) members.
+[06-09-26 07:10:36.279][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='yeah it takes forever'}.
+[06-09-26 07:10:36.279][info] Message ChatMessage{chat=General, author='Legofanhead', text='yeah it takes forever'} sent to chat (id = 0) members.
+[06-09-26 07:11:01.815][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i copied the setting we usually had  for base so it must have been an additional factor in the mod settings'}.
+[06-09-26 07:11:01.816][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i copied the setting we usually had  for base so it must have been an additional factor in the mod settings'} sent to chat (id = 0) members.
+[06-09-26 07:11:19.705][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='2x crow bars acquired'}.
+[06-09-26 07:11:19.705][info] Message ChatMessage{chat=General, author='Legofanhead', text='2x crow bars acquired'} sent to chat (id = 0) members.
+[06-09-26 07:11:31.715][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='super diced with being really tired'}.
+[06-09-26 07:11:31.715][info] Message ChatMessage{chat=General, author='Legofanhead', text='super diced with being really tired'} sent to chat (id = 0) members.
+[06-09-26 07:11:39.341][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='but the deed is done'}.
+[06-09-26 07:11:39.341][info] Message ChatMessage{chat=General, author='Legofanhead', text='but the deed is done'} sent to chat (id = 0) members.
+[06-09-26 07:12:00.803][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='I just got somewhere safe for the moment'}.
+[06-09-26 07:12:00.804][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='I just got somewhere safe for the moment'} sent to chat (id = 0) members.
+[06-09-26 07:12:07.276][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='character is pissed haha'}.
+[06-09-26 07:12:07.276][info] Message ChatMessage{chat=General, author='Legofanhead', text='character is pissed haha'} sent to chat (id = 0) members.
+[06-09-26 07:12:09.375][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Too many zeds lord'}.
+[06-09-26 07:12:09.375][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Too many zeds lord'} sent to chat (id = 0) members.
+[06-09-26 07:12:20.218][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='hah'}.
+[06-09-26 07:12:20.219][info] Message ChatMessage{chat=General, author='ServerDaddy', text='hah'} sent to chat (id = 0) members.
+[06-09-26 07:12:46.974][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='I got bit.....I might turn XD'}.
+[06-09-26 07:12:46.974][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='I got bit.....I might turn XD'} sent to chat (id = 0) members.
+[06-09-26 07:15:24.411][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='But yeah sleeping is super slow'}.
+[06-09-26 07:15:24.411][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='But yeah sleeping is super slow'} sent to chat (id = 0) members.
+[06-09-26 07:16:25.101][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='oh no!'}.
+[06-09-26 07:16:25.101][info] Message ChatMessage{chat=General, author='ServerDaddy', text='oh no!'} sent to chat (id = 0) members.
+[06-09-26 07:16:30.887][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='you have 2-3 days to plan your demise'}.
+[06-09-26 07:16:30.887][info] Message ChatMessage{chat=General, author='ServerDaddy', text='you have 2-3 days to plan your demise'} sent to chat (id = 0) members.
+[06-09-26 07:16:43.175][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='pretty sure that's the span'}.
+[06-09-26 07:16:43.175][info] Message ChatMessage{chat=General, author='ServerDaddy', text='pretty sure that's the span'} sent to chat (id = 0) members.
+[06-09-26 07:17:51.091][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='house i spawned in had a car outside with a key, got out of town after looting a cop car for a gun a couple mags and ammo cleared out my house looted the hardware store for crow bars, need to'}.
+[06-09-26 07:17:51.091][info] Message ChatMessage{chat=General, author='Legofanhead', text='house i spawned in had a car outside with a key, got out of town after looting a cop car for a gun a couple mags and ammo cleared out my house looted the hardware store for crow bars, need to'} sent to chat (id = 0) members.
+[06-09-26 07:17:57.363][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='go back for actual loot but'}.
+[06-09-26 07:17:57.363][info] Message ChatMessage{chat=General, author='Legofanhead', text='go back for actual loot but'} sent to chat (id = 0) members.
+[06-09-26 07:18:13.164][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='its sketchy over there right now'}.
+[06-09-26 07:18:13.164][info] Message ChatMessage{chat=General, author='Legofanhead', text='its sketchy over there right now'} sent to chat (id = 0) members.
+[06-09-26 07:18:14.180][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i'm naked tending to wounds while i do laundry'}.
+[06-09-26 07:18:14.180][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i'm naked tending to wounds while i do laundry'} sent to chat (id = 0) members.
+[06-09-26 07:18:21.715][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='under the radar'}.
+[06-09-26 07:18:21.715][info] Message ChatMessage{chat=General, author='ServerDaddy', text='under the radar'} sent to chat (id = 0) members.
+[06-09-26 07:18:53.423][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='i picked some terrible traits with it takiong awhile to sleep, im restless sleeper so it takes ultra long haha'}.
+[06-09-26 07:18:53.423][info] Message ChatMessage{chat=General, author='Legofanhead', text='i picked some terrible traits with it takiong awhile to sleep, im restless sleeper so it takes ultra long haha'} sent to chat (id = 0) members.
+[06-09-26 07:21:54.547][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='well im back to being alive for a day so whenever you want to set up my safehouse'}.
+[06-09-26 07:21:54.547][info] Message ChatMessage{chat=General, author='Legofanhead', text='well im back to being alive for a day so whenever you want to set up my safehouse'} sent to chat (id = 0) members.
+[06-09-26 07:23:49.035][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='same as last wipe, test whatever theres an animal trailer here again and seeds and misc nyla'}.
+[06-09-26 07:23:49.035][info] Message ChatMessage{chat=General, author='Legofanhead', text='same as last wipe, test whatever theres an animal trailer here again and seeds and misc nyla'} sent to chat (id = 0) members.
+[06-09-26 07:24:22.427][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='whenever you  are setup to get it itll be here'}.
+[06-09-26 07:24:22.427][info] Message ChatMessage{chat=General, author='Legofanhead', text='whenever you  are setup to get it itll be here'} sent to chat (id = 0) members.
+[06-09-26 07:26:54.118][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='damn i just got healed up too'}.
+[06-09-26 07:26:54.118][info] Message ChatMessage{chat=General, author='ServerDaddy', text='damn i just got healed up too'} sent to chat (id = 0) members.
+[06-09-26 07:26:54.167][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='rip'}.
+[06-09-26 07:26:54.167][info] Message ChatMessage{chat=General, author='Legofanhead', text='rip'} sent to chat (id = 0) members.
+[06-09-26 07:26:54.275][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='NOOOOOOOOOOOOOOO'}.
+[06-09-26 07:26:54.275][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='NOOOOOOOOOOOOOOO'} sent to chat (id = 0) members.
+[06-09-26 07:27:51.460][info] Player 12 disconnecting....
+[06-09-26 07:27:51.460][info] Disconnecting player 12 finished.
+[06-09-26 07:27:51.461][info] Player with id = '12' tries to connect.
+[06-09-26 07:27:51.461][info] Adding player '12' to chat server.
+[06-09-26 07:27:51.462][error] Player or connection is not found on server!.
+[06-09-26 07:27:51.462][error] player = null.
+[06-09-26 07:27:55.761][info] Player with id = '12' tries to connect.
+[06-09-26 07:27:55.761][info] Adding player '12' to chat server.
+[06-09-26 07:27:55.761][info] Player joined to default chats.
+[06-09-26 07:27:55.761][info] Player 12(12) joined to chat server successfully.
+[06-09-26 07:32:00.091][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='i miss easy laundry or whatever'}.
+[06-09-26 07:32:00.091][info] Message ChatMessage{chat=General, author='Legofanhead', text='i miss easy laundry or whatever'} sent to chat (id = 0) members.
+[06-09-26 07:32:31.279][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='since i took fear of blood gotta keep myself clean'}.
+[06-09-26 07:32:31.279][info] Message ChatMessage{chat=General, author='Legofanhead', text='since i took fear of blood gotta keep myself clean'} sent to chat (id = 0) members.
+[06-09-26 07:34:59.715][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='oooh a pizza'}.
+[06-09-26 07:34:59.715][info] Message ChatMessage{chat=General, author='ServerDaddy', text='oooh a pizza'} sent to chat (id = 0) members.
+[06-09-26 07:35:02.825][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i'm making it'}.
+[06-09-26 07:35:02.825][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i'm making it'} sent to chat (id = 0) members.
+[06-09-26 07:35:12.020][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='dead mouse yummy'}.
+[06-09-26 07:35:12.020][info] Message ChatMessage{chat=General, author='Legofanhead', text='dead mouse yummy'} sent to chat (id = 0) members.
+[06-09-26 07:38:53.956][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='are you in WP lego?'}.
+[06-09-26 07:38:53.956][info] Message ChatMessage{chat=General, author='ServerDaddy', text='are you in WP lego?'} sent to chat (id = 0) members.
+[06-09-26 07:39:05.643][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='no outside rose'}.
+[06-09-26 07:39:05.643][info] Message ChatMessage{chat=General, author='Legofanhead', text='no outside rose'} sent to chat (id = 0) members.
+[06-09-26 07:39:39.792][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='i am at home'}.
+[06-09-26 07:39:39.792][info] Message ChatMessage{chat=General, author='Legofanhead', text='i am at home'} sent to chat (id = 0) members.
+[06-09-26 07:39:40.387][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='I'm still here struggling a bit but surviving'}.
+[06-09-26 07:39:40.387][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='I'm still here struggling a bit but surviving'} sent to chat (id = 0) members.
+[06-09-26 07:40:18.767][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='in the fields?'}.
+[06-09-26 07:40:18.767][info] Message ChatMessage{chat=General, author='ServerDaddy', text='in the fields?'} sent to chat (id = 0) members.
+[06-09-26 07:40:31.203][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i'm back to sq one hah but i have a party hat on at least'}.
+[06-09-26 07:40:31.203][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i'm back to sq one hah but i have a party hat on at least'} sent to chat (id = 0) members.
+[06-09-26 07:40:49.240][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='XD'}.
+[06-09-26 07:40:49.240][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='XD'} sent to chat (id = 0) members.
+[06-09-26 07:41:01.051][info] Player with id = '8' tries to connect.
+[06-09-26 07:41:01.051][info] Adding player '8' to chat server.
+[06-09-26 07:41:01.051][info] Player joined to default chats.
+[06-09-26 07:41:01.051][info] Player 8(8) joined to chat server successfully.
+[06-09-26 07:41:04.184][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='I guess killing zeds is kind of a party'}.
+[06-09-26 07:41:04.184][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='I guess killing zeds is kind of a party'} sent to chat (id = 0) members.
+[06-09-26 07:41:53.015][info] Got message:ChatMessage{chat=General, author='Freya', text='i get like 500+ error and i appear bald xD'}.
+[06-09-26 07:41:53.015][info] Message ChatMessage{chat=General, author='Freya', text='i get like 500+ error and i appear bald xD'} sent to chat (id = 0) members.
+[06-09-26 07:42:29.759][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Did you redownload the mods?'}.
+[06-09-26 07:42:29.759][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Did you redownload the mods?'} sent to chat (id = 0) members.
+[06-09-26 07:42:53.551][info] Got message:ChatMessage{chat=General, author='Freya', text='no i did not why'}.
+[06-09-26 07:42:53.551][info] Message ChatMessage{chat=General, author='Freya', text='no i did not why'} sent to chat (id = 0) members.
+[06-09-26 07:42:55.090][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='yeah i would unsub from all mods and then close steam and reboot it and download them again'}.
+[06-09-26 07:42:55.091][info] Message ChatMessage{chat=General, author='ServerDaddy', text='yeah i would unsub from all mods and then close steam and reboot it and download them again'} sent to chat (id = 0) members.
+[06-09-26 07:43:00.797][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='it helps to like reset all your mod files'}.
+[06-09-26 07:43:00.798][info] Message ChatMessage{chat=General, author='ServerDaddy', text='it helps to like reset all your mod files'} sent to chat (id = 0) members.
+[06-09-26 07:43:12.936][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='so there's no lingering references from mods I had to remove'}.
+[06-09-26 07:43:12.936][info] Message ChatMessage{chat=General, author='ServerDaddy', text='so there's no lingering references from mods I had to remove'} sent to chat (id = 0) members.
+[06-09-26 07:43:23.915][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='maybe verify integrity of game files too'}.
+[06-09-26 07:43:23.915][info] Message ChatMessage{chat=General, author='ServerDaddy', text='maybe verify integrity of game files too'} sent to chat (id = 0) members.
+[06-09-26 07:43:52.070][info] Got message:ChatMessage{chat=General, author='Freya', text='ok i will do that'}.
+[06-09-26 07:43:52.070][info] Message ChatMessage{chat=General, author='Freya', text='ok i will do that'} sent to chat (id = 0) members.
+[06-09-26 07:45:15.883][info] Player 8 disconnecting....
+[06-09-26 07:45:15.883][info] Disconnecting player 8 finished.
+[06-09-26 07:45:15.884][info] Player 8 disconnecting....
+[06-09-26 07:45:15.884][info] Disconnecting player 8 finished.
+[06-09-26 07:48:01.764][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Do the zeds seem a bit harder?'}.
+[06-09-26 07:48:01.765][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Do the zeds seem a bit harder?'} sent to chat (id = 0) members.
+[06-09-26 07:48:26.071][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='if you are exhausted or tired you have less melee damage'}.
+[06-09-26 07:48:26.071][info] Message ChatMessage{chat=General, author='Legofanhead', text='if you are exhausted or tired you have less melee damage'} sent to chat (id = 0) members.
+[06-09-26 07:50:45.660][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Yes I know but even before I was exhausted they seemed stronger'}.
+[06-09-26 07:50:45.661][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Yes I know but even before I was exhausted they seemed stronger'} sent to chat (id = 0) members.
+[06-09-26 07:51:42.683][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='xD'}.
+[06-09-26 07:51:42.683][info] Message ChatMessage{chat=General, author='ServerDaddy', text='xD'} sent to chat (id = 0) members.
+[06-09-26 07:51:59.219][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='hmmm they do for me because i'm injured so i have a disadvantage that's pretty strong'}.
+[06-09-26 07:51:59.219][info] Message ChatMessage{chat=General, author='ServerDaddy', text='hmmm they do for me because i'm injured so i have a disadvantage that's pretty strong'} sent to chat (id = 0) members.
+[06-09-26 07:52:11.888][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='struggling to keep myself not infected atm'}.
+[06-09-26 07:52:11.889][info] Message ChatMessage{chat=General, author='ServerDaddy', text='struggling to keep myself not infected atm'} sent to chat (id = 0) members.
+[06-09-26 07:52:33.272][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='it also now takes a shit ton of water tto sterlize a bandage, wtf'}.
+[06-09-26 07:52:33.272][info] Message ChatMessage{chat=General, author='ServerDaddy', text='it also now takes a shit ton of water tto sterlize a bandage, wtf'} sent to chat (id = 0) members.
+[06-09-26 07:55:05.767][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Did the settings get changed by a mod?'}.
+[06-09-26 07:55:05.767][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Did the settings get changed by a mod?'} sent to chat (id = 0) members.
+[06-09-26 07:55:15.804][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='not that i'm aware of no'}.
+[06-09-26 07:55:15.804][info] Message ChatMessage{chat=General, author='ServerDaddy', text='not that i'm aware of no'} sent to chat (id = 0) members.
+[06-09-26 07:57:55.795][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Cuz sleep is slow and timed actions seem alot slower'}.
+[06-09-26 07:57:55.803][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Cuz sleep is slow and timed actions seem alot slower'} sent to chat (id = 0) members.
+[06-09-26 07:58:26.183][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='we can do a restart and double check but they should've written over'}.
+[06-09-26 07:58:26.183][info] Message ChatMessage{chat=General, author='ServerDaddy', text='we can do a restart and double check but they should've written over'} sent to chat (id = 0) members.
+[06-09-26 07:58:56.491][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='That would be nice cuz being tired is gonna kill me XD'}.
+[06-09-26 07:58:56.491][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='That would be nice cuz being tired is gonna kill me XD'} sent to chat (id = 0) members.
+[06-09-26 07:59:02.919][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='sandbox settings that is. the ini is def good. but some sandbox might have defaulted. not sure how'}.
+[06-09-26 07:59:02.919][info] Message ChatMessage{chat=General, author='ServerDaddy', text='sandbox settings that is. the ini is def good. but some sandbox might have defaulted. not sure how'} sent to chat (id = 0) members.
+[06-09-26 07:59:21.366][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='LMK when it's time on discord when you're both off'}.
+[06-09-26 07:59:21.366][info] Message ChatMessage{chat=General, author='ServerDaddy', text='LMK when it's time on discord when you're both off'} sent to chat (id = 0) members.
+[06-09-26 07:59:39.946][info] Player 4 disconnecting....
+[06-09-26 07:59:39.947][info] Disconnecting player 4 finished.
+[06-09-26 07:59:39.947][info] Player 4 disconnecting....
+[06-09-26 07:59:39.947][info] Disconnecting player 4 finished.
+[06-09-26 07:59:52.023][info] Got message:ChatMessage{chat=General, author='Legofanhead', text='im good whenever at home cleaning up'}.
+[06-09-26 07:59:52.023][info] Message ChatMessage{chat=General, author='Legofanhead', text='im good whenever at home cleaning up'} sent to chat (id = 0) members.
+[06-09-26 08:02:51.868][info] Player 0 disconnecting....
+[06-09-26 08:02:51.868][info] Disconnecting player 0 finished.
+[06-09-26 08:02:51.868][info] Player 0 disconnecting....
+[06-09-26 08:02:51.868][info] Disconnecting player 0 finished.
+[06-09-26 08:05:44.691][info] Player with id = '8' tries to connect.
+[06-09-26 08:05:44.691][info] Adding player '8' to chat server.
+[06-09-26 08:05:44.691][info] Player joined to default chats.
+[06-09-26 08:05:44.691][info] Player 8(8) joined to chat server successfully.
+[06-09-26 08:06:01.422][info] Got message:ChatMessage{chat=General, author='Freya', text='now is fixed'}.
+[06-09-26 08:06:01.422][info] Message ChatMessage{chat=General, author='Freya', text='now is fixed'} sent to chat (id = 0) members.
+[06-09-26 08:10:58.895][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='yeah things are looking good.'}.
+[06-09-26 08:10:58.895][info] Message ChatMessage{chat=General, author='ServerDaddy', text='yeah things are looking good.'} sent to chat (id = 0) members.
+[06-09-26 08:11:23.953][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='this might be it. if things go wrong between now and noon... then maybe we need to solve, but for now, this could be the start of wipe'}.
+[06-09-26 08:11:23.953][info] Message ChatMessage{chat=General, author='ServerDaddy', text='this might be it. if things go wrong between now and noon... then maybe we need to solve, but for now, this could be the start of wipe'} sent to chat (id = 0) members.
+[06-09-26 08:11:28.481][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='start of save that is'}.
+[06-09-26 08:11:28.483][info] Message ChatMessage{chat=General, author='ServerDaddy', text='start of save that is'} sent to chat (id = 0) members.
+[06-09-26 08:11:44.423][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='OMG I FOUND A SURVEILENCE VAN'}.
+[06-09-26 08:11:44.423][info] Message ChatMessage{chat=General, author='ServerDaddy', text='OMG I FOUND A SURVEILENCE VAN'} sent to chat (id = 0) members.
+[06-09-26 08:11:51.319][info] Got message:ChatMessage{chat=General, author='Freya', text='so no more wipes?'}.
+[06-09-26 08:11:51.319][info] Message ChatMessage{chat=General, author='Freya', text='so no more wipes?'} sent to chat (id = 0) members.
+[06-09-26 08:11:59.907][info] Got message:ChatMessage{chat=General, author='Freya', text='i will play seriously so xD'}.
+[06-09-26 08:11:59.907][info] Message ChatMessage{chat=General, author='Freya', text='i will play seriously so xD'} sent to chat (id = 0) members.
+[06-09-26 08:12:09.724][info] Got message:ChatMessage{chat=General, author='Freya', text='for now i see all is good no error'}.
+[06-09-26 08:12:09.724][info] Message ChatMessage{chat=General, author='Freya', text='for now i see all is good no error'} sent to chat (id = 0) members.
+[06-09-26 08:12:25.768][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='yep! things are good'}.
+[06-09-26 08:12:25.768][info] Message ChatMessage{chat=General, author='ServerDaddy', text='yep! things are good'} sent to chat (id = 0) members.
+[06-09-26 08:12:28.309][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i can play finally haha'}.
+[06-09-26 08:12:28.309][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i can play finally haha'} sent to chat (id = 0) members.
+[06-09-26 08:12:59.944][info] Got message:ChatMessage{chat=General, author='Freya', text='finally i can make my base'}.
+[06-09-26 08:12:59.944][info] Message ChatMessage{chat=General, author='Freya', text='finally i can make my base'} sent to chat (id = 0) members.
+[06-09-26 08:29:09.501][info] Got message:ChatMessage{chat=General, author='Freya', text='there is not claiming car option?'}.
+[06-09-26 08:29:09.501][info] Message ChatMessage{chat=General, author='Freya', text='there is not claiming car option?'} sent to chat (id = 0) members.
+[06-09-26 08:29:40.923][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='not at the moment no'}.
+[06-09-26 08:29:40.923][info] Message ChatMessage{chat=General, author='ServerDaddy', text='not at the moment no'} sent to chat (id = 0) members.
+[06-09-26 08:29:44.271][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='honor system'}.
+[06-09-26 08:29:44.271][info] Message ChatMessage{chat=General, author='ServerDaddy', text='honor system'} sent to chat (id = 0) members.
+[06-09-26 08:29:47.393][info] Got message:ChatMessage{chat=General, author='Freya', text='oh i see'}.
+[06-09-26 08:29:47.393][info] Message ChatMessage{chat=General, author='Freya', text='oh i see'} sent to chat (id = 0) members.
+[06-09-26 08:30:05.806][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='there is one i want to add but i want to get the server stable first'}.
+[06-09-26 08:30:05.811][info] Message ChatMessage{chat=General, author='ServerDaddy', text='there is one i want to add but i want to get the server stable first'} sent to chat (id = 0) members.
+[06-09-26 08:32:44.619][info] Got message:ChatMessage{chat=General, author='Freya', text='i understand for now its working good i hope that keeps'}.
+[06-09-26 08:32:44.619][info] Message ChatMessage{chat=General, author='Freya', text='i understand for now its working good i hope that keeps'} sent to chat (id = 0) members.
+[06-09-26 08:32:59.978][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i have to go to bed'}.
+[06-09-26 08:32:59.978][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i have to go to bed'} sent to chat (id = 0) members.
+[06-09-26 08:33:03.295][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='yes me too!'}.
+[06-09-26 08:33:03.295][info] Message ChatMessage{chat=General, author='ServerDaddy', text='yes me too!'} sent to chat (id = 0) members.
+[06-09-26 08:33:06.801][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='have a good night'}.
+[06-09-26 08:33:06.801][info] Message ChatMessage{chat=General, author='ServerDaddy', text='have a good night'} sent to chat (id = 0) members.
+[06-09-26 08:33:08.710][info] Player 12 disconnecting....
+[06-09-26 08:33:08.710][info] Disconnecting player 12 finished.
+[06-09-26 08:33:08.710][info] Player 12 disconnecting....
+[06-09-26 08:33:08.710][info] Disconnecting player 12 finished.
+[06-09-26 09:57:34.784][info] Creating safehouse chat '12711,8743 at 1788688654742'.
+[06-09-26 09:57:34.785][info] Safehouse chat '12711,8743 at 1788688654742' created.
+[06-09-26 09:57:34.785][info] Start syncing safehouse chat '12711,8743 at 1788688654742'....
+[06-09-26 09:57:34.786][info] These members were added: 'Freya', These members were removed: .
+[06-09-26 09:57:34.786][info] Syncing safehouse chat '12711,8743 at 1788688654742' finished.
+[06-09-26 12:34:31.693][info] Player 8 disconnecting....
+[06-09-26 12:34:31.693][info] Disconnecting player 8 finished.
+[06-09-26 12:34:31.694][info] Player 8 disconnecting....
+[06-09-26 12:34:31.694][info] Disconnecting player 8 finished.

@@ -1,0 +1,27 @@
+[07-09-26 02:36:14.530] ServerDaddy teleported to 1972,8590,0.
+[07-09-26 02:44:52.344] admin teleported to 1952,8580,0.
+[07-09-26 02:58:00.714] ServerDaddy teleported to 3459,8194,0.
+[07-09-26 02:58:57.016] ServerDaddy teleported to 13556,5041,0.
+[07-09-26 03:04:44.845] admin granted user access level on ServerDaddy.
+[07-09-26 03:45:48.949][IMPORTANT] admin removed zombies near 1970,8575.
+[07-09-26 03:45:56.387][IMPORTANT] admin removed zombies near 1970,8575.
+[07-09-26 03:46:23.992] admin teleported to 12716,8749,0.
+[07-09-26 03:46:55.696] admin added 75.0 Dancing xp's to admin.
+[07-09-26 03:46:55.700] admin added 150.0 Dancing xp's to admin.
+[07-09-26 03:46:55.704] admin added 300.0 Dancing xp's to admin.
+[07-09-26 03:46:55.706] admin added 750.0 Dancing xp's to admin.
+[07-09-26 03:46:55.708] admin added 1500.0 Dancing xp's to admin.
+[07-09-26 03:46:55.710] admin added 3000.0 Dancing xp's to admin.
+[07-09-26 03:46:55.711] admin added 4500.0 Dancing xp's to admin.
+[07-09-26 03:46:55.713] admin added 6000.0 Dancing xp's to admin.
+[07-09-26 03:46:55.714] admin added 7500.0 Dancing xp's to admin.
+[07-09-26 03:46:57.861] admin added 75.0 Dancing xp's to admin.
+[07-09-26 03:46:57.868] admin added 150.0 Dancing xp's to admin.
+[07-09-26 03:46:57.869] admin added 300.0 Dancing xp's to admin.
+[07-09-26 03:46:57.870] admin added 750.0 Dancing xp's to admin.
+[07-09-26 03:46:57.870] admin added 1500.0 Dancing xp's to admin.
+[07-09-26 03:46:57.871] admin added 3000.0 Dancing xp's to admin.
+[07-09-26 03:46:57.933] admin added 4500.0 Dancing xp's to admin.
+[07-09-26 03:46:58.073] admin added 3225.0 Dancing xp's to admin.
+[07-09-26 03:47:00.588] admin added 0.0 Dancing xp's to admin.
+[07-09-26 05:34:15.547] admin closed server.

@@ -1,0 +1,57 @@
+[06-09-26 15:17:36.348][LOG] Safety: "Tymbomb" (12635,5335,0) restore true.
+[06-09-26 15:18:04.071][LOG] Safety: "Sledge40" (11895,6729,0) restore true.
+[06-09-26 15:18:39.120][LOG] Safety: "Lilith Sullivan" (58784,18260,0) restore true.
+[06-09-26 15:24:21.707][LOG] Safety: "Blinkdog81" (10614,9306,2) restore true.
+[06-09-26 15:25:18.263][LOG] Safety: "ServerDaddy" (58845,17662,0) restore true.
+[06-09-26 15:28:26.741][LOG] Safety: "Danny Sullivan" (6408,5498,0) restore true.
+[06-09-26 15:41:46.011][INFO] Combat: "Lilith Sullivan" (1976,8598,0) hit "Lilith Sullivan" (1976,8597,0) weapon="zombie" damage=-1.000000.
+[06-09-26 15:51:24.835][LOG] Safety: "Krom" (10776,9764,0) restore true.
+[06-09-26 15:56:46.488][LOG] Safety: "Tymbomb" (12628,4704,0) store true.
+[06-09-26 16:00:16.067][IMPORTANT] Kill: "Krom" (10523,9640,0) killed "Appalachian Male Rabbit (Buck) (Wild)" (10522,9640,0).
+[06-09-26 16:01:42.947][INFO] Combat: "Krom" (10323,9390,0) hit "Krom" (10323,9389,0) weapon="zombie" damage=-1.000000.
+[06-09-26 16:01:44.817][INFO] Combat: "Krom" (10323,9390,0) hit "Krom" (10323,9389,0) weapon="zombie" damage=-1.000000.
+[06-09-26 16:11:02.275][IMPORTANT] Kill: "Sledge40" (12685,5772,0) killed "Appalachian Female Rabbit (Doe) (Wild)" (12686,5772,0).
+[06-09-26 16:22:03.900][IMPORTANT] Kill: "Danny Sullivan" (5780,5400,0) killed "Gray Male Rat (Buck) (Wild)" (5789,5402,0).
+[06-09-26 16:31:43.718][LOG] Safety: "Krom" (10500,9234,0) store true.
+[06-09-26 16:36:05.203][LOG] Safety: "Krom" (10500,9234,0) restore true.
+[06-09-26 16:42:44.072][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1934,8832,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:42:46.240][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1934,8832,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:42:50.483][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1934,8832,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:01.581][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1935,8831,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:01.583][INFO] Combat: "Lilith Sullivan" (1934,8834,1) hit "Lilith Sullivan" (1935,8831,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:01.584][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1935,8831,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:01.587][INFO] Combat: "Lilith Sullivan" (1934,8833,1) hit "Lilith Sullivan" (1935,8831,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:01.587][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1935,8831,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:01.588][INFO] Combat: "Lilith Sullivan" (1934,8833,1) hit "Lilith Sullivan" (1935,8831,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:04.827][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1934,8833,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:04.828][INFO] Combat: "Lilith Sullivan" (1934,8833,1) hit "Lilith Sullivan" (1934,8833,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:04.828][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1934,8833,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:04.829][INFO] Combat: "Lilith Sullivan" (1934,8833,1) hit "Lilith Sullivan" (1934,8833,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:04.829][INFO] Combat: "Lilith Sullivan" (1934,8832,1) hit "Lilith Sullivan" (1934,8833,1) weapon="zombie" damage=-1.000000.
+[06-09-26 16:43:25.520][LOG] Safety: "Krom" (10959,8843,0) store true.
+[06-09-26 16:46:34.228][LOG] Safety: "Sledge40" (12584,4709,0) store true.
+[06-09-26 16:47:01.047][LOG] Safety: "Lilith Sullivan" (58785,18261,0) restore true.
+[06-09-26 16:48:11.254][LOG] Safety: "ServerDaddy" (11569,8839,0) store true.
+[06-09-26 16:51:30.752][LOG] Safety: "Tymbomb" (12628,4704,0) restore true.
+[06-09-26 16:53:46.311][LOG] Safety: "admin" (11936,6749,0) restore true.
+[06-09-26 16:57:53.569][LOG] Safety: "admin" (11933,6748,0) store true.
+[06-09-26 16:57:58.119][LOG] Safety: "Sledge40" (12584,4709,0) restore true.
+[06-09-26 16:59:25.397][LOG] Safety: "ServerDaddy" (11569,8839,0) restore true.
+[06-09-26 17:46:41.749][LOG] Safety: "Tymbomb" (14100,2622,0) store true.
+[06-09-26 17:52:49.224][LOG] Safety: "Tymbomb" (14100,2622,0) restore true.
+[06-09-26 17:55:41.820][LOG] Safety: "Legofanhead" (8798,11607,0) restore true.
+[06-09-26 18:01:59.152][LOG] Safety: "Blinkdog81" (11619,8837,0) store true.
+[06-09-26 18:07:59.799][LOG] Safety: "ServerDaddy" (63345,18683,0) store true.
+[06-09-26 18:14:46.650][LOG] Safety: "Blinkdog81" (11619,8837,0) restore true.
+[06-09-26 19:16:32.493][LOG] Safety: "Blinkdog81" (11687,6865,0) store true.
+[06-09-26 19:21:34.050][IMPORTANT] Kill: "Lilith Sullivan" (595,9759,0) killed "Swamp Baby Rabbit (Kitten)" (596,9833,0).
+[06-09-26 19:25:12.631][LOG] Safety: "Blinkdog81" (11687,6865,0) restore true.
+[06-09-26 19:32:03.292][INFO] Combat: "Tymbomb" (14037,2617,1) hit "Tymbomb" (14038,2617,1) weapon="zombie" damage=-1.000000.
+[06-09-26 19:36:41.729][LOG] Safety: "Legofanhead" (11642,8662,0) store true.
+[06-09-26 19:38:42.067][LOG] Safety: "Legofanhead" (11642,8662,0) restore true.
+[06-09-26 19:41:59.771][LOG] Safety: "Lilith Sullivan" (58784,18260,0) store true.
+[06-09-26 19:44:22.501][LOG] Safety: "Danny Sullivan" (63524,17481,0) store true.
+[06-09-26 19:55:31.899][LOG] Safety: "Tymbomb" (14012,2464,1) store true.
+[06-09-26 20:04:27.926][LOG] Safety: "Legofanhead" (9555,11195,0) store true.
+[06-09-26 20:05:46.093][LOG] Safety: "Blinkdog81" (11637,7560,0) store true.
+[06-09-26 20:06:38.606][LOG] Safety: "Sledge40" (13950,2940,0) store true.

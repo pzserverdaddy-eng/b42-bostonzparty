@@ -1,0 +1,17 @@
+[06-09-26 14:05:01.840][LOG] Safety: "Lilith Sullivan" (61665,19803,0) restore true.
+[06-09-26 14:22:29.135][LOG] Safety: "Tymbomb" (11936,6749,0) restore true.
+[06-09-26 14:22:50.630][INFO] Combat: "Tymbomb" (11922,6744,0) hit "Tymbomb" (11921,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 14:22:50.761][INFO] Combat: "Tymbomb" (11922,6743,0) hit "Tymbomb" (11921,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 14:22:50.882][INFO] Combat: "Tymbomb" (11921,6743,0) hit "Tymbomb" (11921,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 14:22:51.267][INFO] Combat: "Tymbomb" (11923,6744,0) hit "Tymbomb" (11921,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 14:22:51.319][INFO] Combat: "Tymbomb" (11923,6745,0) hit "Tymbomb" (11921,6744,0) weapon="zombie" damage=-1.000000.
+[06-09-26 14:32:13.220][LOG] Safety: "Tymbomb" (11913,7070,0) restore true.
+[06-09-26 14:40:26.975][LOG] Safety: "Sledge40" (11936,6749,0) restore true.
+[06-09-26 14:41:51.023][LOG] Safety: "Blinkdog81" (11635,8185,0) restore true.
+[06-09-26 14:59:18.864][LOG] Safety: "ServerDaddy" (58845,17662,0) restore true.
+[06-09-26 15:01:34.410][IMPORTANT] Kill: "Tymbomb" (12652,5883,0) killed "Cottontail Female Rabbit (Doe) (Wild)" (12650,5888,0).
+[06-09-26 15:03:10.405][LOG] Safety: "Blinkdog81" (10614,9306,2) store true.
+[06-09-26 15:05:44.181][LOG] Safety: "Tymbomb" (12635,5335,0) store true.
+[06-09-26 15:06:14.340][LOG] Safety: "Lilith Sullivan" (58784,18260,0) store true.
+[06-09-26 15:06:19.557][LOG] Safety: "Sledge40" (11895,6729,0) store true.
+[06-09-26 15:08:29.756][LOG] Safety: "ServerDaddy" (58845,17662,0) store true.

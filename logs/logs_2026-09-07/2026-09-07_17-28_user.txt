@@ -1,0 +1,29 @@
+[07-09-26 17:31:48.476] Connection add index=0 guid=490892406952379414 id=null.
+[07-09-26 17:31:50.058] 76561198148801188 "admin" attempting to join.
+[07-09-26 17:31:50.059] 76561198148801188 "admin" allowed to join.
+[07-09-26 17:32:17.315] 76561198148801188 "admin" attempting to join used preferred queue.
+[07-09-26 17:32:28.203] player admin loading time was: 9721 ms.
+[07-09-26 17:32:37.563] 76561198148801188 "admin" fully connected (1990,6117,0).
+[07-09-26 17:35:19.871] Connection add index=1 guid=765613408796257363 id=null.
+[07-09-26 17:35:21.699] 76561198254867641 "Lilith Sullivan" attempting to join.
+[07-09-26 17:35:21.700] 76561198254867641 "Lilith Sullivan" allowed to join.
+[07-09-26 17:36:10.794] 76561198254867641 "Lilith Sullivan" attempting to join used queue.
+[07-09-26 17:36:34.391] player Lilith Sullivan loading time was: 22050 ms.
+[07-09-26 17:36:39.194] 76561198254867641 "Lilith Sullivan" fully connected (1955,8578,0).
+[07-09-26 17:36:46.275] Connection add index=2 guid=990791928080257368 id=null.
+[07-09-26 17:36:48.895] 76561198165650138 "Blinkdog81" attempting to join.
+[07-09-26 17:36:48.896] 76561198165650138 "Blinkdog81" allowed to join.
+[07-09-26 17:36:56.769] Connection add index=3 guid=126100790006778560 id=null.
+[07-09-26 17:36:57.366] 76561199133759071 "Tymb0mbtest" attempting to join.
+[07-09-26 17:36:57.367] access denied: user "Tymb0mbtest" reason "MaxAccountsReached".
+[07-09-26 17:36:57.367] Connection disconnect index=3 guid=126100790006778560 id=76561199133759071.
+[07-09-26 17:36:57.371] Connection remove index=3 guid=126100790006778560 id=76561199133759071.
+[07-09-26 17:37:11.785] Connection add index=3 guid=126100790006778560 id=null.
+[07-09-26 17:37:13.605] 76561199133759071 "Tymbomb" attempting to join.
+[07-09-26 17:37:13.606] access denied: user "Tymbomb" reason "InvalidUsernamePassword".
+[07-09-26 17:37:13.606] Connection disconnect index=3 guid=126100790006778560 id=76561199133759071.
+[07-09-26 17:37:13.608] Connection remove index=3 guid=126100790006778560 id=76561199133759071.
+[07-09-26 17:37:23.219] Connection disconnect index=0 guid=490892406952379414 id=76561198148801188.
+[07-09-26 17:37:23.223] Connection remove index=0 guid=490892406952379414 id=76561198148801188.
+[07-09-26 17:37:23.235] 76561198148801188 "admin" disconnected player (2630,6216,0).
+[07-09-26 17:37:35.941] Connection disconnect index=1 guid=765613408796257363 id=76561198254867641.

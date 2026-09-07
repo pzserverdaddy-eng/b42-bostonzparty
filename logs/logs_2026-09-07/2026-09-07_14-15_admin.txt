@@ -1,0 +1,6 @@
+[07-09-26 16:07:28.150] admin teleported to 2076,6111,0.
+[07-09-26 16:08:45.751] admin disabled noclip on admin.
+[07-09-26 16:11:08.652] admin added item Base.Rope in admin's inventory.
+[07-09-26 16:11:09.088] admin added item Base.Rope in admin's inventory.
+[07-09-26 16:22:28.005] admin enabled noclip on admin.
+[07-09-26 17:23:57.160] admin closed server.

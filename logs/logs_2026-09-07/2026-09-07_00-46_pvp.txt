@@ -1,0 +1,45 @@
+[07-09-26 00:51:36.076][LOG] Safety: "ServerDaddy" (63345,18682,0) restore true.
+[07-09-26 00:55:26.871][LOG] Safety: "Blinkdog81" (12349,2144,0) restore true.
+[07-09-26 00:58:44.914][LOG] Safety: "ServerDaddy" (13550,5059,0) store true.
+[07-09-26 01:00:02.331][LOG] Safety: "admin" (8098,11521,0) restore true.
+[07-09-26 01:05:39.348][LOG] Safety: "admin" (13726,5035,0) store true.
+[07-09-26 01:07:06.447][LOG] Safety: "ServerDaddy" (13550,5059,0) restore true.
+[07-09-26 01:09:44.593][LOG] Safety: "ServerDaddy" (63345,18683,0) store true.
+[07-09-26 01:12:42.380][LOG] Safety: "Lilith Sullivan" (1980,8597,0) restore true.
+[07-09-26 01:15:29.097][LOG] Safety: "Sledge40" (13482,1302,0) restore true.
+[07-09-26 01:15:32.032][LOG] Safety: "Danny Sullivan" (1981,8598,1) restore true.
+[07-09-26 01:19:04.635][LOG] Safety: "Freya" (11501,8768,0) restore true.
+[07-09-26 01:23:11.253][LOG] Safety: "Blinkdog81" (12676,2043,0) store true.
+[07-09-26 01:28:06.728][INFO] Combat: "Danny Sullivan" (1860,8534,0) hit "Danny Sullivan" (1864,8536,0) weapon="zombie" damage=-1.000000.
+[07-09-26 01:28:06.745][INFO] Combat: "Danny Sullivan" (1860,8534,0) hit "Danny Sullivan" (1864,8536,0) weapon="zombie" damage=-1.000000.
+[07-09-26 01:28:08.978][INFO] Combat: "Danny Sullivan" (1860,8534,0) hit "Danny Sullivan" (1859,8533,0) weapon="zombie" damage=-1.000000.
+[07-09-26 01:28:11.991][INFO] Combat: "Danny Sullivan" (1860,8534,0) hit "Danny Sullivan" (1859,8533,0) weapon="zombie" damage=-1.000000.
+[07-09-26 01:28:11.993][INFO] Combat: "Danny Sullivan" (1860,8534,0) hit "Danny Sullivan" (1859,8533,0) weapon="zombie" damage=-1.000000.
+[07-09-26 01:31:41.059][LOG] Safety: "Blinkdog81" (12676,2043,0) restore true.
+[07-09-26 01:36:19.328][LOG] Safety: "ServerDaddy" (63345,18683,0) restore true.
+[07-09-26 01:37:04.091][LOG] Safety: "Legofanhead" (8795,11608,0) restore true.
+[07-09-26 01:37:55.404][LOG] Safety: "Tymbomb" (63104,18141,0) restore true.
+[07-09-26 01:39:33.709][LOG] Safety: "Danny Sullivan" (58785,18261,0) restore true.
+[07-09-26 01:46:04.722][LOG] Safety: "Tymbomb" (13486,1259,0) store true.
+[07-09-26 01:48:41.811][LOG] Safety: "Tymbomb" (13486,1259,0) restore true.
+[07-09-26 02:00:37.985][INFO] Combat: "ServerDaddy" (13770,4993,0) hit "ServerDaddy" (13770,4993,0) weapon="zombie" damage=-1.000000.
+[07-09-26 02:00:44.830][INFO] Combat: "ServerDaddy" (13770,4993,0) hit "ServerDaddy" (13770,4993,0) weapon="zombie" damage=-1.000000.
+[07-09-26 02:00:44.896][INFO] Combat: "ServerDaddy" (13770,4993,0) hit "ServerDaddy" (13770,4993,0) weapon="zombie" damage=-1.000000.
+[07-09-26 02:00:46.255][INFO] Combat: "ServerDaddy" (13770,4993,0) hit "ServerDaddy" (13770,4993,0) weapon="zombie" damage=-1.000000.
+[07-09-26 02:00:48.562][INFO] Combat: "ServerDaddy" (13770,4993,0) hit "ServerDaddy" (13770,4993,0) weapon="zombie" damage=-1.000000.
+[07-09-26 02:00:50.251][INFO] Combat: "ServerDaddy" (13770,4993,0) hit "ServerDaddy" (13770,4993,0) weapon="zombie" damage=-1.000000.
+[07-09-26 02:00:52.531][INFO] Combat: "ServerDaddy" (13770,4993,0) hit "ServerDaddy" (13770,4993,0) weapon="zombie" damage=-1.000000.
+[07-09-26 02:01:28.746][LOG] Safety: "Sledge40" (13483,1329,0) store true.
+[07-09-26 02:06:45.893][LOG] Safety: "Tymbomb" (13490,1260,0) store true.
+[07-09-26 02:07:04.966][LOG] Safety: "Sledge40" (13483,1329,0) restore true.
+[07-09-26 02:09:47.622][LOG] Safety: "ServerDaddy" (2004,8601,0) store true.
+[07-09-26 02:11:06.213][LOG] Safety: "Tymbomb" (13490,1260,0) restore true.
+[07-09-26 02:13:07.515][LOG] Safety: "ServerDaddy" (2004,8601,0) restore true.
+[07-09-26 02:16:54.480][LOG] Safety: "ServerDaddy" (8789,11599,0) store true.
+[07-09-26 02:19:00.517][LOG] Safety: "Legofanhead" (8789,11599,0) store true.
+[07-09-26 02:19:20.866][LOG] Safety: "Blinkdog81" (12634,1420,0) store true.
+[07-09-26 02:19:28.896][LOG] Safety: "Lilith Sullivan" (1978,8592,0) store true.
+[07-09-26 02:19:44.528][LOG] Safety: "Freya" (12719,8750,0) store true.
+[07-09-26 02:19:51.793][LOG] Safety: "Tymbomb" (13711,1847,0) store true.
+[07-09-26 02:19:51.853][LOG] Safety: "Danny Sullivan" (1978,8601,0) store true.
+[07-09-26 02:20:34.225][LOG] Safety: "Sledge40" (13375,1411,0) store true.

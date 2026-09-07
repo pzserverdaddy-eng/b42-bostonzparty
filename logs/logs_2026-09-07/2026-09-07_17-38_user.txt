@@ -1,0 +1,7 @@
+[07-09-26 17:40:20.763] Connection add index=0 guid=490892406952379414 id=null.
+[07-09-26 17:40:22.281] 76561198148801188 "admin" attempting to join.
+[07-09-26 17:40:22.282] 76561198148801188 "admin" allowed to join.
+[07-09-26 17:40:49.660] 76561198148801188 "admin" attempting to join used preferred queue.
+[07-09-26 17:40:59.940] player admin loading time was: 9430 ms.
+[07-09-26 17:41:38.037] 76561198148801188 "admin" fully connected (2630,6216,0).
+[07-09-26 17:44:42.219] Connection disconnect index=0 guid=490892406952379414 id=76561198148801188.

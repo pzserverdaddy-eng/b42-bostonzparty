@@ -1,0 +1,52 @@
+[06-09-26 20:12:05.125][LOG] Safety: "Legofanhead" (9555,11195,0) restore true.
+[06-09-26 20:15:12.525][LOG] Safety: "Krom" (10959,8843,0) restore true.
+[06-09-26 20:22:39.122][LOG] Safety: "Blinkdog81" (11637,7560,0) restore true.
+[06-09-26 20:23:43.973][LOG] Safety: "Sledge40" (13950,2940,0) restore true.
+[06-09-26 20:26:59.347][LOG] Safety: "Tymbomb" (14012,2464,1) restore true.
+[06-09-26 20:36:43.416][LOG] Safety: "Blinkdog81" (12690,4896,0) store true.
+[06-09-26 21:01:49.813][LOG] Safety: "Krom" (11689,8110,0) store true.
+[06-09-26 21:07:02.719][LOG] Safety: "Freya" (11610,8285,0) restore true.
+[06-09-26 21:43:17.750][IMPORTANT] Kill: "Legofanhead" (8616,11637,0) killed "Cottontail Female Rabbit (Doe) (Wild)" (8613,11637,0).
+[06-09-26 21:43:21.723][IMPORTANT] Kill: "Legofanhead" (8619,11637,0) killed "Swamp Male Rabbit (Buck) (Wild)" (8611,11637,0).
+[06-09-26 21:43:37.794][IMPORTANT] Kill: "Legofanhead" (8563,11641,0) killed "Cottontail Baby Rabbit (Kitten) (Wild)" (8613,11638,0).
+[06-09-26 21:57:43.708][LOG] Safety: "Danny Sullivan" (63524,17481,0) restore true.
+[06-09-26 21:58:40.047][LOG] Safety: "Lilith Sullivan" (58784,18260,0) restore true.
+[06-09-26 22:00:56.975][INFO] Combat: "Danny Sullivan" (1411,5772,0) hit "Danny Sullivan" (1412,5772,0) weapon="zombie" damage=-1.000000.
+[06-09-26 22:15:47.151][INFO] Combat: "Lilith Sullivan" (335,9827,0) hit "Lilith Sullivan" (335,9827,0) weapon="zombie" damage=-1.000000.
+[06-09-26 22:15:49.060][INFO] Combat: "Lilith Sullivan" (336,9827,0) hit "Lilith Sullivan" (335,9827,0) weapon="zombie" damage=-1.000000.
+[06-09-26 22:20:46.739][INFO] Combat: "Lilith Sullivan" (346,9849,0) hit "Lilith Sullivan" (346,9850,0) weapon="zombie" damage=-1.000000.
+[06-09-26 22:31:39.589][INFO] Combat: "Danny Sullivan" (1923,8576,0) hit "Danny Sullivan" (1925,8577,0) weapon="zombie" damage=-1.000000.
+[06-09-26 22:31:41.555][INFO] Combat: "Danny Sullivan" (1924,8576,0) hit "Danny Sullivan" (1925,8577,0) weapon="zombie" damage=-1.000000.
+[06-09-26 22:53:24.295][LOG] Safety: "Blinkdog81" (12690,4896,0) restore true.
+[06-09-26 22:56:18.364][LOG] Safety: "Tymbomb" (13387,1845,2) store true.
+[06-09-26 23:11:25.220][LOG] Safety: "ServerDaddy" (63345,18683,0) restore true.
+[06-09-26 23:12:26.088][LOG] Safety: "Blinkdog81" (12635,4712,0) store true.
+[06-09-26 23:16:01.003][IMPORTANT] Kill: "Lilith Sullivan" (1244,8658,0) killed "Swamp Baby Rabbit (Kitten) (Wild)" (1247,8657,0).
+[06-09-26 23:16:11.022][IMPORTANT] Kill: "Lilith Sullivan" (1284,8639,0) killed "Swamp Female Rabbit (Doe) (Wild)" (1277,8641,0).
+[06-09-26 23:22:06.558][LOG] Safety: "Blinkdog81" (12635,4712,0) restore true.
+[06-09-26 23:23:23.263][LOG] Safety: "Freya" (12717,8751,0) restore true.
+[06-09-26 23:24:03.759][LOG] Safety: "Tymbomb" (13387,1845,2) restore true.
+[06-09-26 23:25:57.624][LOG] Safety: "ServerDaddy" (63345,18682,0) store true.
+[06-09-26 23:27:14.671][LOG] Safety: "admin" (11933,6748,0) restore true.
+[06-09-26 23:35:28.884][LOG] Safety: "admin" (8098,11521,0) store true.
+[06-09-26 23:39:11.511][LOG] Safety: "ServerDaddy" (63345,18682,0) restore true.
+[06-09-26 23:47:10.281][LOG] Safety: "Tymbomb" (13509,1285,0) store true.
+[06-09-26 23:57:26.816][LOG] Safety: "Tymbomb" (13509,1285,0) restore true.
+[06-09-26 23:57:53.374][LOG] Safety: "Sledge40" (13512,1313,0) store true.
+[07-09-26 00:02:19.308][LOG] Safety: "Sledge40" (13512,1313,0) restore true.
+[07-09-26 00:21:46.351][IMPORTANT] Kill: "Freya" (9850,11206,0) killed "Cottontail Baby Rabbit (Kitten) (Wild)" (9852,11206,0).
+[07-09-26 00:21:46.352][IMPORTANT] Kill: "Freya" (9850,11206,0) killed "Cottontail Baby Rabbit (Kitten) (Wild)" (9850,11207,0).
+[07-09-26 00:21:51.050][IMPORTANT] Kill: "Freya" (9877,11207,0) killed "Cottontail Female Rabbit (Doe) (Wild)" (9882,11208,0).
+[07-09-26 00:21:51.051][IMPORTANT] Kill: "Freya" (9877,11207,0) killed "Appalachian Female Rabbit (Doe) (Wild)" (9882,11208,0).
+[07-09-26 00:21:51.052][IMPORTANT] Kill: "Freya" (9877,11207,0) killed "Swamp Female Rabbit (Doe) (Wild)" (9881,11207,0).
+[07-09-26 00:21:51.229][IMPORTANT] Kill: "Freya" (9877,11207,0) killed "Cottontail Male Rabbit (Buck) (Wild)" (9882,11208,0).
+[07-09-26 00:22:00.778][IMPORTANT] Kill: "Freya" (9902,11203,0) killed "Appalachian Female Rabbit (Doe) (Wild)" (9890,11205,0).
+[07-09-26 00:22:00.785][IMPORTANT] Kill: "Freya" (9902,11203,0) killed "Cottontail Male Rabbit (Buck) (Wild)" (9889,11205,0).
+[07-09-26 00:31:54.134][LOG] Safety: "Blinkdog81" (12349,2144,0) store true.
+[07-09-26 00:32:13.136][LOG] Safety: "Legofanhead" (8795,11608,0) store true.
+[07-09-26 00:32:22.988][LOG] Safety: "Lilith Sullivan" (1980,8597,0) store true.
+[07-09-26 00:32:24.952][LOG] Safety: "Danny Sullivan" (1981,8598,1) store true.
+[07-09-26 00:38:32.236][LOG] Safety: "ServerDaddy" (63345,18682,0) store true.
+[07-09-26 00:40:14.247][LOG] Safety: "Sledge40" (13482,1302,0) store true.
+[07-09-26 00:40:24.705][LOG] Safety: "Tymbomb" (63104,18141,0) store true.
+[07-09-26 00:40:43.961][LOG] Safety: "Freya" (11501,8768,0) store true.

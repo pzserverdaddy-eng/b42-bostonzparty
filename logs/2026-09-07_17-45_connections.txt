@@ -1,0 +1,9 @@
+[07-09-26 17:48:17.423] event="RakNet" message="new-incoming-connection" guid="635007558273240429" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[07-09-26 17:48:18.924] event="receive-packet" message="login" guid="635007558273240429" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[07-09-26 17:48:18.955] event="receive-packet" message="client-connect" guid="635007558273240429" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[07-09-26 17:48:19.088] event="send-packet" message="connection-details" guid="635007558273240429" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[07-09-26 17:48:41.412] event="RakNet" message="new-incoming-connection" guid="490892406952379414" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[07-09-26 17:48:42.923] event="receive-packet" message="login" guid="490892406952379414" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[07-09-26 17:48:42.939] event="receive-packet" message="client-connect" guid="490892406952379414" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".
+[07-09-26 17:48:42.989] event="send-packet" message="connection-details" guid="490892406952379414" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".
+[07-09-26 17:49:08.691] event="receive-packet" message="login-queue-request" guid="490892406952379414" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".

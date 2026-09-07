@@ -1,0 +1,6 @@
+[07-09-26 00:45:30.123] event="RakNet" message="new-incoming-connection" guid="1053842494681104851" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[07-09-26 00:45:31.670] event="receive-packet" message="login" guid="1053842494681104851" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[07-09-26 00:45:31.700] event="receive-packet" message="client-connect" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[07-09-26 00:45:31.863] event="send-packet" message="connection-details" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[07-09-26 00:45:39.875] event="RakNet" message="disconnection-notification" guid="1053842494681104851".
+[07-09-26 00:45:39.890] event="disconnect" message="receive-disconnect" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="Disconnected".

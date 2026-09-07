@@ -1,0 +1,23 @@
+[07-09-26 14:19:55.567][LOG] Safety: "Tymbomb" (14152,2598,1) restore true.
+[07-09-26 14:20:17.667][LOG] Safety: "Lilith Sullivan" (62805,20703,0) restore true.
+[07-09-26 14:21:23.865][LOG] Safety: "Sledge40" (58845,18082,0) restore true.
+[07-09-26 14:25:52.265][LOG] Safety: "Danny Sullivan" (1983,8592,1) restore true.
+[07-09-26 14:53:50.163][LOG] Safety: "Blinkdog81" (12719,5056,1) restore true.
+[07-09-26 15:59:19.271][LOG] Safety: "ServerDaddy" (13547,5047,0) restore true.
+[07-09-26 15:59:46.115][LOG] Safety: "Freya" (12714,8747,1) restore true.
+[07-09-26 16:05:26.080][LOG] Safety: "ServerDaddy" (13974,5089,0) store true.
+[07-09-26 16:07:03.868][LOG] Safety: "admin" (12814,8803,0) restore true.
+[07-09-26 16:15:40.827][LOG] Safety: "admin" (2050,6132,0) store true.
+[07-09-26 16:18:54.231][LOG] Safety: "admin" (2050,6132,0) restore true.
+[07-09-26 16:25:49.442][LOG] Safety: "admin" (1990,6117,0) store true.
+[07-09-26 16:31:36.295][LOG] Safety: "ServerDaddy" (13974,5089,0) restore true.
+[07-09-26 16:32:38.003][INFO] Combat: "Lilith Sullivan" (2019,6362,0) hit "Lilith Sullivan" (2019,6362,0) weapon="zombie" damage=-1.000000.
+[07-09-26 16:42:46.460][IMPORTANT] Kill: "Tymbomb" (12198,1418,0) killed "Gray Male Rat (Buck) (Wild)" (12199,1419,0).
+[07-09-26 16:43:13.396][IMPORTANT] Kill: "Tymbomb" (12216,1424,0) killed "Gray Male Rat (Buck) (Wild)" (12213,1432,0).
+[07-09-26 16:56:43.794][LOG] Safety: "Tymbomb" (61245,17421,0) store true.
+[07-09-26 17:14:03.621][LOG] Safety: "ServerDaddy" (13549,5039,0) store true.
+[07-09-26 17:16:30.157][LOG] Safety: "Sledge40" (58845,18082,0) store true.
+[07-09-26 17:21:02.604][LOG] Safety: "Blinkdog81" (11603,8843,0) store true.
+[07-09-26 17:21:49.912][LOG] Safety: "Freya" (10593,9094,0) store true.
+[07-09-26 17:22:18.676][LOG] Safety: "Danny Sullivan" (1930,8574,0) store true.
+[07-09-26 17:22:25.501][LOG] Safety: "Lilith Sullivan" (1955,8578,0) store true.

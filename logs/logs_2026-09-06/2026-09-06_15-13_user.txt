@@ -1,0 +1,181 @@
+[06-09-26 15:16:25.265] Connection add index=0 guid=788130226315581895 id=null.
+[06-09-26 15:16:26.817] 76561198148801188 "ServerDaddy" attempting to join.
+[06-09-26 15:16:26.818] 76561198148801188 "ServerDaddy" allowed to join.
+[06-09-26 15:16:33.484] Connection disconnect index=0 guid=788130226315581895 id=76561198148801188.
+[06-09-26 15:16:33.487] Connection remove index=0 guid=788130226315581895 id=76561198148801188.
+[06-09-26 15:16:40.622] Connection add index=0 guid=63050403736259973 id=null.
+[06-09-26 15:16:42.110] 76561199133759071 "Tymbomb" attempting to join.
+[06-09-26 15:16:42.111] 76561199133759071 "Tymbomb" allowed to join.
+[06-09-26 15:16:59.288] Connection add index=1 guid=909728511317197095 id=null.
+[06-09-26 15:17:00.857] 76561198254867641 "Lilith Sullivan" attempting to join.
+[06-09-26 15:17:00.858] 76561198254867641 "Lilith Sullivan" allowed to join.
+[06-09-26 15:17:05.281] 76561199133759071 "Tymbomb" attempting to join used queue.
+[06-09-26 15:17:15.880] player Tymbomb loading time was: 9788 ms.
+[06-09-26 15:17:24.111] Connection add index=2 guid=4503603456696092 id=null.
+[06-09-26 15:17:25.711] 76561199471776312 "Sledge40" attempting to join.
+[06-09-26 15:17:25.711] 76561199471776312 "Sledge40" allowed to join.
+[06-09-26 15:17:36.353] 76561199133759071 "Tymbomb" fully connected (12635,5335,0).
+[06-09-26 15:17:39.407] Connection add index=3 guid=1085367514733253253 id=null.
+[06-09-26 15:17:39.533] 76561198093780693 "Danny Sullivan" attempting to join.
+[06-09-26 15:17:39.533] 76561198093780693 "Danny Sullivan" allowed to join.
+[06-09-26 15:17:50.123] 76561199471776312 "Sledge40" attempting to join used queue.
+[06-09-26 15:17:53.563] 76561198254867641 "Lilith Sullivan" attempting to join used queue.
+[06-09-26 15:18:02.343] player Sledge40 loading time was: 10910 ms.
+[06-09-26 15:18:04.085] 76561199471776312 "Sledge40" fully connected (11895,6729,0).
+[06-09-26 15:18:32.128] player Lilith Sullivan loading time was: 27666 ms.
+[06-09-26 15:18:39.122] 76561198254867641 "Lilith Sullivan" fully connected (58784,18260,0).
+[06-09-26 15:21:57.931] Connection add index=4 guid=139611629961342774 id=null.
+[06-09-26 15:21:59.840] 76561198165650138 "Blinkdog81" attempting to join.
+[06-09-26 15:21:59.843] 76561198165650138 "Blinkdog81" allowed to join.
+[06-09-26 15:22:33.558] 76561198165650138 "Blinkdog81" attempting to join used queue.
+[06-09-26 15:23:34.148] player Blinkdog81 loading time was: 59013 ms.
+[06-09-26 15:24:00.348] Connection add index=5 guid=1143914598382253172 id=null.
+[06-09-26 15:24:01.997] 76561198148801188 "ServerDaddy" attempting to join.
+[06-09-26 15:24:01.997] 76561198148801188 "ServerDaddy" allowed to join.
+[06-09-26 15:24:21.709] 76561198165650138 "Blinkdog81" fully connected (10614,9306,2).
+[06-09-26 15:24:29.215] 76561198148801188 "ServerDaddy" attempting to join used queue.
+[06-09-26 15:24:54.568] player ServerDaddy loading time was: 21056 ms.
+[06-09-26 15:25:18.265] 76561198148801188 "ServerDaddy" fully connected (58845,17662,0).
+[06-09-26 15:27:16.003] 76561198093780693 "Danny Sullivan" attempting to join used queue.
+[06-09-26 15:28:23.419] player Danny Sullivan loading time was: 58575 ms.
+[06-09-26 15:28:26.748] 76561198093780693 "Danny Sullivan" fully connected (6408,5498,0).
+[06-09-26 15:44:53.982] Connection add index=6 guid=144115193828760038 id=null.
+[06-09-26 15:45:05.548] 76561197983854611 "Krom" attempting to join.
+[06-09-26 15:45:05.560] 76561197983854611 "Krom" allowed to join.
+[06-09-26 15:50:39.187] 76561197983854611 "Krom" attempting to join used queue.
+[06-09-26 15:51:20.592] player Krom loading time was: 33751 ms.
+[06-09-26 15:51:24.838] 76561197983854611 "Krom" fully connected (10776,9764,0).
+[06-09-26 15:56:46.412] Connection disconnect index=0 guid=63050403736259973 id=76561199133759071.
+[06-09-26 15:56:46.475] Connection remove index=0 guid=63050403736259973 id=76561199133759071.
+[06-09-26 15:56:46.489] 76561199133759071 "Tymbomb" disconnected player (12628,4704,0).
+[06-09-26 16:31:43.619] Connection disconnect index=6 guid=144115193828760038 id=76561197983854611.
+[06-09-26 16:31:43.706] Connection remove index=6 guid=144115193828760038 id=76561197983854611.
+[06-09-26 16:31:43.719] 76561197983854611 "Krom" disconnected player (10500,9234,0).
+[06-09-26 16:34:47.484] Connection add index=0 guid=72057602794114386 id=null.
+[06-09-26 16:34:48.885] 76561197983854611 "Krom" attempting to join.
+[06-09-26 16:34:48.885] 76561197983854611 "Krom" allowed to join.
+[06-09-26 16:35:21.888] 76561197983854611 "Krom" attempting to join used preferred queue.
+[06-09-26 16:36:01.447] player Krom loading time was: 35774 ms.
+[06-09-26 16:36:05.205] 76561197983854611 "Krom" fully connected (10500,9234,0).
+[06-09-26 16:43:06.615] user Lilith Sullivan died at (1934,8833,1) (non pvp).
+[06-09-26 16:43:20.912] Connection disconnect index=0 guid=72057602794114386 id=76561197983854611.
+[06-09-26 16:43:25.508] Connection remove index=0 guid=72057602794114386 id=76561197983854611.
+[06-09-26 16:43:25.521] 76561197983854611 "Krom" disconnected player (10959,8843,0).
+[06-09-26 16:46:34.184] Connection disconnect index=2 guid=4503603456696092 id=76561199471776312.
+[06-09-26 16:46:34.215] Connection remove index=2 guid=4503603456696092 id=76561199471776312.
+[06-09-26 16:46:34.230] 76561199471776312 "Sledge40" disconnected player (12584,4709,0).
+[06-09-26 16:46:52.536] 76561198254867641 "Lilith Sullivan" disconnected player (1934,8833,1).
+[06-09-26 16:47:01.049] 76561198254867641 "Lilith Sullivan" fully connected (58785,18261,0).
+[06-09-26 16:48:11.224] Connection disconnect index=5 guid=1143914598382253172 id=76561198148801188.
+[06-09-26 16:48:11.242] Connection remove index=5 guid=1143914598382253172 id=76561198148801188.
+[06-09-26 16:48:11.255] 76561198148801188 "ServerDaddy" disconnected player (11569,8839,0).
+[06-09-26 16:49:47.038] Connection add index=0 guid=1143914598382253172 id=null.
+[06-09-26 16:49:48.236] 76561198148801188 "admin" attempting to join.
+[06-09-26 16:49:48.237] 76561198148801188 "admin" allowed to join.
+[06-09-26 16:50:45.185] Connection add index=2 guid=63050403736259973 id=null.
+[06-09-26 16:50:46.663] 76561199133759071 "Tymbomb" attempting to join.
+[06-09-26 16:50:46.663] 76561199133759071 "Tymbomb" allowed to join.
+[06-09-26 16:51:12.236] 76561199133759071 "Tymbomb" attempting to join used queue.
+[06-09-26 16:51:24.183] player Tymbomb loading time was: 10969 ms.
+[06-09-26 16:51:30.754] 76561199133759071 "Tymbomb" fully connected (12628,4704,0).
+[06-09-26 16:52:15.851] 76561198148801188 "admin" attempting to join used preferred queue.
+[06-09-26 16:52:29.154] player admin loading time was: 12440 ms.
+[06-09-26 16:53:46.313] 76561198148801188 "admin" fully connected (11936,6749,0).
+[06-09-26 16:56:33.647] Connection add index=5 guid=4503603456696092 id=null.
+[06-09-26 16:56:34.938] 76561199471776312 "Sledge40" attempting to join.
+[06-09-26 16:56:34.939] 76561199471776312 "Sledge40" allowed to join.
+[06-09-26 16:56:52.026] 76561199471776312 "Sledge40" attempting to join used queue.
+[06-09-26 16:57:04.487] player Sledge40 loading time was: 11667 ms.
+[06-09-26 16:57:53.555] Connection disconnect index=0 guid=1143914598382253172 id=76561198148801188.
+[06-09-26 16:57:53.558] Connection remove index=0 guid=1143914598382253172 id=76561198148801188.
+[06-09-26 16:57:53.569] 76561198148801188 "admin" disconnected player (11933,6748,0).
+[06-09-26 16:57:58.121] 76561199471776312 "Sledge40" fully connected (12584,4709,0).
+[06-09-26 16:58:32.165] Connection add index=0 guid=1143914598382253172 id=null.
+[06-09-26 16:58:32.668] 76561198148801188 "ServerDaddy" attempting to join.
+[06-09-26 16:58:32.668] 76561198148801188 "ServerDaddy" allowed to join.
+[06-09-26 16:58:59.688] 76561198148801188 "ServerDaddy" attempting to join used queue.
+[06-09-26 16:59:12.102] player ServerDaddy loading time was: 11481 ms.
+[06-09-26 16:59:25.399] 76561198148801188 "ServerDaddy" fully connected (11569,8839,0).
+[06-09-26 17:36:04.545] Anti-cheat="HitWeapon" is triggered for connection="Tymbomb" server-option="AntiCheatHit" reason="PlayerHitZombiePacket: attack rate is too high" counter=1/2 action="Kick" ping=16.
+[06-09-26 17:38:15.817] Anti-cheat="HitWeapon" is triggered for connection="Tymbomb" server-option="AntiCheatHit" reason="cooldown" counter=0/2 action="Kick" ping=24.
+[06-09-26 17:46:41.721] Anti-cheat="HitWeapon" is triggered for connection="Tymbomb" server-option="AntiCheatHit" reason="PlayerHitZombiePacket: attack rate is too high" counter=1/2 action="Kick" ping=16.
+[06-09-26 17:46:41.730] Anti-cheat="HitWeapon" is triggered for connection="Tymbomb" server-option="AntiCheatHit" reason="PlayerHitZombiePacket: attack rate is too high" counter=2/2 action="Kick" ping=16.
+[06-09-26 17:46:41.735] Connection disconnect index=2 guid=63050403736259973 id=76561199133759071.
+[06-09-26 17:46:41.735] Connection remove index=2 guid=63050403736259973 id=76561199133759071.
+[06-09-26 17:46:41.750] 76561199133759071 "Tymbomb" disconnected player (14100,2622,0).
+[06-09-26 17:49:13.191] Connection add index=2 guid=63050403736259973 id=null.
+[06-09-26 17:49:14.700] 76561199133759071 "Tymbomb" attempting to join.
+[06-09-26 17:49:14.701] 76561199133759071 "Tymbomb" allowed to join.
+[06-09-26 17:49:36.808] 76561199133759071 "Tymbomb" attempting to join used queue.
+[06-09-26 17:49:47.503] player Tymbomb loading time was: 9863 ms.
+[06-09-26 17:51:06.790] Connection add index=6 guid=662029146045470668 id=null.
+[06-09-26 17:51:11.568] 76561198308440766 "Legofanhead" attempting to join.
+[06-09-26 17:51:11.570] 76561198308440766 "Legofanhead" allowed to join.
+[06-09-26 17:51:58.609] 76561198308440766 "Legofanhead" attempting to join used queue.
+[06-09-26 17:52:49.205] player Legofanhead loading time was: 46581 ms.
+[06-09-26 17:52:49.227] 76561199133759071 "Tymbomb" fully connected (14100,2622,0).
+[06-09-26 17:55:41.822] 76561198308440766 "Legofanhead" fully connected (8798,11607,0).
+[06-09-26 18:01:59.135] Connection disconnect index=4 guid=139611629961342774 id=76561198165650138.
+[06-09-26 18:01:59.138] Connection remove index=4 guid=139611629961342774 id=76561198165650138.
+[06-09-26 18:01:59.153] 76561198165650138 "Blinkdog81" disconnected player (11619,8837,0).
+[06-09-26 18:07:59.783] Connection disconnect index=0 guid=1143914598382253172 id=76561198148801188.
+[06-09-26 18:07:59.786] Connection remove index=0 guid=1143914598382253172 id=76561198148801188.
+[06-09-26 18:07:59.800] 76561198148801188 "ServerDaddy" disconnected player (63345,18683,0).
+[06-09-26 18:12:03.279] Connection add index=0 guid=112590042388338334 id=null.
+[06-09-26 18:12:04.819] 76561198165650138 "Blinkdog81" attempting to join.
+[06-09-26 18:12:04.820] 76561198165650138 "Blinkdog81" allowed to join.
+[06-09-26 18:13:24.682] 76561198165650138 "Blinkdog81" attempting to join used queue.
+[06-09-26 18:14:35.368] player Blinkdog81 loading time was: 64727 ms.
+[06-09-26 18:14:46.653] 76561198165650138 "Blinkdog81" fully connected (11619,8837,0).
+[06-09-26 19:13:27.745] Anti-cheat="HitWeapon" is triggered for connection="Blinkdog81" server-option="AntiCheatHit" reason="PlayerHitZombiePacket: not enough ammo" counter=1/2 action="Kick" ping=100.
+[06-09-26 19:14:33.644] Anti-cheat="HitWeapon" is triggered for connection="Blinkdog81" server-option="AntiCheatHit" reason="cooldown" counter=0/2 action="Kick" ping=96.
+[06-09-26 19:15:45.842] Anti-cheat="HitWeapon" is triggered for connection="Blinkdog81" server-option="AntiCheatHit" reason="PlayerHitZombiePacket: not enough ammo" counter=1/2 action="Kick" ping=109.
+[06-09-26 19:16:32.384] Anti-cheat="HitWeapon" is triggered for connection="Blinkdog81" server-option="AntiCheatHit" reason="PlayerHitZombiePacket: not enough ammo" counter=2/2 action="Kick" ping=94.
+[06-09-26 19:16:32.417] Connection disconnect index=0 guid=112590042388338334 id=76561198165650138.
+[06-09-26 19:16:32.480] Connection remove index=0 guid=112590042388338334 id=76561198165650138.
+[06-09-26 19:16:32.495] 76561198165650138 "Blinkdog81" disconnected player (11687,6865,0).
+[06-09-26 19:21:26.899] Connection add index=0 guid=342273627554388537 id=null.
+[06-09-26 19:21:31.078] 76561198165650138 "Blinkdog81" attempting to join.
+[06-09-26 19:21:31.084] 76561198165650138 "Blinkdog81" allowed to join.
+[06-09-26 19:22:51.623] 76561198165650138 "Blinkdog81" attempting to join used queue.
+[06-09-26 19:23:57.329] player Blinkdog81 loading time was: 59760 ms.
+[06-09-26 19:25:12.641] 76561198165650138 "Blinkdog81" fully connected (11687,6865,0).
+[06-09-26 19:36:41.708] Connection disconnect index=6 guid=662029146045470668 id=76561198308440766.
+[06-09-26 19:36:41.715] Connection remove index=6 guid=662029146045470668 id=76561198308440766.
+[06-09-26 19:36:41.731] 76561198308440766 "Legofanhead" disconnected player (11642,8662,0).
+[06-09-26 19:37:49.694] Connection add index=4 guid=662029146045470668 id=null.
+[06-09-26 19:37:51.235] 76561198308440766 "Legofanhead" attempting to join.
+[06-09-26 19:37:51.236] 76561198308440766 "Legofanhead" allowed to join.
+[06-09-26 19:38:14.599] 76561198308440766 "Legofanhead" attempting to join used queue.
+[06-09-26 19:38:26.932] player Legofanhead loading time was: 11172 ms.
+[06-09-26 19:38:42.076] 76561198308440766 "Legofanhead" fully connected (11642,8662,0).
+[06-09-26 19:41:56.248] Connection disconnect index=1 guid=909728511317197095 id=76561198254867641.
+[06-09-26 19:41:59.757] Connection remove index=1 guid=909728511317197095 id=76561198254867641.
+[06-09-26 19:41:59.772] 76561198254867641 "Lilith Sullivan" disconnected player (58784,18260,0).
+[06-09-26 19:43:12.904] Anti-cheat="HitWeapon" is triggered for connection="Blinkdog81" server-option="AntiCheatHit" reason="PlayerHitZombiePacket: not enough ammo" counter=1/2 action="Kick" ping=96.
+[06-09-26 19:43:52.619] Anti-cheat="HitWeapon" is triggered for connection="Blinkdog81" server-option="AntiCheatHit" reason="cooldown" counter=0/2 action="Kick" ping=100.
+[06-09-26 19:44:19.939] Connection disconnect index=3 guid=1085367514733253253 id=76561198093780693.
+[06-09-26 19:44:22.485] Connection remove index=3 guid=1085367514733253253 id=76561198093780693.
+[06-09-26 19:44:22.501] 76561198093780693 "Danny Sullivan" disconnected player (63524,17481,0).
+[06-09-26 19:55:30.122] Connection disconnect index=2 guid=63050403736259973 id=76561199133759071.
+[06-09-26 19:55:31.886] Connection remove index=2 guid=63050403736259973 id=76561199133759071.
+[06-09-26 19:55:31.899] 76561199133759071 "Tymbomb" disconnected player (14012,2464,1).
+[06-09-26 19:59:14.314] Connection add index=1 guid=157625987049759929 id=null.
+[06-09-26 19:59:15.930] 76561197983854611 "Krom" attempting to join.
+[06-09-26 19:59:15.931] 76561197983854611 "Krom" allowed to join.
+[06-09-26 20:02:20.860] Connection disconnect index=1 guid=157625987049759929 id=76561197983854611.
+[06-09-26 20:02:21.302] Connection remove index=1 guid=157625987049759929 id=76561197983854611.
+[06-09-26 20:02:42.389] Connection add index=1 guid=157625987049759929 id=null.
+[06-09-26 20:02:44.161] 76561197983854611 "Krom" attempting to join.
+[06-09-26 20:02:44.162] 76561197983854611 "Krom" allowed to join.
+[06-09-26 20:04:27.893] Connection disconnect index=4 guid=662029146045470668 id=76561198308440766.
+[06-09-26 20:04:27.913] Connection remove index=4 guid=662029146045470668 id=76561198308440766.
+[06-09-26 20:04:27.926] 76561198308440766 "Legofanhead" disconnected player (9555,11195,0).
+[06-09-26 20:05:46.080] Connection disconnect index=0 guid=342273627554388537 id=76561198165650138.
+[06-09-26 20:05:46.081] Connection remove index=0 guid=342273627554388537 id=76561198165650138.
+[06-09-26 20:05:46.093] 76561198165650138 "Blinkdog81" disconnected player (11637,7560,0).
+[06-09-26 20:06:38.591] Connection disconnect index=5 guid=4503603456696092 id=76561199471776312.
+[06-09-26 20:06:38.594] Connection remove index=5 guid=4503603456696092 id=76561199471776312.
+[06-09-26 20:06:38.607] 76561199471776312 "Sledge40" disconnected player (13950,2940,0).
+[06-09-26 20:06:57.467] Connection disconnect index=1 guid=157625987049759929 id=76561197983854611.
+[06-09-26 20:06:57.468] Connection remove index=1 guid=157625987049759929 id=76561197983854611.

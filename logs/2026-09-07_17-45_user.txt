@@ -1,0 +1,7 @@
+[07-09-26 17:48:17.427] Connection add index=0 guid=635007558273240429 id=null.
+[07-09-26 17:48:18.924] 76561198165650138 "Blinkdog81" attempting to join.
+[07-09-26 17:48:18.925] 76561198165650138 "Blinkdog81" allowed to join.
+[07-09-26 17:48:41.415] Connection add index=1 guid=490892406952379414 id=null.
+[07-09-26 17:48:42.923] 76561198148801188 "admin" attempting to join.
+[07-09-26 17:48:42.923] 76561198148801188 "admin" allowed to join.
+[07-09-26 17:49:08.691] 76561198148801188 "admin" attempting to join used preferred queue.

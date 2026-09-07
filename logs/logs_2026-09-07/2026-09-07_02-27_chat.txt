@@ -1,0 +1,377 @@
+[07-09-26 02:28:37.334][info] Start chat server initialization....
+[07-09-26 02:28:37.341][info] General chat has id = 0.
+[07-09-26 02:28:37.341][info] Say chat has id = 1.
+[07-09-26 02:28:37.341][info] Shout chat has id = 2.
+[07-09-26 02:28:37.341][info] Radio chat has id = 3.
+[07-09-26 02:28:37.341][info] Admin chat has id = 4.
+[07-09-26 02:28:37.341][info] Server chat has id = 5.
+[07-09-26 02:28:37.341][info] Chat server successfully initialized.
+[07-09-26 02:29:17.779][info] Creating safehouse chat '12711,8743 at 1788748157777'.
+[07-09-26 02:29:17.780][info] Safehouse chat '12711,8743 at 1788748157777' created.
+[07-09-26 02:29:17.780][info] Creating safehouse chat '58782,18258 at 1788748157780'.
+[07-09-26 02:29:17.780][info] Safehouse chat '58782,18258 at 1788748157780' created.
+[07-09-26 02:29:17.780][info] Creating safehouse chat '14137,2651 at 1788748157780'.
+[07-09-26 02:29:17.780][info] Safehouse chat '14137,2651 at 1788748157780' created.
+[07-09-26 02:29:17.780][info] Creating safehouse chat '13517,4994 at 1788748157780'.
+[07-09-26 02:29:17.780][info] Safehouse chat '13517,4994 at 1788748157780' created.
+[07-09-26 02:30:28.932][info] Player with id = '0' tries to connect.
+[07-09-26 02:30:28.932][info] Adding player '0' to chat server.
+[07-09-26 02:30:28.934][info] Player joined to default chats.
+[07-09-26 02:30:28.934][info] Player 0(0) joined to chat server successfully.
+[07-09-26 02:32:18.629][info] Player with id = '4' tries to connect.
+[07-09-26 02:32:18.629][info] Adding player '4' to chat server.
+[07-09-26 02:32:18.630][info] Player joined to default chats.
+[07-09-26 02:32:18.630][info] Player joined admin chat.
+[07-09-26 02:32:18.630][info] Player joined to chat of safehouse '13517,4994 at 1788748157780'.
+[07-09-26 02:32:18.630][info] Player 4(4) joined to chat server successfully.
+[07-09-26 02:32:29.493][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='hi'}.
+[07-09-26 02:32:29.494][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='hi'} sent to chat (id = 1) members.
+[07-09-26 02:32:33.850][info] Got message:ChatMessage{chat=Local, author='Legofanhead', text='hi'}.
+[07-09-26 02:32:33.850][info] Message ChatMessage{chat=Local, author='Legofanhead', text='hi'} sent to chat (id = 1) members.
+[07-09-26 02:32:37.831][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='where's the house'}.
+[07-09-26 02:32:37.831][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='where's the house'} sent to chat (id = 1) members.
+[07-09-26 02:32:43.145][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='boundary ... that is'}.
+[07-09-26 02:32:43.145][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='boundary ... that is'} sent to chat (id = 1) members.
+[07-09-26 02:32:52.458][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='oh right'}.
+[07-09-26 02:32:52.458][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='oh right'} sent to chat (id = 1) members.
+[07-09-26 02:32:55.331][info] Player with id = '8' tries to connect.
+[07-09-26 02:32:55.331][info] Adding player '8' to chat server.
+[07-09-26 02:32:55.331][info] Player joined to default chats.
+[07-09-26 02:32:55.331][info] Player joined to chat of safehouse '58782,18258 at 1788748157780'.
+[07-09-26 02:32:55.331][info] Player 8(8) joined to chat server successfully.
+[07-09-26 02:32:58.774][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='you sent a pic'}.
+[07-09-26 02:32:58.774][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='you sent a pic'} sent to chat (id = 1) members.
+[07-09-26 02:32:58.777][info] Got message:ChatMessage{chat=Local, author='Legofanhead', text='its this house and the big garage next door'}.
+[07-09-26 02:32:58.777][info] Message ChatMessage{chat=Local, author='Legofanhead', text='its this house and the big garage next door'} sent to chat (id = 1) members.
+[07-09-26 02:34:05.687][info] Player with id = '12' tries to connect.
+[07-09-26 02:34:05.687][info] Adding player '12' to chat server.
+[07-09-26 02:34:05.687][info] Player joined to default chats.
+[07-09-26 02:34:05.687][info] Player joined to chat of safehouse '58782,18258 at 1788748157780'.
+[07-09-26 02:34:05.687][info] Player 12(12) joined to chat server successfully.
+[07-09-26 02:35:04.611][info] Player with id = '16' tries to connect.
+[07-09-26 02:35:04.611][info] Adding player '16' to chat server.
+[07-09-26 02:35:04.611][info] Player joined to default chats.
+[07-09-26 02:35:04.611][info] Player 16(16) joined to chat server successfully.
+[07-09-26 02:35:50.527][info] Player 12 disconnecting....
+[07-09-26 02:35:50.527][info] Disconnecting player 12 finished.
+[07-09-26 02:35:50.527][info] Player 12 disconnecting....
+[07-09-26 02:35:50.527][info] Disconnecting player 12 finished.
+[07-09-26 02:36:58.811][info] Player 4 disconnecting....
+[07-09-26 02:36:58.811][info] Disconnecting player 4 finished.
+[07-09-26 02:36:58.812][info] Player 4 disconnecting....
+[07-09-26 02:36:58.812][info] Disconnecting player 4 finished.
+[07-09-26 02:38:06.695][info] Player with id = '12' tries to connect.
+[07-09-26 02:38:06.695][info] Adding player '12' to chat server.
+[07-09-26 02:38:06.695][info] Player joined to default chats.
+[07-09-26 02:38:06.695][info] Player joined to chat of safehouse '58782,18258 at 1788748157780'.
+[07-09-26 02:38:06.695][info] Player 12(12) joined to chat server successfully.
+[07-09-26 02:39:35.346][info] Player with id = '4' tries to connect.
+[07-09-26 02:39:35.346][info] Adding player '4' to chat server.
+[07-09-26 02:39:35.346][info] Player joined to default chats.
+[07-09-26 02:39:35.346][info] Player joined admin chat.
+[07-09-26 02:39:35.346][info] Player joined to chat of safehouse '13517,4994 at 1788748157780'.
+[07-09-26 02:39:35.346][info] Player 4(4) joined to chat server successfully.
+[07-09-26 02:41:18.055][info] Player with id = '24' tries to connect.
+[07-09-26 02:41:18.055][info] Adding player '24' to chat server.
+[07-09-26 02:41:18.055][info] Player joined to default chats.
+[07-09-26 02:41:18.055][info] Player joined to chat of safehouse '14137,2651 at 1788748157780'.
+[07-09-26 02:41:18.055][info] Player 24(24) joined to chat server successfully.
+[07-09-26 02:41:36.853][info] Player 4 disconnecting....
+[07-09-26 02:41:36.854][info] Disconnecting player 4 finished.
+[07-09-26 02:41:36.854][info] Player 4 disconnecting....
+[07-09-26 02:41:36.854][info] Disconnecting player 4 finished.
+[07-09-26 02:42:25.390][info] Player with id = '20' tries to connect.
+[07-09-26 02:42:25.390][info] Adding player '20' to chat server.
+[07-09-26 02:42:25.390][info] Player joined to default chats.
+[07-09-26 02:42:25.390][info] Player joined to chat of safehouse '12711,8743 at 1788748157777'.
+[07-09-26 02:42:25.390][info] Player 20(20) joined to chat server successfully.
+[07-09-26 02:44:32.460][info] Player with id = '4' tries to connect.
+[07-09-26 02:44:32.460][info] Adding player '4' to chat server.
+[07-09-26 02:44:32.460][info] Player joined to default chats.
+[07-09-26 02:44:32.460][info] Player joined admin chat.
+[07-09-26 02:44:32.460][info] Player 4(4) joined to chat server successfully.
+[07-09-26 02:44:51.917][info] Player with id = '28' tries to connect.
+[07-09-26 02:44:51.917][info] Adding player '28' to chat server.
+[07-09-26 02:44:51.917][info] Player joined to default chats.
+[07-09-26 02:44:51.917][info] Player joined to chat of safehouse '14137,2651 at 1788748157780'.
+[07-09-26 02:44:51.918][info] Player 28(28) joined to chat server successfully.
+[07-09-26 02:45:27.966][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='hi'}.
+[07-09-26 02:45:27.966][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='hi'} sent to chat (id = 1) members.
+[07-09-26 02:46:17.577][info] Got message:ChatMessage{chat=Local, author='Blinkdog81', text='i hope im not jamming up your funky flow'}.
+[07-09-26 02:46:17.577][info] Message ChatMessage{chat=Local, author='Blinkdog81', text='i hope im not jamming up your funky flow'} sent to chat (id = 1) members.
+[07-09-26 02:47:23.626][info] Player 4 disconnecting....
+[07-09-26 02:47:23.626][info] Disconnecting player 4 finished.
+[07-09-26 02:47:23.627][info] Player 4 disconnecting....
+[07-09-26 02:47:23.627][info] Disconnecting player 4 finished.
+[07-09-26 02:50:14.243][info] Player with id = '4' tries to connect.
+[07-09-26 02:50:14.243][info] Adding player '4' to chat server.
+[07-09-26 02:50:14.243][info] Player joined to default chats.
+[07-09-26 02:50:14.243][info] Player joined admin chat.
+[07-09-26 02:50:14.243][info] Player 4(4) joined to chat server successfully.
+[07-09-26 02:52:40.667][info] Player 4 disconnecting....
+[07-09-26 02:52:40.667][info] Disconnecting player 4 finished.
+[07-09-26 02:52:40.667][info] Player 4 disconnecting....
+[07-09-26 02:52:40.667][info] Disconnecting player 4 finished.
+[07-09-26 02:56:33.596][info] Player with id = '4' tries to connect.
+[07-09-26 02:56:33.596][info] Adding player '4' to chat server.
+[07-09-26 02:56:33.596][info] Player joined to default chats.
+[07-09-26 02:56:33.596][info] Player joined admin chat.
+[07-09-26 02:56:33.596][info] Player joined to chat of safehouse '13517,4994 at 1788748157780'.
+[07-09-26 02:56:33.596][info] Player 4(4) joined to chat server successfully.
+[07-09-26 03:03:16.251][info] Player 12 disconnecting....
+[07-09-26 03:03:16.251][info] Disconnecting player 12 finished.
+[07-09-26 03:03:16.251][info] Player 12 disconnecting....
+[07-09-26 03:03:16.251][info] Disconnecting player 12 finished.
+[07-09-26 03:04:44.845][info] Player 4 are leaving admin chat....
+[07-09-26 03:04:44.845][info] Player 4 leaved admin chat.
+[07-09-26 03:06:59.255][info] Player with id = '12' tries to connect.
+[07-09-26 03:06:59.255][info] Adding player '12' to chat server.
+[07-09-26 03:06:59.255][info] Player joined to default chats.
+[07-09-26 03:06:59.255][info] Player joined to chat of safehouse '58782,18258 at 1788748157780'.
+[07-09-26 03:06:59.255][info] Player 12(12) joined to chat server successfully.
+[07-09-26 03:12:02.234][info] Player 4 disconnecting....
+[07-09-26 03:12:02.234][info] Disconnecting player 4 finished.
+[07-09-26 03:12:02.234][info] Player 4 disconnecting....
+[07-09-26 03:12:02.234][info] Disconnecting player 4 finished.
+[07-09-26 03:12:18.973][info] Player 12 disconnecting....
+[07-09-26 03:12:18.973][info] Disconnecting player 12 finished.
+[07-09-26 03:12:18.973][info] Player 12 disconnecting....
+[07-09-26 03:12:18.973][info] Disconnecting player 12 finished.
+[07-09-26 03:13:23.313][info] Player 16 disconnecting....
+[07-09-26 03:13:23.313][info] Disconnecting player 16 finished.
+[07-09-26 03:13:23.313][info] Player 16 disconnecting....
+[07-09-26 03:13:23.313][info] Disconnecting player 16 finished.
+[07-09-26 03:16:09.501][info] Player with id = '4' tries to connect.
+[07-09-26 03:16:09.501][info] Adding player '4' to chat server.
+[07-09-26 03:16:09.501][info] Player joined to default chats.
+[07-09-26 03:16:09.501][info] Player joined to chat of safehouse '58782,18258 at 1788748157780'.
+[07-09-26 03:16:09.501][info] Player 4(4) joined to chat server successfully.
+[07-09-26 03:18:11.940][info] Player with id = '12' tries to connect.
+[07-09-26 03:18:11.941][info] Adding player '12' to chat server.
+[07-09-26 03:18:11.941][info] Player joined to default chats.
+[07-09-26 03:18:11.941][info] Player 12(12) joined to chat server successfully.
+[07-09-26 03:19:07.463][info] Player 12 disconnecting....
+[07-09-26 03:19:07.463][info] Disconnecting player 12 finished.
+[07-09-26 03:19:07.463][info] Player 12 disconnecting....
+[07-09-26 03:19:07.463][info] Disconnecting player 12 finished.
+[07-09-26 03:23:20.180][info] Player with id = '16' tries to connect.
+[07-09-26 03:23:20.180][info] Adding player '16' to chat server.
+[07-09-26 03:23:20.180][info] Player joined to default chats.
+[07-09-26 03:23:20.180][info] Player joined to chat of safehouse '13517,4994 at 1788748157780'.
+[07-09-26 03:23:20.180][info] Player 16(16) joined to chat server successfully.
+[07-09-26 03:24:05.148][info] Player 0 disconnecting....
+[07-09-26 03:24:05.148][info] Disconnecting player 0 finished.
+[07-09-26 03:24:05.149][info] Player 0 disconnecting....
+[07-09-26 03:24:05.149][info] Disconnecting player 0 finished.
+[07-09-26 03:30:12.075][info] Player with id = '0' tries to connect.
+[07-09-26 03:30:12.075][info] Adding player '0' to chat server.
+[07-09-26 03:30:12.075][info] Player joined to default chats.
+[07-09-26 03:30:12.075][info] Player 0(0) joined to chat server successfully.
+[07-09-26 03:32:55.965][info] Player 24 disconnecting....
+[07-09-26 03:32:55.965][info] Disconnecting player 24 finished.
+[07-09-26 03:32:55.965][info] Player 24 disconnecting....
+[07-09-26 03:32:55.965][info] Disconnecting player 24 finished.
+[07-09-26 03:36:06.332][info] Player 16 disconnecting....
+[07-09-26 03:36:06.332][info] Disconnecting player 16 finished.
+[07-09-26 03:36:06.333][info] Player 16 disconnecting....
+[07-09-26 03:36:06.333][info] Disconnecting player 16 finished.
+[07-09-26 03:38:04.903][info] Player with id = '12' tries to connect.
+[07-09-26 03:38:04.903][info] Adding player '12' to chat server.
+[07-09-26 03:38:04.903][info] Player joined to default chats.
+[07-09-26 03:38:04.903][info] Player joined admin chat.
+[07-09-26 03:38:04.903][info] Player 12(12) joined to chat server successfully.
+[07-09-26 03:38:44.055][info] Got message:ChatMessage{chat=Local, author='admin', text='whats uppp'}.
+[07-09-26 03:38:44.055][info] Message ChatMessage{chat=Local, author='admin', text='whats uppp'} sent to chat (id = 1) members.
+[07-09-26 03:38:46.947][info] Got message:ChatMessage{chat=Local, author='admin', text='this is'}.
+[07-09-26 03:38:46.947][info] Message ChatMessage{chat=Local, author='admin', text='this is'} sent to chat (id = 1) members.
+[07-09-26 03:38:47.915][info] Got message:ChatMessage{chat=Local, author='admin', text='wow'}.
+[07-09-26 03:38:47.915][info] Message ChatMessage{chat=Local, author='admin', text='wow'} sent to chat (id = 1) members.
+[07-09-26 03:39:02.168][info] Got message:ChatMessage{chat=Local, author='Danny Sullivan', text='there was way to many'}.
+[07-09-26 03:39:02.168][info] Message ChatMessage{chat=Local, author='Danny Sullivan', text='there was way to many'} sent to chat (id = 1) members.
+[07-09-26 03:39:03.975][info] Got message:ChatMessage{chat=Local, author='admin', text='you want me to just clear em out? you pick  at em already?'}.
+[07-09-26 03:39:03.975][info] Message ChatMessage{chat=Local, author='admin', text='you want me to just clear em out? you pick  at em already?'} sent to chat (id = 1) members.
+[07-09-26 03:39:08.912][info] Player 8 disconnecting....
+[07-09-26 03:39:08.913][info] Disconnecting player 8 finished.
+[07-09-26 03:39:08.913][info] Player 8 disconnecting....
+[07-09-26 03:39:08.913][info] Disconnecting player 8 finished.
+[07-09-26 03:39:18.036][info] Got message:ChatMessage{chat=Local, author='Danny Sullivan', text='not yet no we havent'}.
+[07-09-26 03:39:18.036][info] Message ChatMessage{chat=Local, author='Danny Sullivan', text='not yet no we havent'} sent to chat (id = 1) members.
+[07-09-26 03:39:35.928][info] Got message:ChatMessage{chat=Local, author='admin', text='oh ok didn't know if you were going to dig a grave for every one haha'}.
+[07-09-26 03:39:35.928][info] Message ChatMessage{chat=Local, author='admin', text='oh ok didn't know if you were going to dig a grave for every one haha'} sent to chat (id = 1) members.
+[07-09-26 03:39:49.024][info] Got message:ChatMessage{chat=Local, author='admin', text='i'm going to do the land now'}.
+[07-09-26 03:39:49.024][info] Message ChatMessage{chat=Local, author='admin', text='i'm going to do the land now'} sent to chat (id = 1) members.
+[07-09-26 03:39:52.013][info] Got message:ChatMessage{chat=Local, author='admin', text='property line'}.
+[07-09-26 03:39:52.014][info] Message ChatMessage{chat=Local, author='admin', text='property line'} sent to chat (id = 1) members.
+[07-09-26 03:40:10.711][info] Got message:ChatMessage{chat=Local, author='Danny Sullivan', text='just delete the bodies when you finish that'}.
+[07-09-26 03:40:10.711][info] Message ChatMessage{chat=Local, author='Danny Sullivan', text='just delete the bodies when you finish that'} sent to chat (id = 1) members.
+[07-09-26 03:40:17.450][info] Got message:ChatMessage{chat=Local, author='Danny Sullivan', text='please'}.
+[07-09-26 03:40:17.451][info] Message ChatMessage{chat=Local, author='Danny Sullivan', text='please'} sent to chat (id = 1) members.
+[07-09-26 03:41:53.726][info] Removing safehouse chat '58782,18258 at 1788748157780'....
+[07-09-26 03:41:53.726][info] Safehouse chat '58782,18258 at 1788748157780' removed.
+[07-09-26 03:42:45.124][info] Player with id = '8' tries to connect.
+[07-09-26 03:42:45.124][info] Adding player '8' to chat server.
+[07-09-26 03:42:45.124][info] Player joined to default chats.
+[07-09-26 03:42:45.124][info] Player 8(8) joined to chat server successfully.
+[07-09-26 03:43:04.024][info] Got message:ChatMessage{chat=General, author='admin', text='Danny you are now the proud owner of this property. Bc Lilith isn't on at hte  moment lol'}.
+[07-09-26 03:43:04.024][info] Message ChatMessage{chat=General, author='admin', text='Danny you are now the proud owner of this property. Bc Lilith isn't on at hte  moment lol'} sent to chat (id = 0) members.
+[07-09-26 03:43:12.032][info] Got message:ChatMessage{chat=General, author='admin', text='oh she's back'}.
+[07-09-26 03:43:12.032][info] Message ChatMessage{chat=General, author='admin', text='oh she's back'} sent to chat (id = 0) members.
+[07-09-26 03:43:17.543][info] Got message:ChatMessage{chat=General, author='admin', text='do you want to own the land?'}.
+[07-09-26 03:43:17.544][info] Message ChatMessage{chat=General, author='admin', text='do you want to own the land?'} sent to chat (id = 0) members.
+[07-09-26 03:43:17.677][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='I'm here'}.
+[07-09-26 03:43:17.677][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='I'm here'} sent to chat (id = 0) members.
+[07-09-26 03:43:22.921][info] Got message:ChatMessage{chat=General, author='admin', text='who should I put down'}.
+[07-09-26 03:43:22.921][info] Message ChatMessage{chat=General, author='admin', text='who should I put down'} sent to chat (id = 0) members.
+[07-09-26 03:43:27.547][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Me please'}.
+[07-09-26 03:43:27.547][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Me please'} sent to chat (id = 0) members.
+[07-09-26 03:43:55.711][info] Got message:ChatMessage{chat=General, author='Freya', text='if you can expand my safehouse'}.
+[07-09-26 03:43:55.711][info] Message ChatMessage{chat=General, author='Freya', text='if you can expand my safehouse'} sent to chat (id = 0) members.
+[07-09-26 03:44:00.187][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Also yes I want those bodies gone'}.
+[07-09-26 03:44:00.187][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Also yes I want those bodies gone'} sent to chat (id = 0) members.
+[07-09-26 03:44:19.278][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='And my breeding chickens and turkeys dissappeared when this happened'}.
+[07-09-26 03:44:19.278][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='And my breeding chickens and turkeys dissappeared when this happened'} sent to chat (id = 0) members.
+[07-09-26 03:44:50.879][info] Got message:ChatMessage{chat=General, author='admin', text='ok there you go'}.
+[07-09-26 03:44:50.879][info] Message ChatMessage{chat=General, author='admin', text='ok there you go'} sent to chat (id = 0) members.
+[07-09-26 03:45:03.108][info] Got message:ChatMessage{chat=General, author='admin', text='I can clear the bodies from the whole property'}.
+[07-09-26 03:45:03.108][info] Message ChatMessage{chat=General, author='admin', text='I can clear the bodies from the whole property'} sent to chat (id = 0) members.
+[07-09-26 03:45:08.651][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Please'}.
+[07-09-26 03:45:08.652][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Please'} sent to chat (id = 0) members.
+[07-09-26 03:45:13.167][info] Got message:ChatMessage{chat=General, author='admin', text='are there any that need to be examined or something? looted?'}.
+[07-09-26 03:45:13.168][info] Message ChatMessage{chat=General, author='admin', text='are there any that need to be examined or something? looted?'} sent to chat (id = 0) members.
+[07-09-26 03:45:17.155][info] Got message:ChatMessage{chat=General, author='admin', text='or are your old bodies?'}.
+[07-09-26 03:45:17.155][info] Message ChatMessage{chat=General, author='admin', text='or are your old bodies?'} sent to chat (id = 0) members.
+[07-09-26 03:45:20.744][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='I don't care about the loot'}.
+[07-09-26 03:45:20.745][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='I don't care about the loot'} sent to chat (id = 0) members.
+[07-09-26 03:45:31.949][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='it's just there bodies'}.
+[07-09-26 03:45:31.949][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='it's just there bodies'} sent to chat (id = 0) members.
+[07-09-26 03:45:45.655][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='They make it stink so bad XD'}.
+[07-09-26 03:45:45.655][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='They make it stink so bad XD'} sent to chat (id = 0) members.
+[07-09-26 03:46:05.927][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Thank you!'}.
+[07-09-26 03:46:05.927][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Thank you!'} sent to chat (id = 0) members.
+[07-09-26 03:46:15.795][info] Got message:ChatMessage{chat=General, author='admin', text='woop there it is'}.
+[07-09-26 03:46:15.795][info] Message ChatMessage{chat=General, author='admin', text='woop there it is'} sent to chat (id = 0) members.
+[07-09-26 03:46:31.479][info] Got message:ChatMessage{chat=Local, author='admin', text='hi'}.
+[07-09-26 03:46:31.479][info] Message ChatMessage{chat=Local, author='admin', text='hi'} sent to chat (id = 1) members.
+[07-09-26 03:46:36.279][info] Got message:ChatMessage{chat=Local, author='Freya', text='hi'}.
+[07-09-26 03:46:36.279][info] Message ChatMessage{chat=Local, author='Freya', text='hi'} sent to chat (id = 1) members.
+[07-09-26 03:46:43.071][info] Start syncing safehouse chat '1925,8515 at 1788752685637'....
+[07-09-26 03:46:43.071][warning] Safehouse chat '1925,8515 at 1788752685637' is not exist.
+[07-09-26 03:47:00.588][info] Got message:ChatMessage{chat=Local, author='Freya', text='i wanted to expand the safehouse so i start building the walls'}.
+[07-09-26 03:47:00.588][info] Message ChatMessage{chat=Local, author='Freya', text='i wanted to expand the safehouse so i start building the walls'} sent to chat (id = 1) members.
+[07-09-26 03:47:24.804][info] Got message:ChatMessage{chat=Local, author='admin', text='ok cool. i'll draw it out and send to safehouse and then do it if it's good'}.
+[07-09-26 03:47:24.804][info] Message ChatMessage{chat=Local, author='admin', text='ok cool. i'll draw it out and send to safehouse and then do it if it's good'} sent to chat (id = 1) members.
+[07-09-26 03:47:29.943][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Can I get a male chicken and male turkey please?'}.
+[07-09-26 03:47:29.943][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Can I get a male chicken and male turkey please?'} sent to chat (id = 0) members.
+[07-09-26 03:47:34.255][info] Got message:ChatMessage{chat=Local, author='Freya', text='ok'}.
+[07-09-26 03:47:34.255][info] Message ChatMessage{chat=Local, author='Freya', text='ok'} sent to chat (id = 1) members.
+[07-09-26 03:47:44.014][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Mine dissapeared because of the horde'}.
+[07-09-26 03:47:44.014][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Mine dissapeared because of the horde'} sent to chat (id = 0) members.
+[07-09-26 03:48:32.566][info] Player 28 disconnecting....
+[07-09-26 03:48:32.566][info] Disconnecting player 28 finished.
+[07-09-26 03:48:32.567][info] Player 28 disconnecting....
+[07-09-26 03:48:32.567][info] Disconnecting player 28 finished.
+[07-09-26 03:50:24.645][info] Removing safehouse chat '12711,8743 at 1788748157777'....
+[07-09-26 03:50:24.645][info] Safehouse chat '12711,8743 at 1788748157777' removed.
+[07-09-26 03:52:13.528][info] Player 12 disconnecting....
+[07-09-26 03:52:13.528][info] Disconnecting player 12 finished.
+[07-09-26 03:52:13.528][info] Player 12 disconnecting....
+[07-09-26 03:52:13.528][info] Disconnecting player 12 finished.
+[07-09-26 04:02:46.255][info] Player with id = '12' tries to connect.
+[07-09-26 04:02:46.255][info] Adding player '12' to chat server.
+[07-09-26 04:02:46.256][info] Player joined to default chats.
+[07-09-26 04:02:46.256][info] Player joined to chat of safehouse '13517,4994 at 1788748157780'.
+[07-09-26 04:02:46.256][info] Player 12(12) joined to chat server successfully.
+[07-09-26 04:08:05.668][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='WTF'}.
+[07-09-26 04:08:05.668][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='WTF'} sent to chat (id = 1) members.
+[07-09-26 04:08:08.976][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='MY CHICKEN NUGGETS'}.
+[07-09-26 04:08:08.976][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='MY CHICKEN NUGGETS'} sent to chat (id = 1) members.
+[07-09-26 04:37:59.751][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='apologies. time has been going slower than usual'}.
+[07-09-26 04:37:59.751][info] Message ChatMessage{chat=General, author='ServerDaddy', text='apologies. time has been going slower than usual'} sent to chat (id = 0) members.
+[07-09-26 04:38:03.092][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='just ever so slightly'}.
+[07-09-26 04:38:03.092][info] Message ChatMessage{chat=General, author='ServerDaddy', text='just ever so slightly'} sent to chat (id = 0) members.
+[07-09-26 04:38:15.811][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i just corrected the setting. but won't be til next restart - no rush'}.
+[07-09-26 04:38:15.811][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i just corrected the setting. but won't be til next restart - no rush'} sent to chat (id = 0) members.
+[07-09-26 04:38:25.211][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='but i was like... does it feel slow or am i drunk?'}.
+[07-09-26 04:38:25.211][info] Message ChatMessage{chat=General, author='ServerDaddy', text='but i was like... does it feel slow or am i drunk?'} sent to chat (id = 0) members.
+[07-09-26 04:39:15.182][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='It is very slow'}.
+[07-09-26 04:39:15.182][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='It is very slow'} sent to chat (id = 0) members.
+[07-09-26 04:42:33.186][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='And no ur not drunk XD'}.
+[07-09-26 04:42:33.186][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='And no ur not drunk XD'} sent to chat (id = 0) members.
+[07-09-26 04:42:42.283][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Also we can whenever you want'}.
+[07-09-26 04:42:42.284][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Also we can whenever you want'} sent to chat (id = 0) members.
+[07-09-26 04:42:59.507][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Just let me know, I'll have him pull over'}.
+[07-09-26 04:42:59.508][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Just let me know, I'll have him pull over'} sent to chat (id = 0) members.
+[07-09-26 04:44:28.759][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='if blink and freya want., i'm find with waiting'}.
+[07-09-26 04:44:28.759][info] Message ChatMessage{chat=General, author='ServerDaddy', text='if blink and freya want., i'm find with waiting'} sent to chat (id = 0) members.
+[07-09-26 04:44:39.267][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='i could use the long day tonight and let it happen later'}.
+[07-09-26 04:44:39.267][info] Message ChatMessage{chat=General, author='ServerDaddy', text='i could use the long day tonight and let it happen later'} sent to chat (id = 0) members.
+[07-09-26 04:44:45.437][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='the night has taken so long though'}.
+[07-09-26 04:44:45.437][info] Message ChatMessage{chat=General, author='ServerDaddy', text='the night has taken so long though'} sent to chat (id = 0) members.
+[07-09-26 04:45:32.754][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='I agree XD everyday feels like an hour long'}.
+[07-09-26 04:45:32.754][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='I agree XD everyday feels like an hour long'} sent to chat (id = 0) members.
+[07-09-26 04:46:19.121][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='everything has been 50% longer lol'}.
+[07-09-26 04:46:19.121][info] Message ChatMessage{chat=General, author='ServerDaddy', text='everything has been 50% longer lol'} sent to chat (id = 0) members.
+[07-09-26 04:46:25.610][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='it was set to 1.5 hours per day'}.
+[07-09-26 04:46:25.610][info] Message ChatMessage{chat=General, author='ServerDaddy', text='it was set to 1.5 hours per day'} sent to chat (id = 0) members.
+[07-09-26 04:46:31.244][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='instead of 1h = 1 day'}.
+[07-09-26 04:46:31.244][info] Message ChatMessage{chat=General, author='ServerDaddy', text='instead of 1h = 1 day'} sent to chat (id = 0) members.
+[07-09-26 04:46:45.405][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='XD'}.
+[07-09-26 04:46:45.405][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='XD'} sent to chat (id = 0) members.
+[07-09-26 05:02:58.275][info] Got message:ChatMessage{chat=General, author='Freya', text='rip'}.
+[07-09-26 05:02:58.275][info] Message ChatMessage{chat=General, author='Freya', text='rip'} sent to chat (id = 0) members.
+[07-09-26 05:03:02.479][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='oh my'}.
+[07-09-26 05:03:02.479][info] Message ChatMessage{chat=General, author='ServerDaddy', text='oh my'} sent to chat (id = 0) members.
+[07-09-26 05:03:05.723][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='RIP'}.
+[07-09-26 05:03:05.723][info] Message ChatMessage{chat=General, author='ServerDaddy', text='RIP'} sent to chat (id = 0) members.
+[07-09-26 05:03:31.740][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Did you fall asleep Blink?'}.
+[07-09-26 05:03:31.740][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Did you fall asleep Blink?'} sent to chat (id = 0) members.
+[07-09-26 05:05:17.305][info] Player 0 disconnecting....
+[07-09-26 05:05:17.305][info] Disconnecting player 0 finished.
+[07-09-26 05:05:17.306][info] Player with id = '0' tries to connect.
+[07-09-26 05:05:17.306][info] Adding player '0' to chat server.
+[07-09-26 05:05:17.306][error] Player or connection is not found on server!.
+[07-09-26 05:05:17.307][error] player = null.
+[07-09-26 05:05:24.639][info] Player with id = '0' tries to connect.
+[07-09-26 05:05:24.639][info] Adding player '0' to chat server.
+[07-09-26 05:05:24.639][info] Player joined to default chats.
+[07-09-26 05:05:24.639][info] Player 0(0) joined to chat server successfully.
+[07-09-26 05:05:36.083][info] Got message:ChatMessage{chat=General, author='Blinkdog81', text='no, im going to blame it on mod trouble'}.
+[07-09-26 05:05:36.083][info] Message ChatMessage{chat=General, author='Blinkdog81', text='no, im going to blame it on mod trouble'} sent to chat (id = 0) members.
+[07-09-26 05:05:42.135][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='xD'}.
+[07-09-26 05:05:42.135][info] Message ChatMessage{chat=General, author='ServerDaddy', text='xD'} sent to chat (id = 0) members.
+[07-09-26 05:21:26.253][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='hey'}.
+[07-09-26 05:21:26.253][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='hey'} sent to chat (id = 2) members.
+[07-09-26 05:21:31.151][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='psst'}.
+[07-09-26 05:21:31.151][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='psst'} sent to chat (id = 2) members.
+[07-09-26 05:21:36.441][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='hey'}.
+[07-09-26 05:21:36.441][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='hey'} sent to chat (id = 2) members.
+[07-09-26 05:21:42.102][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='psst'}.
+[07-09-26 05:21:42.102][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='psst'} sent to chat (id = 2) members.
+[07-09-26 05:21:52.789][info] Got message:ChatMessage{chat=Local, author='ServerDaddy', text='hey'}.
+[07-09-26 05:21:52.789][info] Message ChatMessage{chat=Local, author='ServerDaddy', text='hey'} sent to chat (id = 2) members.
+[07-09-26 05:30:12.727][info] Player 0 disconnecting....
+[07-09-26 05:30:12.728][info] Disconnecting player 0 finished.
+[07-09-26 05:30:12.728][info] Player 0 disconnecting....
+[07-09-26 05:30:12.728][info] Disconnecting player 0 finished.
+[07-09-26 05:32:28.479][info] Got message:ChatMessage{chat=General, author='ServerDaddy', text='ooop we have another workshop item restart'}.
+[07-09-26 05:32:28.479][info] Message ChatMessage{chat=General, author='ServerDaddy', text='ooop we have another workshop item restart'} sent to chat (id = 0) members.
+[07-09-26 05:32:41.647][info] Got message:ChatMessage{chat=General, author='Lilith Sullivan', text='Alright we logging'}.
+[07-09-26 05:32:41.647][info] Message ChatMessage{chat=General, author='Lilith Sullivan', text='Alright we logging'} sent to chat (id = 0) members.
+[07-09-26 05:32:47.985][info] Player 4 disconnecting....
+[07-09-26 05:32:47.985][info] Disconnecting player 4 finished.
+[07-09-26 05:32:47.985][info] Player 4 disconnecting....
+[07-09-26 05:32:47.985][info] Disconnecting player 4 finished.
+[07-09-26 05:32:54.157][info] Player 8 disconnecting....
+[07-09-26 05:32:54.157][info] Disconnecting player 8 finished.
+[07-09-26 05:32:54.157][info] Player 8 disconnecting....
+[07-09-26 05:32:54.158][info] Disconnecting player 8 finished.
+[07-09-26 05:33:10.439][info] Got message:ChatMessage{chat=General, author='Freya', text='ok here we go'}.
+[07-09-26 05:33:10.439][info] Message ChatMessage{chat=General, author='Freya', text='ok here we go'} sent to chat (id = 0) members.
+[07-09-26 05:33:18.219][info] Player 20 disconnecting....
+[07-09-26 05:33:18.219][info] Disconnecting player 20 finished.
+[07-09-26 05:33:18.219][info] Player 20 disconnecting....
+[07-09-26 05:33:18.219][info] Disconnecting player 20 finished.
+[07-09-26 05:33:32.832][info] Player 12 disconnecting....
+[07-09-26 05:33:32.833][info] Disconnecting player 12 finished.
+[07-09-26 05:33:32.833][info] Player 12 disconnecting....
+[07-09-26 05:33:32.833][info] Disconnecting player 12 finished.

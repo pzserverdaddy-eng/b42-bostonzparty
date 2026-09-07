@@ -1,0 +1,178 @@
+[06-09-26 20:11:17.895] event="RakNet" message="new-incoming-connection" guid="662029146045470668" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 20:11:19.401] event="receive-packet" message="login" guid="662029146045470668" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 20:11:19.420] event="receive-packet" message="client-connect" guid="662029146045470668" ip="74.131.33.28" steam-id="76561198308440766" role="user" username="Legofanhead" connection-type="UDPRakNet".
+[06-09-26 20:11:19.535] event="send-packet" message="connection-details" guid="662029146045470668" ip="74.131.33.28" steam-id="76561198308440766" role="user" username="Legofanhead" connection-type="UDPRakNet".
+[06-09-26 20:11:47.772] event="RakNet" message="new-incoming-connection" guid="157625987049759929" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 20:11:48.179] event="receive-packet" message="login-queue-request" guid="662029146045470668" ip="74.131.33.28" steam-id="76561198308440766" role="user" username="Legofanhead" connection-type="UDPRakNet".
+[06-09-26 20:11:49.730] event="receive-packet" message="login" guid="157625987049759929" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 20:11:49.735] event="receive-packet" message="client-connect" guid="157625987049759929" ip="84.203.77.41" steam-id="76561197983854611" role="user" username="Krom" connection-type="UDPRakNet".
+[06-09-26 20:11:49.785] event="send-packet" message="connection-details" guid="157625987049759929" ip="84.203.77.41" steam-id="76561197983854611" role="user" username="Krom" connection-type="UDPRakNet".
+[06-09-26 20:11:58.751] event="receive-packet" message="login-queue-done" guid="662029146045470668" ip="74.131.33.28" steam-id="76561198308440766" role="user" username="Legofanhead" connection-type="UDPRakNet".
+[06-09-26 20:12:04.990] event="receive-packet" message="player-connect" guid="662029146045470668" ip="74.131.33.28" steam-id="76561198308440766" role="user" username="Legofanhead" connection-type="UDPRakNet".
+[06-09-26 20:12:05.122] event="fully-connected" message="" guid="662029146045470668" ip="74.131.33.28" steam-id="76561198308440766" role="user" username="Legofanhead" connection-type="UDPRakNet".
+[06-09-26 20:14:13.530] event="receive-packet" message="login-queue-request" guid="157625987049759929" ip="84.203.77.41" steam-id="76561197983854611" role="user" username="Krom" connection-type="UDPRakNet".
+[06-09-26 20:14:58.169] event="receive-packet" message="login-queue-done" guid="157625987049759929" ip="84.203.77.41" steam-id="76561197983854611" role="user" username="Krom" connection-type="UDPRakNet".
+[06-09-26 20:15:12.511] event="receive-packet" message="player-connect" guid="157625987049759929" ip="84.203.77.41" steam-id="76561197983854611" role="user" username="Krom" connection-type="UDPRakNet".
+[06-09-26 20:15:12.525] event="fully-connected" message="" guid="157625987049759929" ip="84.203.77.41" steam-id="76561197983854611" role="user" username="Krom" connection-type="UDPRakNet".
+[06-09-26 20:18:21.683] event="RakNet" message="new-incoming-connection" guid="734086798532566483" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 20:18:26.127] event="receive-packet" message="login" guid="734086798532566483" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 20:18:26.174] event="receive-packet" message="client-connect" guid="734086798532566483" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 20:18:26.204] event="send-packet" message="connection-details" guid="734086798532566483" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 20:19:52.523] event="receive-packet" message="login-queue-request" guid="734086798532566483" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 20:20:58.171] event="receive-packet" message="login-queue-done" guid="734086798532566483" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 20:22:39.094] event="receive-packet" message="player-connect" guid="734086798532566483" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 20:22:39.122] event="fully-connected" message="" guid="734086798532566483" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 20:22:57.792] event="RakNet" message="new-incoming-connection" guid="4503603456696092" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 20:22:59.362] event="receive-packet" message="login" guid="4503603456696092" ip="null" steam-id="0" role="" username="null" connection-type="Steam".
+[06-09-26 20:22:59.380] event="receive-packet" message="client-connect" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 20:22:59.421] event="send-packet" message="connection-details" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 20:23:22.339] event="receive-packet" message="login-queue-request" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 20:23:42.183] event="receive-packet" message="login-queue-done" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 20:23:43.967] event="receive-packet" message="player-connect" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 20:23:43.972] event="fully-connected" message="" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 20:24:42.229] event="RakNet" message="new-incoming-connection" guid="63050403736259973" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 20:24:43.755] event="receive-packet" message="login" guid="63050403736259973" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 20:24:43.768] event="receive-packet" message="client-connect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 20:24:43.813] event="send-packet" message="connection-details" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 20:26:19.970] event="receive-packet" message="login-queue-request" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 20:26:51.471] event="receive-packet" message="login-queue-done" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 20:26:59.335] event="receive-packet" message="player-connect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 20:26:59.347] event="fully-connected" message="" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 20:36:27.367] event="RakNet" message="disconnection-notification" guid="734086798532566483".
+[06-09-26 20:36:43.418] event="disconnect" message="receive-disconnect" guid="734086798532566483" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="Disconnected".
+[06-09-26 21:01:49.799] event="RakNet" message="disconnection-notification" guid="157625987049759929".
+[06-09-26 21:01:49.813] event="disconnect" message="receive-disconnect" guid="157625987049759929" ip="84.203.77.41" steam-id="76561197983854611" role="user" username="Krom" connection-type="Disconnected".
+[06-09-26 21:02:48.825] event="RakNet" message="new-incoming-connection" guid="1053842494681104851" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 21:02:52.065] event="receive-packet" message="login" guid="1053842494681104851" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 21:02:52.073] event="receive-packet" message="client-connect" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[06-09-26 21:02:52.099] event="send-packet" message="connection-details" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[06-09-26 21:05:05.287] event="receive-packet" message="login-queue-request" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[06-09-26 21:06:34.311] event="receive-packet" message="login-queue-done" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[06-09-26 21:07:02.697] event="receive-packet" message="player-connect" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[06-09-26 21:07:02.719] event="fully-connected" message="" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[06-09-26 21:55:42.449] event="RakNet" message="new-incoming-connection" guid="1085367514733253253" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 21:55:44.167] event="receive-packet" message="login" guid="1085367514733253253" ip="null" steam-id="0" role="" username="null" connection-type="Steam".
+[06-09-26 21:55:44.171] event="receive-packet" message="client-connect" guid="1085367514733253253" ip="101.146.239.143" steam-id="76561198093780693" role="user" username="Danny Sullivan" connection-type="Steam".
+[06-09-26 21:55:44.223] event="send-packet" message="connection-details" guid="1085367514733253253" ip="101.146.239.143" steam-id="76561198093780693" role="user" username="Danny Sullivan" connection-type="Steam".
+[06-09-26 21:57:09.079] event="RakNet" message="new-incoming-connection" guid="909728511317197095" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 21:57:10.783] event="receive-packet" message="login" guid="909728511317197095" ip="null" steam-id="0" role="" username="null" connection-type="Steam".
+[06-09-26 21:57:10.803] event="receive-packet" message="client-connect" guid="909728511317197095" ip="166.100.200.148" steam-id="76561198254867641" role="user" username="Lilith Sullivan" connection-type="Steam".
+[06-09-26 21:57:10.867] event="send-packet" message="connection-details" guid="909728511317197095" ip="166.100.200.148" steam-id="76561198254867641" role="user" username="Lilith Sullivan" connection-type="Steam".
+[06-09-26 21:57:18.563] event="receive-packet" message="login-queue-request" guid="1085367514733253253" ip="101.146.239.143" steam-id="76561198093780693" role="user" username="Danny Sullivan" connection-type="Steam".
+[06-09-26 21:57:41.230] event="receive-packet" message="login-queue-done" guid="1085367514733253253" ip="101.146.239.143" steam-id="76561198093780693" role="user" username="Danny Sullivan" connection-type="Steam".
+[06-09-26 21:57:43.695] event="receive-packet" message="player-connect" guid="1085367514733253253" ip="101.146.239.143" steam-id="76561198093780693" role="user" username="Danny Sullivan" connection-type="Steam".
+[06-09-26 21:57:43.708] event="fully-connected" message="" guid="1085367514733253253" ip="101.146.239.143" steam-id="76561198093780693" role="user" username="Danny Sullivan" connection-type="Steam".
+[06-09-26 21:58:08.340] event="receive-packet" message="login-queue-request" guid="909728511317197095" ip="166.100.200.148" steam-id="76561198254867641" role="user" username="Lilith Sullivan" connection-type="Steam".
+[06-09-26 21:58:31.141] event="receive-packet" message="login-queue-done" guid="909728511317197095" ip="166.100.200.148" steam-id="76561198254867641" role="user" username="Lilith Sullivan" connection-type="Steam".
+[06-09-26 21:58:40.034] event="receive-packet" message="player-connect" guid="909728511317197095" ip="166.100.200.148" steam-id="76561198254867641" role="user" username="Lilith Sullivan" connection-type="Steam".
+[06-09-26 21:58:40.047] event="fully-connected" message="" guid="909728511317197095" ip="166.100.200.148" steam-id="76561198254867641" role="user" username="Lilith Sullivan" connection-type="Steam".
+[06-09-26 22:49:48.713] event="RakNet" message="new-incoming-connection" guid="94575660539603156" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 22:49:54.130] event="receive-packet" message="login" guid="94575660539603156" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 22:49:54.147] event="receive-packet" message="client-connect" guid="94575660539603156" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 22:49:54.177] event="send-packet" message="connection-details" guid="94575660539603156" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 22:51:09.824] event="receive-packet" message="login-queue-request" guid="94575660539603156" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 22:52:13.015] event="receive-packet" message="login-queue-done" guid="94575660539603156" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 22:53:24.286] event="receive-packet" message="player-connect" guid="94575660539603156" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 22:53:24.295] event="fully-connected" message="" guid="94575660539603156" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 22:56:18.331] event="RakNet" message="disconnection-notification" guid="63050403736259973".
+[06-09-26 22:56:18.371] event="disconnect" message="receive-disconnect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="Disconnected".
+[06-09-26 23:10:09.976] event="RakNet" message="new-incoming-connection" guid="139611909466687565" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 23:10:11.931] event="receive-packet" message="login" guid="139611909466687565" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 23:10:11.960] event="receive-packet" message="client-connect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:10:11.999] event="send-packet" message="connection-details" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:10:42.665] event="receive-packet" message="login-queue-request" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:11:07.371] event="receive-packet" message="login-queue-done" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:11:25.212] event="receive-packet" message="player-connect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:11:25.220] event="fully-connected" message="" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:12:26.056] event="RakNet" message="disconnection-notification" guid="94575660539603156".
+[06-09-26 23:12:26.091] event="disconnect" message="receive-disconnect" guid="94575660539603156" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="Disconnected".
+[06-09-26 23:16:37.117] event="RakNet" message="new-incoming-connection" guid="234187250570834026" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 23:16:38.743] event="receive-packet" message="login" guid="234187250570834026" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 23:16:38.768] event="receive-packet" message="client-connect" guid="234187250570834026" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 23:16:38.797] event="send-packet" message="connection-details" guid="234187250570834026" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 23:17:37.609] event="receive-packet" message="login-queue-request" guid="234187250570834026" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 23:18:39.793] event="receive-packet" message="login-queue-done" guid="234187250570834026" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 23:22:06.547] event="receive-packet" message="player-connect" guid="234187250570834026" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 23:22:06.558] event="fully-connected" message="" guid="234187250570834026" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[06-09-26 23:22:27.871] event="RakNet" message="new-incoming-connection" guid="63050403736259973" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 23:22:30.306] event="receive-packet" message="login" guid="63050403736259973" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 23:22:30.316] event="receive-packet" message="client-connect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:22:30.358] event="send-packet" message="connection-details" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:22:55.204] event="receive-packet" message="login-queue-request" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:23:06.856] event="receive-packet" message="login-queue-done" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:23:23.258] event="receive-packet" message="player-connect" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[06-09-26 23:23:23.263] event="fully-connected" message="" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="UDPRakNet".
+[06-09-26 23:24:03.754] event="receive-packet" message="player-connect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:24:03.759] event="fully-connected" message="" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:25:57.551] event="RakNet" message="disconnection-notification" guid="139611909466687565".
+[06-09-26 23:25:57.625] event="disconnect" message="receive-disconnect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="Disconnected".
+[06-09-26 23:26:32.713] event="RakNet" message="new-incoming-connection" guid="139611909466687565" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 23:26:34.179] event="receive-packet" message="login" guid="139611909466687565" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 23:26:34.203] event="receive-packet" message="client-connect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".
+[06-09-26 23:26:34.243] event="send-packet" message="connection-details" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".
+[06-09-26 23:27:00.102] event="receive-packet" message="login-queue-request" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".
+[06-09-26 23:27:11.720] event="receive-packet" message="login-queue-done" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".
+[06-09-26 23:27:14.661] event="receive-packet" message="player-connect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".
+[06-09-26 23:27:14.671] event="fully-connected" message="" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="UDPRakNet".
+[06-09-26 23:35:28.803] event="RakNet" message="disconnection-notification" guid="139611909466687565".
+[06-09-26 23:35:28.886] event="disconnect" message="receive-disconnect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="admin" username="admin" connection-type="Disconnected".
+[06-09-26 23:37:07.353] event="RakNet" message="new-incoming-connection" guid="139611909466687565" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 23:37:09.005] event="receive-packet" message="login" guid="139611909466687565" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 23:37:09.013] event="receive-packet" message="client-connect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:37:09.042] event="send-packet" message="connection-details" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:37:46.738] event="receive-packet" message="login-queue-request" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:38:01.923] event="receive-packet" message="login-queue-done" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:39:11.500] event="receive-packet" message="player-connect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:39:11.511] event="fully-connected" message="" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="UDPRakNet".
+[06-09-26 23:47:10.104] event="kick" message="UI_ValidationFailed" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:47:10.104] event="force-disconnect" message="AntiCheatHit" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:47:10.259] event="RakNet" message="disconnection-notification" guid="63050403736259973".
+[06-09-26 23:47:10.284] event="disconnect" message="receive-disconnect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="Disconnected".
+[06-09-26 23:55:57.297] event="RakNet" message="new-incoming-connection" guid="63050403736259973" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[06-09-26 23:56:01.531] event="receive-packet" message="login" guid="63050403736259973" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[06-09-26 23:56:01.535] event="receive-packet" message="client-connect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:56:01.571] event="send-packet" message="connection-details" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:56:30.266] event="receive-packet" message="login-queue-request" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:56:55.335] event="receive-packet" message="login-queue-done" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:57:26.797] event="receive-packet" message="player-connect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:57:26.816] event="fully-connected" message="" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="UDPRakNet".
+[06-09-26 23:57:52.795] event="kick" message="UI_ValidationFailed" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 23:57:52.795] event="force-disconnect" message="AntiCheatHit" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 23:57:53.379] event="disconnect" message="receive-disconnect" guid="4503603456696092" ip="128.203.16.68" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[06-09-26 23:58:02.846] event="RakNet" message="disconnection-notification" guid="4503603456696092".
+[07-09-26 00:01:33.649] event="RakNet" message="new-incoming-connection" guid="4503603456696092" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[07-09-26 00:01:35.237] event="receive-packet" message="login" guid="4503603456696092" ip="null" steam-id="0" role="" username="null" connection-type="Steam".
+[07-09-26 00:01:35.258] event="receive-packet" message="client-connect" guid="4503603456696092" ip="53.238.214.81" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[07-09-26 00:01:35.332] event="send-packet" message="connection-details" guid="4503603456696092" ip="53.238.214.81" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[07-09-26 00:01:53.427] event="receive-packet" message="login-queue-request" guid="4503603456696092" ip="53.238.214.81" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[07-09-26 00:02:14.703] event="receive-packet" message="login-queue-done" guid="4503603456696092" ip="53.238.214.81" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[07-09-26 00:02:19.298] event="receive-packet" message="player-connect" guid="4503603456696092" ip="53.238.214.81" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[07-09-26 00:02:19.308] event="fully-connected" message="" guid="4503603456696092" ip="53.238.214.81" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Steam".
+[07-09-26 00:31:54.098] event="RakNet" message="disconnection-notification" guid="234187250570834026".
+[07-09-26 00:31:54.137] event="disconnect" message="receive-disconnect" guid="234187250570834026" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="Disconnected".
+[07-09-26 00:32:11.905] event="RakNet" message="disconnection-notification" guid="662029146045470668".
+[07-09-26 00:32:13.139] event="disconnect" message="receive-disconnect" guid="662029146045470668" ip="74.131.33.28" steam-id="76561198308440766" role="user" username="Legofanhead" connection-type="Disconnected".
+[07-09-26 00:32:19.795] event="RakNet" message="disconnection-notification" guid="909728511317197095".
+[07-09-26 00:32:22.990] event="disconnect" message="receive-disconnect" guid="909728511317197095" ip="166.100.200.148" steam-id="76561198254867641" role="user" username="Lilith Sullivan" connection-type="Disconnected".
+[07-09-26 00:32:24.568] event="RakNet" message="disconnection-notification" guid="1085367514733253253".
+[07-09-26 00:32:24.955] event="disconnect" message="receive-disconnect" guid="1085367514733253253" ip="101.146.239.143" steam-id="76561198093780693" role="user" username="Danny Sullivan" connection-type="Disconnected".
+[07-09-26 00:37:46.154] event="RakNet" message="new-incoming-connection" guid="40532471484637323" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[07-09-26 00:37:47.813] event="receive-packet" message="login" guid="40532471484637323" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[07-09-26 00:37:47.835] event="receive-packet" message="client-connect" guid="40532471484637323" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[07-09-26 00:37:47.868] event="send-packet" message="connection-details" guid="40532471484637323" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[07-09-26 00:38:32.219] event="RakNet" message="disconnection-notification" guid="139611909466687565".
+[07-09-26 00:38:32.239] event="disconnect" message="receive-disconnect" guid="139611909466687565" ip="70.22.189.119" steam-id="76561198148801188" role="user" username="ServerDaddy" connection-type="Disconnected".
+[07-09-26 00:39:26.811] event="RakNet" message="disconnection-notification" guid="40532471484637323".
+[07-09-26 00:39:26.823] event="disconnect" message="receive-disconnect" guid="40532471484637323" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="Disconnected".
+[07-09-26 00:39:34.409] event="RakNet" message="new-incoming-connection" guid="40532471484637323" ip="null" steam-id="0" role="" username="null" connection-type="Disconnected".
+[07-09-26 00:39:35.985] event="receive-packet" message="login" guid="40532471484637323" ip="null" steam-id="0" role="" username="null" connection-type="UDPRakNet".
+[07-09-26 00:39:35.997] event="receive-packet" message="client-connect" guid="40532471484637323" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[07-09-26 00:39:36.028] event="send-packet" message="connection-details" guid="40532471484637323" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="UDPRakNet".
+[07-09-26 00:39:36.515] event="RakNet" message="disconnection-notification" guid="40532471484637323".
+[07-09-26 00:39:36.590] event="disconnect" message="receive-disconnect" guid="40532471484637323" ip="63.155.9.247" steam-id="76561198165650138" role="user" username="Blinkdog81" connection-type="Disconnected".
+[07-09-26 00:40:14.244] event="RakNet" message="disconnection-notification" guid="4503603456696092".
+[07-09-26 00:40:14.250] event="disconnect" message="receive-disconnect" guid="4503603456696092" ip="53.238.214.81" steam-id="76561199471776312" role="user" username="Sledge40" connection-type="Disconnected".
+[07-09-26 00:40:24.692] event="RakNet" message="disconnection-notification" guid="63050403736259973".
+[07-09-26 00:40:24.706] event="disconnect" message="receive-disconnect" guid="63050403736259973" ip="100.0.214.237" steam-id="76561199133759071" role="user" username="Tymbomb" connection-type="Disconnected".
+[07-09-26 00:40:43.950] event="RakNet" message="disconnection-notification" guid="1053842494681104851".
+[07-09-26 00:40:43.962] event="disconnect" message="receive-disconnect" guid="1053842494681104851" ip="186.128.227.208" steam-id="76561198174205053" role="user" username="Freya" connection-type="Disconnected".

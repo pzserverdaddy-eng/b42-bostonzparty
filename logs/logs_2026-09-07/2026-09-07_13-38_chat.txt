@@ -1,0 +1,45 @@
+[07-09-26 13:40:13.537][info] Start chat server initialization....
+[07-09-26 13:40:13.541][info] General chat has id = 0.
+[07-09-26 13:40:13.541][info] Say chat has id = 1.
+[07-09-26 13:40:13.541][info] Shout chat has id = 2.
+[07-09-26 13:40:13.541][info] Radio chat has id = 3.
+[07-09-26 13:40:13.541][info] Admin chat has id = 4.
+[07-09-26 13:40:13.541][info] Server chat has id = 5.
+[07-09-26 13:40:13.541][info] Chat server successfully initialized.
+[07-09-26 13:41:01.139][info] Creating safehouse chat '14137,2651 at 1788788461137'.
+[07-09-26 13:41:01.139][info] Safehouse chat '14137,2651 at 1788788461137' created.
+[07-09-26 13:41:01.139][info] Creating safehouse chat '13517,4994 at 1788788461139'.
+[07-09-26 13:41:01.139][info] Safehouse chat '13517,4994 at 1788788461139' created.
+[07-09-26 13:41:01.140][info] Creating safehouse chat '8777,11583 at 1788788461140'.
+[07-09-26 13:41:01.140][info] Safehouse chat '8777,11583 at 1788788461140' created.
+[07-09-26 13:41:01.140][info] Creating safehouse chat '1925,8515 at 1788788461140'.
+[07-09-26 13:41:01.140][info] Safehouse chat '1925,8515 at 1788788461140' created.
+[07-09-26 13:41:01.140][info] Creating safehouse chat '12672,8682 at 1788788461140'.
+[07-09-26 13:41:01.140][info] Safehouse chat '12672,8682 at 1788788461140' created.
+[07-09-26 13:45:57.788][info] Player with id = '0' tries to connect.
+[07-09-26 13:45:57.788][info] Adding player '0' to chat server.
+[07-09-26 13:45:57.790][info] Player joined to default chats.
+[07-09-26 13:45:57.790][info] Player joined to chat of safehouse '14137,2651 at 1788788461137'.
+[07-09-26 13:45:57.790][info] Player 0(0) joined to chat server successfully.
+[07-09-26 13:48:59.928][info] Player with id = '4' tries to connect.
+[07-09-26 13:48:59.929][info] Adding player '4' to chat server.
+[07-09-26 13:48:59.929][info] Player joined to default chats.
+[07-09-26 13:48:59.929][info] Player joined to chat of safehouse '1925,8515 at 1788788461140'.
+[07-09-26 13:48:59.929][info] Player 4(4) joined to chat server successfully.
+[07-09-26 13:56:41.302][info] Player with id = '8' tries to connect.
+[07-09-26 13:56:41.302][info] Adding player '8' to chat server.
+[07-09-26 13:56:41.303][info] Player joined to default chats.
+[07-09-26 13:56:41.303][info] Player joined to chat of safehouse '14137,2651 at 1788788461137'.
+[07-09-26 13:56:41.303][info] Player 8(8) joined to chat server successfully.
+[07-09-26 14:09:38.536][info] Player 8 disconnecting....
+[07-09-26 14:09:38.537][info] Disconnecting player 8 finished.
+[07-09-26 14:09:38.537][info] Player 8 disconnecting....
+[07-09-26 14:09:38.537][info] Disconnecting player 8 finished.
+[07-09-26 14:09:43.497][info] Player 4 disconnecting....
+[07-09-26 14:09:43.497][info] Disconnecting player 4 finished.
+[07-09-26 14:09:43.497][info] Player 4 disconnecting....
+[07-09-26 14:09:43.497][info] Disconnecting player 4 finished.
+[07-09-26 14:11:10.118][info] Player 0 disconnecting....
+[07-09-26 14:11:10.118][info] Disconnecting player 0 finished.
+[07-09-26 14:11:10.118][info] Player 0 disconnecting....
+[07-09-26 14:11:10.118][info] Disconnecting player 0 finished.
