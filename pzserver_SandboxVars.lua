@@ -2088,7 +2088,7 @@ SandboxVars = {
     },
     AVCS = {
         AllowFaction = true,
-        AllowSafehouse = true,
+        AllowSafehouse = false,
         -- Min: 1 Max: 999 Default: 5
         MaxVehicle = 5,
         RequireTicket = true,
