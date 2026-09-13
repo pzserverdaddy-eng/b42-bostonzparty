@@ -1,5 +1,3 @@
--- NEW
-
 SandboxVars = {
     VERSION = 6,
     -- Changing this also sets the "Population Multiplier" in Advanced Zombie Options. Default = Normal
@@ -295,7 +293,7 @@ SandboxVars = {
     -- Containers with a number of items greater, or equal to, this setting will not respawn. Min: 0 Max: 2147483647 Default: 5
     MaxItemsForLootRespawn = 2147483647,
     -- Items will not respawn in buildings that players have barricaded or built in.
-    ConstructionPreventsLootRespawn = true,
+    ConstructionPreventsLootRespawn = false,
     -- A comma-separated list of item types that will be removed after HoursForWorldItemRemoval hours.
     WorldItemRemovalList = "Base.Hat, Base.Glasses, Base.Maggots, Base.Slug, Base.Slug2, Base.Snail, Base.Worm, Base.Dung_Mouse, Base.Dung_Rat",
     -- Number of hours since an item was dropped on the ground before it is removed.  Items are removed the next time that part of the map is loaded.   Zero means items are not removed. Min: 0.00 Max: 2147483647.00 Default: 24.00
@@ -1067,15 +1065,6 @@ SandboxVars = {
         -- Min: 0.00 Max: 1000.00 Default: 1.00
         Music = 1.0,
     },
-    RVAddon = {
-        CustomNormalVehicles = "",
-        CustomBusVehicles = "",
-        CustomSmallVehicles = "",
-        Custom3x2Caravan = "",
-        Custom3x6Caravan = "",
-        Custom3x7Empty = "",
-        Custom4x12colossal = "",
-    },
     PropaneExchangeCabinet = {
         Enabled = true,
         -- Min: 0 Max: 100 Default: 50
@@ -1440,6 +1429,12 @@ SandboxVars = {
         BraverySystem = true,
         -- Min: 0 Max: 10000000 Default: 14000
         BraverySystemKills = 14000,
+        -- Min: 0.00 Max: 100.00 Default: 2.00
+        BraverySystemMeleeKillValue = 2.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        BraverySystemFirearmKillValue = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        BraverySystemOtherKillValue = 1.0,
         BraverySystemRemovesOtherFearPerks = false,
         EatingSpeedSystem = true,
         -- Min: 0 Max: 10000000 Default: 216000
@@ -1550,7 +1545,7 @@ SandboxVars = {
         TraitsLockSystemCanLosePositive = true,
         TraitsLockSystemCanGainPositive = true,
         TraitsLockSystemCanLoseNegative = true,
-        TraitsLockSystemCanGainNegative = true,
+        TraitsLockSystemCanGainNegative = false,
         ThirstSystem = true,
         -- Min: 0.00 Max: 1.00 Default: 0.85
         ThirstSystemGainPositiveThreshold = 0.85,
@@ -1677,6 +1672,8 @@ SandboxVars = {
         NaturalEaterMentalRecoveryPercentOfHunger = 50.0,
         -- Min: 0.00 Max: 100.00 Default: 5.00
         NaturalEaterMaximumMentalRecoveryPercent = 5.0,
+        -- Min: 1 Max: 100000 Default: 3000
+        NaturalEaterFoodsEaten = 3000,
         -- Min: 0.10 Max: 10.00 Default: 0.50
         GourmandCookingTimeMultiplier = 0.5,
         -- Min: 0.10 Max: 10.00 Default: 2.00
@@ -1779,6 +1776,14 @@ SandboxVars = {
         Asthmatic = true,
         -- Min: 0 Max: 10000000 Default: 20000
         AsthmaticCounter = 20000,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        AsthmaticProgressGainMultiplier = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        AsthmaticProgressLossMultiplier = 1.0,
+        -- Min: -100.00 Max: 100.00 Default: 10.00
+        AsthmaticColdTemperatureThreshold = 10.0,
+        -- Min: -100.00 Max: 100.00 Default: 0.00
+        AsthmaticRecoveryTemperatureThreshold = 0.0,
         Bloodlust = true,
         -- Min: 0.00 Max: 10.00 Default: 1.00
         BloodlustFromAnimalsMultiplier = 1.0,
@@ -2005,6 +2010,43 @@ SandboxVars = {
         WoundSicknessRateMultiplier = 1.0,
         -- Min: 0.50 Max: 2.00 Default: 1.00
         ColdSicknessRateMultiplier = 1.0,
+    },
+    CHStatusHUD = {
+        RestrictStats = false,
+        AllowVerifyTool = false,
+        AllowHealth = true,
+        AllowFood = true,
+        AllowWater = true,
+        AllowRest = true,
+        AllowEndurance = true,
+        AllowFitness = true,
+        AllowStress = true,
+        AllowPanic = true,
+        AllowPain = true,
+        AllowUnhappy = true,
+        AllowBoredom = true,
+        AllowBodyTemp = true,
+        AllowAnger = true,
+        AllowMorale = true,
+        AllowNicotine = true,
+        AllowIdleness = true,
+        AllowSanity = true,
+        AllowHeatGen = true,
+        AllowWetness = true,
+        AllowDiscomfort = true,
+        AllowFoodSickness = true,
+        AllowPoison = true,
+        AllowSickness = true,
+        AllowInfection = true,
+        AllowFever = true,
+        AllowDrunk = true,
+        AllowCarry = true,
+        AllowBodyWeight = true,
+        AllowCalories = true,
+        AllowProteins = true,
+        AllowCarbs = true,
+        AllowLipids = true,
+        AllowThresholdTicks = true,
     },
     SVUC = {
         -- Min: 10 Max: 50 Default: 15
