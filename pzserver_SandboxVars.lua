@@ -514,7 +514,7 @@ SandboxVars = {
     -- 6 = Very Often
     LockedCar = 4,
     -- How gas-hungry vehicles are. Min: 0.00 Max: 100.00 Default: 1.00
-    CarGasConsumption = 1.0,
+    CarGasConsumption = 0.8,
     -- General condition discovered vehicles will be in. Default = Normal
     -- 1 = Very Low
     -- 2 = Low
@@ -1077,7 +1077,7 @@ SandboxVars = {
         FillWeightEmpty = 15,
         -- Min: 0 Max: 100 Default: 25
         MagazineChance = 25,
-        MagazineOnePerSave = true,
+        MagazineOnePerSave = false,
         RemoveNewCabinets = false,
     },
     KillCount = {
