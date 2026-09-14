@@ -295,7 +295,7 @@ SandboxVars = {
     -- Items will not respawn in buildings that players have barricaded or built in.
     ConstructionPreventsLootRespawn = false,
     -- A comma-separated list of item types that will be removed after HoursForWorldItemRemoval hours.
-    WorldItemRemovalList = "Base.Hat, Base.Glasses, Base.Maggots, Base.Slug, Base.Slug2, Base.Snail, Base.Worm, Base.Dung_Mouse, Base.Dung_Rat, Base.Sapling, Base.Twigs, Base.TreeBranch2, Base.Splinters",
+    WorldItemRemovalList = "Base.Hat, Base.Glasses, Base.Maggots, Base.Slug, Base.Slug2, Base.Snail, Base.Worm, Base.Dung_Mouse, Base.Dung_Rat, Base.Sapling, Base.Twigs, Base.TreeBranch2, Base.Splinters, Base.Pinecone",
     -- Number of hours since an item was dropped on the ground before it is removed.  Items are removed the next time that part of the map is loaded.   Zero means items are not removed. Min: 0.00 Max: 2147483647.00 Default: 24.00
     HoursForWorldItemRemoval = 24.0,
     -- If true, any items *not* in WorldItemRemovalList will be removed.
