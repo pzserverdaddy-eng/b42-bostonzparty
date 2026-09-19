@@ -765,7 +765,7 @@ SandboxVars = {
     BuildingCraftDivider4 = false,
     MenuNotStayingOnTop = false,
     BuildingCraftDisableMenu = false,
-    BuildingCraftRiver = false,
+    BuildingCraftRiver = true,
     BuildingCraftDivider3 = false,
     DisableBulbConversion = false,
     BuildingCraftDivider0 = false,
@@ -793,7 +793,7 @@ SandboxVars = {
     BuildingCraftDivider2 = false,
     BuildingCraftMaterialChange = true,
     -- Min: 0 Max: 100 Default: 2
-    BuildingWallPaintConsumption = 2,
+    BuildingWallPaintConsumption = 1,
     -- Min: 0 Max: 100 Default: 2
     BuildingHightScrapMetalConsumption = 2,
     -- Min: 0 Max: 100 Default: 0
