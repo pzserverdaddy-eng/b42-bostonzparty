@@ -766,6 +766,8 @@ SandboxVars = {
     MenuNotStayingOnTop = false,
     BuildingCraftDisableMenu = false,
     BuildingCraftRiver = true,
+    BuildingCraftDisableTree = false,
+    BuildingCraftReplaceableRVWalls = true,
     BuildingCraftDivider3 = false,
     DisableBulbConversion = false,
     BuildingCraftDivider0 = false,
@@ -1091,6 +1093,56 @@ SandboxVars = {
     UnifiedCarryWeightFramework = {
         CapWeight = true,
         GatherDetailedDebug = false,
+    },
+    LifeBoardPlus = {
+        ShowPlayerJoinLeaveChat = false,
+        EnableBountyBoard = true,
+        -- Min: 1 Max: 1440 Default: 1
+        Cooldown = 1,
+        -- Min: 240 Max: 900 Default: 360
+        UiWidth = 360,
+        UiAutoSize = true,
+        -- Min: 200 Max: 900 Default: 520
+        UiMaxHeight = 520,
+        ShowLiveServerKills = true,
+        -- Min: 0 Max: 2147483647 Default: 0
+        ServerKillGoal = 0,
+        KillCounterLabel = "Server Kills:",
+        ShowGoalPercentage = true,
+        -- Min: 0 Max: 10000000 Default: 0
+        KillGoal = 0,
+        -- Min: 5 Max: 300 Default: 120
+        ClientUpdateRate = 120,
+        -- Min: 5 Max: 300 Default: 120
+        ServerUpdateRate = 120,
+        -- Min: 1 Max: 3600 Default: 120
+        BoardRefreshRate = 120,
+        -- Min: 0 Max: 3650 Default: 14
+        LeaderboardInactiveDays = 14,
+        -- Min: 120 Max: 3600 Default: 120
+        AuditPollRate = 120,
+        -- Min: 60 Max: 3600 Default: 120
+        PermissionAuditRate = 120,
+        -- Min: 5 Max: 30 Default: 15
+        DeathCorpseRadius = 15,
+        -- Min: 100 Max: 10000 Default: 2000
+        MaxAuditLinesPerPoll = 2000,
+        -- Min: 1 Max: 365 Default: 1
+        AdminAuditRetentionDays = 1,
+        -- Min: 1 Max: 365 Default: 30
+        SuspectAuditRetentionDays = 30,
+        -- Min: 50 Max: 5000 Default: 500
+        AdminLogMaxEntries = 500,
+        -- Min: 10 Max: 200 Default: 40
+        AdminLogChunkSize = 40,
+        -- Min: 50 Max: 5000 Default: 500
+        SuspectLogMaxEntries = 500,
+        -- Min: 10 Max: 200 Default: 40
+        SuspectLogChunkSize = 40,
+        -- Min: 50 Max: 2000 Default: 250
+        DeathLogMaxEntries = 250,
+        -- Min: 50 Max: 2000 Default: 250
+        PvpLogMaxEntries = 250,
     },
     MorePlushies = {
         Loot = 3,
@@ -1466,11 +1518,15 @@ SandboxVars = {
         IdealWeightProgressGainMultiplier = 1.0,
         -- Min: 0.00 Max: 100.00 Default: 1.00
         IdealWeightProgressLossMultiplier = 1.0,
-        Blissful = true,
+        MentalStateSystem = true,
         -- Min: 0.00 Max: 1.00 Default: 0.90
-        BlissfulGainThreshold = 0.9,
+        MentalStateSystemBlissfulGainThreshold = 0.9,
         -- Min: 0.00 Max: 1.00 Default: 0.80
-        BlissfulLoseThreshold = 0.8,
+        MentalStateSystemBlissfulLoseThreshold = 0.8,
+        -- Min: 0.00 Max: 1.00 Default: 0.35
+        MentalStateSystemDepressiveLoseThreshold = 0.35,
+        -- Min: 0.00 Max: 1.00 Default: 0.20
+        MentalStateSystemDepressiveGainThreshold = 0.2,
         FoodSystem = true,
         -- Min: 0.00 Max: 1.00 Default: 0.82
         FoodSystemGainPositiveThreshold = 0.82,
@@ -1540,6 +1596,8 @@ SandboxVars = {
         -- Min: 0 Max: 10000000 Default: 10000
         ReaderSystemCounter = 10000,
         SleepSystem = true,
+        -- Min: 1 Max: 10000000 Default: 300
+        SleepSystemCounter = 300,
         -- Min: 0.00 Max: 100.00 Default: 1.00
         SleepSystemMultiplier = 1.0,
         TraitsLockSystemCanLosePositive = true,
@@ -1563,6 +1621,8 @@ SandboxVars = {
         -- Min: 1.00 Max: 10.00 Default: 2.00
         InjuredWoundTimeMultiplier = 2.0,
         -- Min: 1.00 Max: 10.00 Default: 2.00
+        BurnWardPatientBurnTimeMultiplier = 2.0,
+        -- Min: 1.00 Max: 10.00 Default: 2.00
         BrokenLegFractureTimeMultiplier = 2.0,
         -- Min: 0.00 Max: 10.00 Default: 0.10
         DeprivedUnhappinessPerMinute = 0.1,
@@ -1572,8 +1632,8 @@ SandboxVars = {
         AntiGunAimingTimeMultiplier = 0.8,
         -- Min: 0 Max: 200 Default: 25
         TerminatorDamageBonusPercent = 25,
-        -- Min: 0.00 Max: 10.00 Default: 2.00
-        TerminatorAimingTimeMultiplier = 2.0,
+        -- Min: 0.01 Max: 1.00 Default: 0.50
+        TerminatorAimingTimeMultiplier = 0.5,
         -- Min: 0.00 Max: 100.00 Default: 5.00
         TerminatorMaxRangeBonus = 5.0,
         -- Min: 0.00 Max: 1.00 Default: 0.50
@@ -1709,8 +1769,10 @@ SandboxVars = {
         UnwaveringMaximumDamageMultiplier = 2.0,
         -- Min: 0.00 Max: 100.00 Default: 0.50
         PackMouseWeight = 0.5,
-        -- Min: 0.00 Max: 1000.00 Default: 20.00
+        -- Min: 0.00 Max: 1000.00 Default: 50.00
         PackMuleMaxCapacityPercent = 20.0,
+        -- Min: 0.00 Max: 10.00 Default: 1.00
+        FireTraitsEffectMultiplier = 1.0,
         -- Min: 0.00 Max: 100.00 Default: 1.00
         ParanoiaBaseChancePercent = 1.0,
         -- Min: 0.00 Max: 100.00 Default: 2.00
@@ -1910,6 +1972,11 @@ SandboxVars = {
         GunEnthusiastSkill = 12,
         -- Min: 0 Max: 10000000 Default: 600
         GunEnthusiastKills = 600,
+        Terminator = true,
+        -- Min: 0 Max: 30 Default: 27
+        TerminatorSkill = 27,
+        -- Min: 0 Max: 10000000 Default: 1600
+        TerminatorKills = 1600,
         Gymnast = true,
         -- Min: 0 Max: 20 Default: 15
         GymnastSkill = 15,
@@ -1922,9 +1989,9 @@ SandboxVars = {
         Hiker = true,
         -- Min: 0 Max: 20 Default: 10
         HikerSkill = 10,
-        Hoarder = true,
-        -- Min: 0 Max: 10000000 Default: 30000
-        HoarderCounter = 30000,
+        CarryWeightSystem = true,
+        -- Min: 0 Max: 10000000 Default: 100000
+        CarryWeightCounter = 100000,
         HomeCook = true,
         -- Min: 0 Max: 10 Default: 4
         HomeCookSkill = 4,
@@ -1962,6 +2029,28 @@ SandboxVars = {
         PolearmFighterSkill = 4,
         -- Min: 0 Max: 10000000 Default: 200
         PolearmFighterKills = 200,
+        -- Min: 1.00 Max: 10.00 Default: 1.20
+        ProwessStackingKillScaling = 1.2,
+        ProwessBlade = true,
+        -- Min: 0 Max: 30 Default: 27
+        ProwessBladeSkill = 27,
+        -- Min: 0 Max: 10000000 Default: 2400
+        ProwessBladeKills = 2400,
+        ProwessBlunt = true,
+        -- Min: 0 Max: 20 Default: 18
+        ProwessBluntSkill = 18,
+        -- Min: 0 Max: 10000000 Default: 1600
+        ProwessBluntKills = 1600,
+        ProwessGuns = true,
+        -- Min: 0 Max: 20 Default: 18
+        ProwessGunsSkill = 18,
+        -- Min: 0 Max: 10000000 Default: 1600
+        ProwessGunsKills = 1600,
+        ProwessSpear = true,
+        -- Min: 0 Max: 10 Default: 9
+        ProwessSpearSkill = 9,
+        -- Min: 0 Max: 10000000 Default: 800
+        ProwessSpearKills = 800,
         Quiet = true,
         -- Min: 0 Max: 20 Default: 12
         QuietSkill = 12,
@@ -1977,6 +2066,11 @@ SandboxVars = {
         Olympian = true,
         -- Min: 0 Max: 10000000 Default: 2880
         OlympianCounter = 2880,
+        NoodleLegs = true,
+        -- Min: 0 Max: 30 Default: 24
+        NoodleLegsSkill = 24,
+        -- Min: 0 Max: 10000000 Default: 30000
+        NoodleLegsDistance = 30000,
         Sewer = true,
         -- Min: 0 Max: 10 Default: 4
         SewerSkill = 4,
@@ -1999,6 +2093,23 @@ SandboxVars = {
         Whittler = true,
         -- Min: 0 Max: 10 Default: 4
         WhittlerSkill = 4,
+    },
+    ArcadiaQOLSafehouse = {
+        ShowAllPlayersOnMiniMap = true,
+        FixMapAllKnownVisibility = true,
+        ShowDiscoveredMiniMap = true,
+        EnableMultiSafehouseMembers = true,
+        -- Min: 1 Max: 20 Default: 3
+        MaxOwnedSafehouses = 3,
+        AllowAdminSafehouseLimitOverride = true,
+        EnableSafehouseRespawnPicker = true,
+        EnableCustomClaimManagement = true,
+        EnableOfflineFactionAdds = true,
+        -- Min: 1 Max: 365 Default: 30
+        ClosedSafehouseRequestRetentionDays = 30,
+        EnableOnlinePlayersPanel = true,
+        EnableSocialAnimations = true,
+        EnableDirectMessages = true,
     },
     ProximityInventory = {
         ZombieOnly = false,
@@ -2213,6 +2324,7 @@ SandboxVars = {
         HygieneNeedExpectationTime = 2,
         CleansMakeup = true,
         NotEmbarrassed = false,
+        CleanClogged = false,
         ColdSeverity = 2,
         -- Min: 0.00 Max: 3.00 Default: 0.00
         ColdChanceMultiplier = 0.0,
