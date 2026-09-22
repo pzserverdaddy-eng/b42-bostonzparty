@@ -909,7 +909,7 @@ SandboxVars = {
         -- If zombies that have not seen/heard player can attack doors and constructions while roaming.
         ThumpNoChasing = false,
         -- If zombies can destroy player constructions and defenses.
-        ThumpOnConstruction = true,
+        ThumpOnConstruction = false,
         -- Whether zombies are more "active" during the day or night.  "Active" zombies will use the speed set in the "Speed" setting.  "Inactive" zombies will be slower, and tend not to give chase. Default = Both
         -- 1 = Both
         -- 2 = Night
