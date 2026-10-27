@@ -2605,7 +2605,7 @@ SandboxVars = {
         BladderNeedMultiplier = 1.0,
         HygieneNeedExpectationTime = 2,
         CleansMakeup = true,
-        NotEmbarrassed = false,
+        NotEmbarrassed = true,
         CleanClogged = false,
         ColdSeverity = 2,
         -- Min: 0.00 Max: 3.00 Default: 0.00
