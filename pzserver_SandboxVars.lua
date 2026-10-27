@@ -1200,6 +1200,9 @@ SandboxVars = {
         directional = true,
         debug = false,
     },
+    BFBackpackAttachment = {
+        enabled = false,
+    },
     BecomeDesensitized = {
         -- Min: 1 Max: 10000 Default: 1000
         MinimumZombieKills = 1000,
@@ -1612,6 +1615,7 @@ SandboxVars = {
         HemophobicDebuff = 10,
         AllowScalpelDegrade = false,
         AllowSawDegrade = true,
+        AllowBodyCompostage = true,
         StartingKit = true,
     },
     EvolvingTraitsWorld = {
@@ -2372,9 +2376,11 @@ SandboxVars = {
     ExpandedMoodles = {
         -- Min: 0.00 Max: 3.00 Default: 1.00
         SicknessSeverity = 1.0,
-        -- Min: 0.50 Max: 2.00 Default: 1.00
+        EnableHeavyLoadFractures = true,
+        EnableForcedPassOut = true,
+        -- Min: 0.00 Max: 2.00 Default: 1.00
         WoundSicknessRateMultiplier = 1.0,
-        -- Min: 0.50 Max: 2.00 Default: 1.00
+        -- Min: 0.00 Max: 2.00 Default: 1.00
         ColdSicknessRateMultiplier = 1.0,
     },
     CHStatusHUD = {
@@ -2529,6 +2535,14 @@ SandboxVars = {
         ConvertVanilla = false,
         RevertVanilla = false,
     },
+    FcknSpldrV5 = {
+        -- Min: 0.00 Max: 1000.00 Default: 1.00
+        LootBetaVRare = 1.0,
+        -- Min: 0.00 Max: 100.00 Default: 1.00
+        LootBetaRare = 1.0,
+        -- Min: 0.00 Max: 10.00 Default: 1.00
+        LootBetaCommon = 1.0,
+    },
     Text = {
         DividerMusicNew = true,
         DividerDancingNew = true,
@@ -2591,7 +2605,7 @@ SandboxVars = {
         BladderNeedMultiplier = 1.0,
         HygieneNeedExpectationTime = 2,
         CleansMakeup = true,
-        NotEmbarrassed = true,
+        NotEmbarrassed = false,
         CleanClogged = false,
         ColdSeverity = 2,
         -- Min: 0.00 Max: 3.00 Default: 0.00
@@ -2626,7 +2640,7 @@ SandboxVars = {
     },
     Debug = {
         MoodlePriority = false,
-        Expressions = true,
+        Expressions = false,
         DanceAnim = false,
         LSVerbose = false,
     },
